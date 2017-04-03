@@ -22,6 +22,11 @@ Plugins, tools and resources to speed up your WordPress site.
 * [Vendi Cache](https://wordpress.org/plugins/vendi-cache/) - Vendi Cache takes your slow database-driven pages and turns them into very fast static HTML files.
 * [WP Rocket](https://wp-rocket.me/) - Your website at lightspeed.
 * [W3 Total Cache Fixed](https://github.com/szepeviktor/w3-total-cache-fixed) - A community driven build of W3 Total Cache. The aim is to continuously incorporate fixes, improvements, and enhancements over the official WordPress release of W3 Total Cache.
+* [WP-FFPC](https://wordpress.org/plugins/wp-ffpc/) - WP-FFPC is a cache plugin for WordPress.
+
+## Object Caching Plugins
+* [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must. 
+* [Memcached Redux](https://wordpress.org/plugins/memcached-redux/) - Changes the famous Memcached WP Object Cache backend to actually use the Memcached class (not the Memcache class).
 
 ## Minification Plugins
 * [Autoptimize](https://wordpress.org/plugins/autoptimize/) - Autoptimize makes optimizing your site really easy. It concatenates all scripts and styles, minifies and compresses them, adds expires headers, caches them, and moves styles to the page head and can move scripts to the footer.
@@ -31,6 +36,8 @@ Plugins, tools and resources to speed up your WordPress site.
 * [CDN Enabler](https://wordpress.org/plugins/cdn-enabler/) - A content delivery network (CDN) is a network of distributed edge servers, which accelerate your content around the globe. The main benefits of a CDN are scalability, reliability and performance.
 * [Cloudflare](https://wordpress.org/plugins/cloudflare/) - The easiest way to setup Cloudflare for your WordPress site.
 * [DreamSpeed CDN](https://wordpress.org/plugins/dreamspeed-cdn/) - This plugin will automatically copy images, videos, documents, and any other media added through WordPress’ media uploader to DreamSpeed.
+* [Full Site Cache for KeyCDN](https://wordpress.org/plugins/full-site-cache-kc/) - This plugin can help you to use KeyCDN on your WordPress, not only your Media and CSS, but also all HTML page.
+* [Full Site Cache for CloudFront](https://wordpress.org/plugins/full-site-cache-cf/) - If you blog are using CloudFront on the main WordPress domain (e.g. www.example.com), and you want to cache HTML page for not logged in user.
 * [Cloudinary](https://wordpress.org/plugins/cloudinary-image-management-and-manipulation-in-the-cloud-cdn/) - With Cloudinary, all your images are automatically uploaded, normalized, optimized and backed-up in the cloud instead of being hosted on your servers.
 
 ## Image Optimization Plugins
