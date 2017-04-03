@@ -1,6 +1,14 @@
 # awesome-wp-speed-up
 Plugins, tools and resources to speed up your WordPress site.
 
+## Table Of Contents
+* [Page Caching Plugins](#modules)
+* [Minification Plugins](#custom-field-types)
+* [CDN Integration Plugins](#add-on-plugins)
+* [Image Optimization Plugins](#layouts)
+* [Lazy Loading Plugins](#beaver-builder-friendly-themes)
+* [Reduce HTTP Requests on Load Plugins](#common-snippets)
+
 ## Page Caching Plugins
 * [WP Fastest Cache](https://wordpress.org/plugins/wp-fastest-cache/) - This plugin creates static html files from your dynamic WordPress blog.
 * [WP Super Cache](https://wordpress.org/plugins/wp-super-cache/) - This plugin generates static html files from your dynamic WordPress blog. After a html file is generated your webserver will serve that file instead of processing the comparatively heavier and more expensive WordPress PHP scripts.
