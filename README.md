@@ -8,6 +8,7 @@ Plugins, tools and resources to speed up your WordPress site.
 * [Image Optimization Plugins](#image-optimization-plugins)
 * [Lazy Loading Plugins](#lazy-loading-plugins)
 * [Reduce HTTP Requests on Load Plugins](#reduce-http-requests-on-load-plugins)
+* [Database Optimization Plugins](#reduce-http-requests-on-load-plugins)
 
 ## Page Caching Plugins
 * [WP Fastest Cache](https://wordpress.org/plugins/wp-fastest-cache/) - This plugin creates static html files from your dynamic WordPress blog.
@@ -53,3 +54,7 @@ Plugins, tools and resources to speed up your WordPress site.
 * [Disable Embeds](https://wordpress.org/plugins/disable-embeds/) - Disable Embeds
 * [Disable Custom CSS](https://wordpress.org/plugins/disable-custom-css/) - This plugin automatically disables frontend database query for Custom CSS and Customizer section for setting Custom CSS, without need to manually choose any setting or option.
 * [WP Disable](https://wordpress.org/plugins/wp-disable/) - Reduce HTTP requests - Disable Emojis, Disable Gravatars, Disable Embeds and Remove Querystrings. Added support to disable pingbacks, disable trackbacks, close comments after 28 days, Added the ability to force pagingation after 20 posts, Disable WooCommerce scripts and CSS on non WooCommerce Pages, Disable RSS, Disable XML-RPC, Disable Autosave, Remove Windows Live Writer tag, Remove Shortlink Tag, Remove WP API from header
+
+## Database Optimization Plugins
+* [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
+* [WP-Sweep](https://wordpress.org/plugins/wp-sweep/) - WP-Sweep allows you to clean up unused, orphaned and duplicated data in your WordPress. It also optimizes your database tables.
