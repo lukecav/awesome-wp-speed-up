@@ -67,6 +67,7 @@ Plugins and resources to speed up and optimize your WordPress site
 * [Lazy Load for Comments](https://wordpress.org/plugins/lazy-load-for-comments/) - Lazy load WordPress default commenting system without any complex configurations. 
 
 ## Reduce HTTP Requests on Load Plugins
+* [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/) - Allows you to easily manage the frequency of the WordPress heartbeat API with just a few dropdowns.
 * [Disable Emoji](https://wordpress.org/plugins/disable-emojis/) - This plugin disables the new WordPress emoji functionality.
 * [Disable Embeds](https://wordpress.org/plugins/disable-embeds/) - Disable Embeds
 * [Disable Custom CSS](https://wordpress.org/plugins/disable-custom-css/) - This plugin automatically disables frontend database query for Custom CSS and Customizer section for setting Custom CSS, without need to manually choose any setting or option.
