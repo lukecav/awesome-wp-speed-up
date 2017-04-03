@@ -24,6 +24,7 @@ Plugins to speed up your WordPress site.
 * [WP Rocket](https://wp-rocket.me/) - Your website at lightspeed.
 * [W3 Total Cache Fixed](https://github.com/szepeviktor/w3-total-cache-fixed) - A community driven build of W3 Total Cache. The aim is to continuously incorporate fixes, improvements, and enhancements over the official WordPress release of W3 Total Cache.
 * [WP-FFPC](https://wordpress.org/plugins/wp-ffpc/) - WP-FFPC is a cache plugin for WordPress.
+* [Cachify](https://wordpress.org/plugins/cachify/) - Cachify optimizes your page loads by caching posts, pages and custom post types as static content.
 
 ## Object Caching Plugins
 * [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must. 
