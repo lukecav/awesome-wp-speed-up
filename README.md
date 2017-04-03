@@ -12,6 +12,7 @@ Plugins to speed up and optimize your WordPress site.
 * [Database Optimization Plugins](#database-optimization-plugins)
 * [Slow Query and Debugging Plugins](#slow-query-and-debugging-plugins)
 * [NGNIX and Varnish Control Plugins](#ngnix-and-varnish-control-plugins)
+* [Performance Benchmarking Sites](#performance-benchmarking-sites)
 
 ## Page Caching Plugins
 * [WP Fastest Cache](https://wordpress.org/plugins/wp-fastest-cache/) - This plugin creates static html files from your dynamic WordPress blog.
