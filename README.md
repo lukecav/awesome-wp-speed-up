@@ -1,5 +1,5 @@
 # awesome-wp-speed-up
-Plugins, tools and resources to speed up your WordPress site.
+Plugins to speed up your WordPress site.
 
 ## Table Of Contents
 * [Page Caching Plugins](#page-caching-plugins)
