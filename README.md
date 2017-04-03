@@ -8,7 +8,7 @@ Plugins, tools and resources to speed up your WordPress site.
 * [Image Optimization Plugins](#image-optimization-plugins)
 * [Lazy Loading Plugins](#lazy-loading-plugins)
 * [Reduce HTTP Requests on Load Plugins](#reduce-http-requests-on-load-plugins)
-* [Database Optimization Plugins](#reduce-http-requests-on-load-plugins)
+* [Database Optimization Plugins](#database-optimization-plugins)
 
 ## Page Caching Plugins
 * [WP Fastest Cache](https://wordpress.org/plugins/wp-fastest-cache/) - This plugin creates static html files from your dynamic WordPress blog.
