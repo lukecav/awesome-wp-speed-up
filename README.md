@@ -3,6 +3,7 @@ Plugins, tools and resources to speed up your WordPress site.
 
 ## Table Of Contents
 * [Page Caching Plugins](#page-caching-plugins)
+* [Object Caching Plugins](#object-caching-plugins)
 * [Minification Plugins](#minification-plugins)
 * [CDN Integration Plugins](#cdn-integration-plugins)
 * [Image Optimization Plugins](#image-optimization-plugins)
