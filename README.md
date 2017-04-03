@@ -2,12 +2,12 @@
 Plugins, tools and resources to speed up your WordPress site.
 
 ## Table Of Contents
-* [Page Caching Plugins](#modules)
-* [Minification Plugins](#custom-field-types)
-* [CDN Integration Plugins](#add-on-plugins)
-* [Image Optimization Plugins](#layouts)
-* [Lazy Loading Plugins](#beaver-builder-friendly-themes)
-* [Reduce HTTP Requests on Load Plugins](#common-snippets)
+* [Page Caching Plugins](#page-caching-plugins)
+* [Minification Plugins](#minification-plugins)
+* [CDN Integration Plugins](#cdn-integration-plugins)
+* [Image Optimization Plugins](#image-optimization-plugins)
+* [Lazy Loading Plugins](#lazy-loading-plugins)
+* [Reduce HTTP Requests on Load Plugins](#reduce-http-requests-on-load-plugins)
 
 ## Page Caching Plugins
 * [WP Fastest Cache](https://wordpress.org/plugins/wp-fastest-cache/) - This plugin creates static html files from your dynamic WordPress blog.
