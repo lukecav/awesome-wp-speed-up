@@ -67,3 +67,7 @@ Plugins to speed up your WordPress site.
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
 * [WP-Sweep](https://wordpress.org/plugins/wp-sweep/) - WP-Sweep allows you to clean up unused, orphaned and duplicated data in your WordPress. It also optimizes your database tables.
+
+Hope this was helpful.
+
+For any missing resources, please add them as issues. https://github.com/lukecav/awesome-wp-speed-up/issues
