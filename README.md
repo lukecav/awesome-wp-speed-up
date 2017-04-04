@@ -13,6 +13,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Database Optimization Plugins](#database-optimization-plugins)
 * [Slow Query and Debugging Plugins](#slow-query-and-debugging-plugins)
 * [NGNIX and Varnish Control Plugins](#ngnix-and-varnish-control-plugins)
+* [Caching Helper Plugins](#ngnix-and-varnish-control-plugins)
 * [Performance Benchmarking Sites](#performance-benchmarking-sites)
 * [Further Reading](#further-reading)
 
@@ -95,6 +96,9 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Varnish HTTP Purge](https://wordpress.org/plugins/varnish-http-purge/) - Varnish HTTP Purge sends a PURGE request to the URL of a page or post every time it it modified.
 * [WP Super Cache nginx.conf example](https://github.com/vstoykovbg/nginx.conf-examples/blob/master/wp-super-cache-nginx.conf.md) - Example configuration for Nginx and WordPress with WP Super Cache plugin.
 * [Rocket-Nginx](https://github.com/maximejobin/rocket-nginx) - Rocket-Nginx is a Nginx configuration for the WordPress cache plugin WP-Rocket.
+
+## Caching Helping Plugins
+* [WP Rocket Helpers](https://github.com/wp-media/wp-rocket-helpers) - This repository hosts a number of helper plugins that target some specific use cases for WP Rocket.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
