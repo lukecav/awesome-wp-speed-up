@@ -4,6 +4,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 ## Table Of Contents
 * [Page Caching Plugins](#page-caching-plugins)
 * [Object Caching Plugins](#object-caching-plugins)
+* [Fragment Caching Plugins](#fragment-caching-plugins)
 * [Browser Caching Plugins](#browser-caching-plugins)
 * [Minification Plugins](#minification-plugins)
 * [CDN Integration Plugins](#cdn-integration-plugins)
@@ -36,6 +37,10 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must. 
 * [Memcached Redux](https://wordpress.org/plugins/memcached-redux/) - Changes the famous Memcached WP Object Cache backend to actually use the Memcached class (not the Memcache class).
 * [APCu Object Cache Backend](https://wordpress.org/plugins/apcu/) - Using this Plugin WordPress is able to store certain regular used elements into a persistent cache.
+
+## Fragment Caching Plugins
+* [Fragment Cache](https://github.com/Rarst/fragment-cache) - Fragment Cache is a WordPress plugin for partial and async caching of heavy front-end elements. It currently supports caching navigation menus, widgets, and galleries.
+* [Blunt Cache](https://wordpress.org/plugins/blunt-cache/) - Blunt Cache is a persistent fragment and object cache for those of us that cannot use full page caching.
 
 ## Browser Caching Plugins
 * [Speed Up – Browser Caching](https://wordpress.org/plugins/speed-up-browser-caching/) - This small plugin (10 Kb) enables browser caching in your Apache web server and help browser to cache a local copy of static files and improve page load times. 
