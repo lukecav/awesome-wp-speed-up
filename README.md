@@ -1,5 +1,5 @@
 # awesome-wp-speed-up
-Plugins and resources to speed up and optimize your WordPress site
+Plugins and resources to speed up and optimize your WordPress site.
 
 ## Table Of Contents
 * [Page Caching Plugins](#page-caching-plugins)
@@ -42,6 +42,8 @@ Plugins and resources to speed up and optimize your WordPress site
 ## CDN Integration Plugins
 * [CDN Enabler](https://wordpress.org/plugins/cdn-enabler/) - A content delivery network (CDN) is a network of distributed edge servers, which accelerate your content around the globe. The main benefits of a CDN are scalability, reliability and performance.
 * [Cloudflare](https://wordpress.org/plugins/cloudflare/) - The easiest way to setup Cloudflare for your WordPress site.
+* [Fastly](https://wordpress.org/plugins/fastly/) - Using this plugin means you won’t have to purge content in Fastly when you make changes to your WordPress content. Purges will automatically happen with no need for manual intervention.
+* [Purgely](https://github.com/CondeNast/purgely) - Purgely manages caching and purging behavior for WordPress sites using the Fastly edge caching services. The plugin sets up default behaviors based on best practices for WordPress websites.
 * [DreamSpeed CDN](https://wordpress.org/plugins/dreamspeed-cdn/) - This plugin will automatically copy images, videos, documents, and any other media added through WordPress’ media uploader to DreamSpeed.
 * [Full Site Cache for KeyCDN](https://wordpress.org/plugins/full-site-cache-kc/) - This plugin can help you to use KeyCDN on your WordPress, not only your Media and CSS, but also all HTML page.
 * [Full Site Cache for CloudFront](https://wordpress.org/plugins/full-site-cache-cf/) - If you blog are using CloudFront on the main WordPress domain and you want to cache HTML page for not logged in user.
@@ -72,6 +74,7 @@ Plugins and resources to speed up and optimize your WordPress site
 * [Disable Emoji](https://wordpress.org/plugins/disable-emojis/) - This plugin disables the new WordPress emoji functionality.
 * [Disable Embeds](https://wordpress.org/plugins/disable-embeds/) - Disable Embeds
 * [Disable Custom CSS](https://wordpress.org/plugins/disable-custom-css/) - This plugin automatically disables frontend database query for Custom CSS and Customizer section for setting Custom CSS, without need to manually choose any setting or option.
+* [Query Strings Remover](https://wordpress.org/plugins/query-strings-remover/) - Query Strings Remover removes query strings from your static resources like CSS and JavaScript files.
 * [WP Disable](https://wordpress.org/plugins/wp-disable/) - Reduce HTTP requests - Disable Emojis, Disable Gravatars, Disable Embeds and Remove Querystrings. Added support to disable pingbacks, disable trackbacks, close comments after 28 days, Added the ability to force pagingation after 20 posts, Disable WooCommerce scripts and CSS on non WooCommerce Pages, Disable RSS, Disable XML-RPC, Disable Autosave, Remove Windows Live Writer tag, Remove Shortlink Tag, Remove WP API from header
 
 ## Database Optimization Plugins
