@@ -13,7 +13,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Database Optimization Plugins](#database-optimization-plugins)
 * [Slow Query and Debugging Plugins](#slow-query-and-debugging-plugins)
 * [NGNIX and Varnish Control Plugins](#ngnix-and-varnish-control-plugins)
-* [Caching Helper Plugins](#ngnix-and-varnish-control-plugins)
+* [Caching Helper Plugins](#caching-helping-plugins)
 * [Performance Benchmarking Sites](#performance-benchmarking-sites)
 * [Further Reading](#further-reading)
 
