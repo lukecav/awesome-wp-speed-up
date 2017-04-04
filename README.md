@@ -4,6 +4,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 ## Table Of Contents
 * [Page Caching Plugins](#page-caching-plugins)
 * [Object Caching Plugins](#object-caching-plugins)
+* [Browser Caching Plugins](#browser-caching-plugins)
 * [Minification Plugins](#minification-plugins)
 * [CDN Integration Plugins](#cdn-integration-plugins)
 * [Image Optimization Plugins](#image-optimization-plugins)
@@ -34,6 +35,10 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must. 
 * [Memcached Redux](https://wordpress.org/plugins/memcached-redux/) - Changes the famous Memcached WP Object Cache backend to actually use the Memcached class (not the Memcache class).
 * [APCu Object Cache Backend](https://wordpress.org/plugins/apcu/) - Using this Plugin WordPress is able to store certain regular used elements into a persistent cache.
+
+## Browser Caching Plugins
+* [Speed Up – Browser Caching](https://wordpress.org/plugins/speed-up-browser-caching/) - This small plugin (10 Kb) enables browser caching in your Apache web server and help browser to cache a local copy of static files and improve page load times. 
+* [WP Performance Score Booster](https://wordpress.org/plugins/wp-performance-score-booster/) - This plugin speed-up page load times and improve website scores in services like PageSpeed, YSlow, Pingdom and GTmetrix.
 
 ## Minification Plugins
 * [Autoptimize](https://wordpress.org/plugins/autoptimize/) - Autoptimize makes optimizing your site really easy. It concatenates all scripts and styles, minifies and compresses them, adds expires headers, caches them, and moves styles to the page head and can move scripts to the footer.
