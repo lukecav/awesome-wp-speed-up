@@ -121,6 +121,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Batch Optimize JPG Lossy Linux Command Line with jpeg-recompress](https://guides.wp-bullet.com/batch-optimize-jpg-lossy-linux-command-line-with-jpeg-recompress/) - Optimizing your images can feel like black magic sometimes. The safest JPG compression is lossless meaning no quality loss (guide), lossy compression has far superior space savings.
 * [Cache AJAX GET Requests with Cloudflare and Varnish](https://guides.wp-bullet.com/cache-ajax-get-requests-with-cloudflare-and-varnish/) - AJAX requests are typically used to provide dynamic content on WordPress sites and bypass cache. I have already shown how to Cache AJAX requests with Varnish to bypass PHP and MySQL for AJAX processing by storing the cache in Varnish.
 * [How to Diagnose High Admin-Ajax Usage on Your WordPress Site](https://kinsta.com/blog/admin-ajax/) - A very common scenario when dealing with WordPress is diagnosing high admin-ajax.php usage. If you have been working with WordPress for a while, you have most likely encountered this when running speed tests or checking your server access logs.
+* [How to Enable GZIP Compression in WordPress](https://kinsta.com/knowledgebase/enable-gzip-compression/) - To achieve fast load times on your WordPress site, decreasing the size of your pages is crucial. This can mean the difference between a site that loads in under 1 second and one that feels like its crawling.
 
 Hope this was helpful.
 
