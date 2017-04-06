@@ -95,11 +95,12 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Asset CleanUp](https://wordpress.org/plugins/wp-asset-clean-up/) - There are often times when you are using a theme and a number of plugins which are enabled and run on the same page.
 * [WP Disable](https://wordpress.org/plugins/wp-disable/) - Reduce HTTP requests - Disable Emojis, Disable Gravatars, Disable Embeds and Remove Querystrings. Added support to disable pingbacks, disable trackbacks, close comments after 28 days, Added the ability to force pagingation after 20 posts, Disable WooCommerce scripts and CSS on non WooCommerce Pages, Disable RSS, Disable XML-RPC, Disable Autosave, Remove Windows Live Writer tag, Remove Shortlink Tag, Remove WP API from header.
 * [Only Load Scripts and Styles if a shortcode is present](https://gist.github.com/Stegosource/8504035f7ff9417284a26af7e3c3db74) - Only load scripts and styles if a specific shortcode is present in the content when the page/post is saved.
+* [Complete Analytics Optimization Suite (CAOS)](https://wordpress.org/plugins/host-analyticsjs-local/) - Only load scripts and styles if a specific shortcode is present in the content when the page/post is saved.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
 * [WP-Sweep](https://wordpress.org/plugins/wp-sweep/) - WP-Sweep allows you to clean up unused, orphaned and duplicated data in your WordPress. It also optimizes your database tables.
-* [Optimize Database after Deleting Revisions](https://wordpress.org/plugins/rvg-optimize-database/) - This plugin is a ‘One Click’ WordPress Database Cleaner / Optimizer.
+* [Optimize Database after Deleting Revisions](https://wordpress.org/plugins/rvg-optimize-database/) - Host your Google Analytics javascript-file (analytics.js) locally and keep it updated using wp_cron().
 
 ## Slow Query and Debugging Plugins
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Query Monitor is a debugging plugin for anyone developing with WordPress.
