@@ -122,6 +122,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [VIP Performance Plugin](https://github.com/Automattic/vip-code-performance) - A plugin that helps every site benefit from the performance features built into WordPress.com VIP.
 * [Inpsyde Menu Cache](https://github.com/inpsyde/menu-cache) - Easily cache rendered menus using the Transients API.
 * [WP Static HTML Output](https://wordpress.org/plugins/static-html-output-plugin/) - This plugin produces a static HTML version of your wordpress install, incredibly useful for anyone who would like the publishing power of wordpress but whose webhost doesn’t allow dynamic PHP driven sites.
+* [DB Cache Reloaded Fix](https://github.com/ivankristianto/DB-Cache-Reloaded-Fix) - The fastest cache engine for WordPress, that produces cache of database queries with easy configuration.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
