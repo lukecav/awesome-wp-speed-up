@@ -117,6 +117,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 ## Caching Helping Plugins
 * [WP Rocket Helpers](https://github.com/wp-media/wp-rocket-helpers) - This repository hosts a number of helper plugins that target some specific use cases for WP Rocket.
 * [VIP Performance Plugin](https://github.com/Automattic/vip-code-performance) - A plugin that helps every site benefit from the performance features built into WordPress.com VIP.
+* [Inpsyde Menu Cache](https://github.com/inpsyde/menu-cache) - Easily cache rendered menus using the Transients API.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
