@@ -52,6 +52,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 ## Minification Plugins
 * [Autoptimize](https://wordpress.org/plugins/autoptimize/) - Autoptimize makes optimizing your site really easy. It concatenates all scripts and styles, minifies and compresses them, adds expires headers, caches them, and moves styles to the page head and can move scripts to the footer.
 * [WP Roids](https://wordpress.org/plugins/wp-roids/) - Fast AF caching! Plus minifies your site’s HTML, CSS & Javascript.
+* [Minit](https://github.com/kasparsd/minit/) - Combine CSS files and Javascript files into single file in the correct order. Use the latest modified time in filename generation to ensure freshness. Load all external Javascript files asynchronously.
+* [Minit Pro](https://github.com/markoheijnen/Minit-Pro) - Add additional functionality to the Minit plugin of Kaspars Dambis.
 
 ## CDN Integration Plugins
 * [CDN Enabler](https://wordpress.org/plugins/cdn-enabler/) - A content delivery network (CDN) is a network of distributed edge servers, which accelerate your content around the globe. The main benefits of a CDN are scalability, reliability and performance.
