@@ -98,6 +98,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Disable](https://wordpress.org/plugins/wp-disable/) - Reduce HTTP requests - Disable Emojis, Disable Gravatars, Disable Embeds and Remove Querystrings. Added support to disable pingbacks, disable trackbacks, close comments after 28 days, Added the ability to force pagingation after 20 posts, Disable WooCommerce scripts and CSS on non WooCommerce Pages, Disable RSS, Disable XML-RPC, Disable Autosave, Remove Windows Live Writer tag, Remove Shortlink Tag, Remove WP API from header.
 * [Only Load Scripts and Styles if a shortcode is present](https://gist.github.com/Stegosource/8504035f7ff9417284a26af7e3c3db74) - Only load scripts and styles if a specific shortcode is present in the content when the page/post is saved.
 * [Complete Analytics Optimization Suite (CAOS)](https://wordpress.org/plugins/host-analyticsjs-local/) - Only load scripts and styles if a specific shortcode is present in the content when the page/post is saved.
+* [Gonzales](https://tomasz-dobrzynski.com/wordpress-gonzales) - This plugin allows you to get rid of CSS and JavaScript files that are simply useless. Less is better, right? One of the biggest problem of modern websites is page weight.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
