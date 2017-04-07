@@ -121,6 +121,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 
 ## Caching Helping Plugins
 * [WP Rocket Helpers](https://github.com/wp-media/wp-rocket-helpers) - This repository hosts a number of helper plugins that target some specific use cases for WP Rocket.
+* [WP Rocket Static Resources List](https://github.com/wp-media/wp-rocket-static-resources-list) - List the CSS and JS files loaded on a WordPress page.
 * [WP-Rocket Background Cache](https://wordpress.org/plugins/rocket-background-cache/) - This plugin will defer all cache pre-loading to wp-cron. If a page request comes and a page is not cached yet, wp-rocket will be disabled.
 * [WP Rocket Footer JS](https://wordpress.org/plugins/rocket-footer-js/) - Unofficial WP-Rocket addon to force all JS both external and inline to the footer
 * [WP Rocket ASYNC CSS](https://wordpress.org/plugins/rocket-async-css/) - This plugin will combine all inline and external CSS in the order found on the page and save it to WP-Rocket’s cache folder as a new file.
