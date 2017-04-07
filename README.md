@@ -37,7 +37,6 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Powered Cache](https://github.com/skopco/powered-cache) - Comprehensive caching and performance plugin for WordPress.
 * [WP Spider Cache](https://github.com/stuttter/wp-spider-cache) - WP Spider Cache is your friendly neighborhood caching solution for WordPress. It uses Memcached to store both objects & page output.
 * [Redis Page Cache for WordPress](https://github.com/pressjitsu/pj-page-cache-red) - A Redis-backed full page caching plugin for WordPress, extremely flexible and fast. Requires a running Redis server and the PHP Redis PECL extension.
-* [wpCache WordPress HTTP Cache](https://github.com/wpCache/wpCache) - wpCache® is a high-performance, distributed object, caching system application, generic in nature, but intended for use in speeding up dynamic web applications, by decreasing database load time.
 
 ## Object Caching Plugins
 * [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must.
