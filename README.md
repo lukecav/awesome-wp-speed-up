@@ -42,6 +42,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must.
 * [Redis Object Cache](https://wordpress.org/plugins/redis-cache/) - A persistent object cache backend powered by Redis. Supports Predis, PhpRedis (PECL), HHVM, replication, clustering and WP-CLI. 
 * [Memcached Redux](https://wordpress.org/plugins/memcached-redux/) - Changes the famous Memcached WP Object Cache backend to actually use the Memcached class (not the Memcache class).
+* [Memcached](https://github.com/humanmade/memcache-object-cache) - Memcached backend for the WP Object Cache.
 * [APCu Object Cache Backend](https://wordpress.org/plugins/apcu/) - Using this Plugin WordPress is able to store certain regular used elements into a persistent cache.
 
 ## Fragment Caching Plugins
