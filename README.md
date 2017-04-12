@@ -138,6 +138,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Warm Cache](https://wordpress.org/plugins/warm-cache/) - Crawls your website-pages based on any XML sitemap. If you have a caching plugin this will keep your cache warm.
 * [Cache Buddy](https://github.com/markjaquith/cache-buddy) - Minimizes the situations in which logged-in users appear logged-in to WordPress, which increases the cacheability of your site.
 * [Inpsyde Translation Cache](https://github.com/inpsyde/translation-cache) - Improves site performance by caching translation files using WordPress object cache.
+* [Batcache Manager](https://github.com/spacedmonkey/batcache-manager) - Batcache manager is a drop-in solution, that adds cache clearing the popular caching Batcache plugin by Automattic. This plugin is based on the work by Andy Skelton and expands upon it, clearing archive pages, author pages and feeds.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
