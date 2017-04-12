@@ -142,7 +142,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Inpsyde Translation Cache](https://github.com/inpsyde/translation-cache) - Improves site performance by caching translation files using WordPress object cache.
 * [Batcache Manager](https://github.com/spacedmonkey/batcache-manager) - Batcache manager is a drop-in solution, that adds cache clearing the popular caching Batcache plugin by Automattic. This plugin is based on the work by Andy Skelton and expands upon it, clearing archive pages, author pages and feeds.
 * [Advanced Nav Cache](https://github.com/spacedmonkey/advanced-nav-cache) - Cache wp_nav_menu output in object cache.
-* [Advanced Comment Cache](https://github.com/spacedmonkey/advanced-comment-cache) -A plugin to force caching of comments in wp_comment_query.
+* [Advanced Comment Cache](https://github.com/spacedmonkey/advanced-comment-cache) - A plugin to force caching of comments in wp_comment_query.
+* [Clear cache for Timber](https://github.com/ogrosko/clear-cache-for-timber) - Clear cache for Timber and Twig caching.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
