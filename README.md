@@ -146,6 +146,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Advanced Nav Cache](https://github.com/spacedmonkey/advanced-nav-cache) - Cache wp_nav_menu output in object cache.
 * [Advanced Comment Cache](https://github.com/spacedmonkey/advanced-comment-cache) - A plugin to force caching of comments in wp_comment_query.
 * [Clear cache for Timber](https://github.com/ogrosko/clear-cache-for-timber) - Clear cache for Timber and Twig caching.
+* [Cache Enabler rebuild cache Based on sitemap.xml](https://gist.github.com/iyaozhen/53e6a57a2f7e945ba1161953959a7cb2) - According to sitemap.xml rebuild cache in Cache Enabler.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
