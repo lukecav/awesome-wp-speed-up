@@ -99,6 +99,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 ## Reduce HTTP Requests on Load Plugins
 * [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/) - Allows you to easily manage the frequency of the WordPress heartbeat API with just a few dropdowns.
 * [Disable Emoji](https://wordpress.org/plugins/disable-emojis/) - This plugin disables the new WordPress emoji functionality.
+* [Emoji Settings](https://wordpress.org/plugins/emoji-settings/) - Emoji Settings adds an option within your Writing Settings page to disable or enable emojis.
 * [Disable Embeds](https://wordpress.org/plugins/disable-embeds/) - Disable Embeds
 * [Disable Custom CSS](https://wordpress.org/plugins/disable-custom-css/) - This plugin automatically disables frontend database query for Custom CSS and Customizer section for setting Custom CSS, without need to manually choose any setting or option.
 * [Plugin Organizer](https://wordpress.org/plugins/plugin-organizer/) - This plugin allows you to do the following, change the order that your plugins are loaded,selectively disable plugins by any post type or wordpress managed URL and adds grouping to the plugin admin age.
