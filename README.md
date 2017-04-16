@@ -38,6 +38,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Spider Cache](https://github.com/stuttter/wp-spider-cache) - WP Spider Cache is your friendly neighborhood caching solution for WordPress. It uses Memcached to store both objects & page output.
 * [Redis Page Cache for WordPress](https://github.com/pressjitsu/pj-page-cache-red) - A Redis-backed full page caching plugin for WordPress, extremely flexible and fast. Requires a running Redis server and the PHP Redis PECL extension.
 * [Varnish Caching](https://github.com/razvanstanga/varnish-caching-wordpress-plugin) - Complete Wordpress Varnish Cache 3.x/4.x integration.
+* [WordPress Cache and CDN](https://wordpress.org/plugins/cache-performance/) - Fast, easy to use cache for WordPress with option for up-to 3 separate CDN’s – for js, css & images from 3 providers.
 
 ## Object Caching Plugins
 * [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must.
@@ -84,6 +85,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Kraken.io](https://wordpress.org/plugins/kraken-image-optimizer/) - This plugin allows you to optimize and resize new and existing WordPress image uploads through Kraken.io Image Optimizer’s API.
 * [Optimus](https://wordpress.org/plugins/optimus/) - Optimus reduces the file size of uploaded media files automatically. Depending on the image and format, reductions in size of up to 70% are possible.
 * [WP ImageEngine Responsive Image Resizer](https://wordpress.org/plugins/wp-imageengine/) - WP ImageEngine is an intelligent image CDN for optimizing, compressing and resizing images.
+* [Image Compression and optimization](https://wordpress.org/plugins/wp-image-compression/) - Optimize your Images as well as Image Compression of upto 80%. Also resize images on upload to help reduce storage and bandwidth before compressing.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
