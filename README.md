@@ -75,7 +75,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Photon](https://jetpack.com/support/photon/) - Photon is an image acceleration and editing service for sites hosted on WordPress.com or on Jetpack-connected WordPress sites. That means less load on your host and faster images for your readers.
 * [ILAB Media Tools](https://en-ca.wordpress.org/plugins/ilab-media-tools/) - ILAB Media Tools are a suite of tools designed to enhance media handling in WordPress in a number of ways.
 * [WP Offload S3](https://deliciousbrains.com/wp-offload-s3/) - ILAB Media Tools are a suite of tools designed to enhance media handling in WordPress in a number of ways.
-* [DADI CDN](https://github.com/dadi/cdn)A self-hosted, just-in-time asset manipulation and delivery application, providing a complete content distribution/delivery solution.
+* [DADI CDN](https://github.com/dadi/cdn) - A self-hosted, just-in-time asset manipulation and delivery application, providing a complete content distribution/delivery solution.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
