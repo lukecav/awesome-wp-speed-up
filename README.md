@@ -77,6 +77,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Offload S3](https://deliciousbrains.com/wp-offload-s3/) - ILAB Media Tools are a suite of tools designed to enhance media handling in WordPress in a number of ways.
 * [DADI CDN](https://github.com/dadi/cdn) - A self-hosted, just-in-time asset manipulation and delivery application, providing a complete content distribution/delivery solution.
 * [Tachyon](https://github.com/humanmade/tachyon-plugin) - Tachyon is an image resizing processor built to be used with Amazon S3 as the image backend, and sits behind a CDN such as CloudFlare.
+* [Timber with Jetpack Photon](https://wordpress.org/plugins/timber-with-jetpack-photon/) - Make the Timber plugin work with Jetpack’s Photon. Once installed, all TimberImages use Photon as a CDN and for image manipulation (eg. resize).
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
