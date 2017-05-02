@@ -163,6 +163,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Cache Enabler rebuild cache Based on sitemap.xml](https://gist.github.com/iyaozhen/53e6a57a2f7e945ba1161953959a7cb2) - According to sitemap.xml rebuild cache in Cache Enabler.
 * [Object Cache Flusher Button](https://github.com/georgestephanis/object-cache-flusher-button) - This plugin adds a button to the adminbar that simply flushes the object cache.
 * [Analytics For Cloudflare](https://github.com/ChuckMac/analytics-for-cloudflare) - This is a WordPress plugin to connect your WordPress dashboard to your CloudFlare account to display some key analytics data.
+* [Hyperdrive](https://wordpress.org/plugins/hyperdrive/) - The fastest way to load pages in WordPress.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
