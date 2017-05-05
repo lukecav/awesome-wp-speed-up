@@ -147,6 +147,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP-Rocket Background Cache](https://wordpress.org/plugins/rocket-background-cache/) - This plugin will defer all cache pre-loading to wp-cron. If a page request comes and a page is not cached yet, wp-rocket will be disabled.
 * [WP Rocket Footer JS](https://wordpress.org/plugins/rocket-footer-js/) - Unofficial WP-Rocket addon to force all JS both external and inline to the footer
 * [WP Rocket ASYNC CSS](https://wordpress.org/plugins/rocket-async-css/) - This plugin will combine all inline and external CSS in the order found on the page and save it to WP-Rocket’s cache folder as a new file.
+* [WP Rocket Disable Cache for Members](https://wordpress.org/plugins/disable-wp-rocket-cache-members/) - Unofficial WP-Rocket addon to disable cache from being saved for members, but still be enabled.
 * [VIP Performance Plugin](https://github.com/Automattic/vip-code-performance) - A plugin that helps every site benefit from the performance features built into WordPress.com VIP.
 * [Inpsyde Menu Cache](https://github.com/inpsyde/menu-cache) - Easily cache rendered menus using the Transients API.
 * [WP Static HTML Output](https://wordpress.org/plugins/static-html-output-plugin/) - This plugin produces a static HTML version of your wordpress install, incredibly useful for anyone who would like the publishing power of wordpress but whose webhost doesn’t allow dynamic PHP driven sites.
