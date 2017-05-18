@@ -79,6 +79,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Tachyon](https://github.com/humanmade/tachyon-plugin) - Tachyon is an image resizing processor built to be used withaccelerates your WordPress website Amazon S3 as the image backend, and sits behind a CDN such as CloudFlare.
 * [Timber with Jetpack Photon](https://wordpress.org/plugins/timber-with-jetpack-photon/) - Make the Timber plugin work with Jetpack’s Photon. Once installed, all TimberImages use Photon as a CDN and for image manipulation (eg. resize).
 * [wp wpDone website content accelerator](https://wordpress.org/plugins/wpdone-website-content-accelerator/) - Accelerates your WordPress website.
+* [Dynamic CDN](https://github.com/ericmann/dynamic-cdn) - Dynamic CDN for front-end assets.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
