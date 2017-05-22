@@ -80,6 +80,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Timber with Jetpack Photon](https://wordpress.org/plugins/timber-with-jetpack-photon/) - Make the Timber plugin work with Jetpack’s Photon. Once installed, all TimberImages use Photon as a CDN and for image manipulation (eg. resize).
 * [wp wpDone website content accelerator](https://wordpress.org/plugins/wpdone-website-content-accelerator/) - Accelerates your WordPress website.
 * [Dynamic CDN](https://github.com/ericmann/dynamic-cdn) - Dynamic CDN for front-end assets.
+* [Thumbor](https://github.com/CodeKitchenBV/Thumbor/) - Thumbor is an open-source photo thumbnail service. This plugin connects to it.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
