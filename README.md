@@ -169,6 +169,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Hyperdrive](https://wordpress.org/plugins/hyperdrive/) - The fastest way to load pages in WordPress.
 * [oEmbed Cache Clear](https://wordpress.org/plugins/oembed-cache-clear/) - With this plugin you can clear the cached oEmbed responses that WordPress saves for outgoing (oEmbed-Provider) links in posts and pages.
 * [Cache Blocks](https://github.com/WordPressUtilities/wpucacheblocks) - Cache blocks.
+* [WP Engine Advanced Cache](https://github.com/EthanKennedy/wpe-advanced-cache) - This plugin works to increase cache time across the board, and gives a smarter way to purge the cache.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
