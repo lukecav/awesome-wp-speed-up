@@ -124,6 +124,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Gonzales](https://tomasz-dobrzynski.com/wordpress-gonzales) - This plugin allows you to get rid of CSS and JavaScript files that are simply useless. Less is better, right? One of the biggest problem of modern websites is page weight.
 * [WPtimize](https://wordpress.org/plugins/wptimize/) - WPtimize is optimization and cleanup plugin for WordPress that cleanup all the unnecessary tags and scripts from your WordPress header and optimize your code for faster loading page speed, security and performance.
 * [WP Load List](https://wordpress.org/plugins/wp-load-list/) - When you are trying to speed up your site, minifying CSS and JS files can really gain you some speed but can also break your site. This plugin allows you to get a full list of all CSS and JS files loading on each page so you can use this list to target the files you must avoid minifying.
+* [Plugin Logic](https://wordpress.org/plugins/plugin-logic/) - Activate plugins on pages only if they are really needed.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
