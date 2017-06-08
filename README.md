@@ -174,6 +174,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Engine Advanced Cache](https://github.com/EthanKennedy/wpe-advanced-cache) - This plugin works to increase cache time across the board, and gives a smarter way to purge the cache.
 * [Shin's Pageload Magic](https://wordpress.org/plugins/shins-pageload-magic/) - A lightweight Wordpress plugin that dramatically boosts your page's render speed.
 * [LH HTTP/2 Server Push](https://wordpress.org/plugins/lh-http2-server-push/) - HTTP/2 Server Push Optimization for JavaScript and CSS resources enqueued in the page.
+* [Async JavaScript](https://wordpress.org/plugins/async-javascript/) - Async JavaScript adds a 'async' or 'defer' attribute to scripts loaded via wp_enqueue_script.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
