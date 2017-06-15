@@ -127,6 +127,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Load List](https://wordpress.org/plugins/wp-load-list/) - When you are trying to speed up your site, minifying CSS and JS files can really gain you some speed but can also break your site. This plugin allows you to get a full list of all CSS and JS files loading on each page so you can use this list to target the files you must avoid minifying.
 * [Plugin Logic](https://wordpress.org/plugins/plugin-logic/) - Activate plugins on pages only if they are really needed.
 * [Code Snippets WP Speed Up](https://github.com/lukecav/code-snippets-wp-speed-up) - Code Snippets for WordPress speed up which can be imported into the plugin.
+* [WP FastClick](https://wordpress.org/plugins/wp-fastclick/) - WP FastClick plugin remove click delays on browsers with touch UIs.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
