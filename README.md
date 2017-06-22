@@ -48,6 +48,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Memcached](https://github.com/humanmade/memcache-object-cache) - Memcached backend for the WP Object Cache.
 * [Memcached Is Your Friend Updated](https://github.com/wpbullet/memcached-is-your-friend) - Memcached via PHP Memcache or Memcached Class Support for WordPress with fixes for compatibility.
 * [APCu Object Cache Backend](https://wordpress.org/plugins/apcu/) - Using this Plugin WordPress is able to store certain regular used elements into a persistent cache.
+* [FOCUS Cache](https://wordpress.org/plugins/focus-object-cache/) - A File-based Object Cache that is Utterly Slow.  Persistenly caches WP_Cache objects in the file system.  Can really help speed up a site that has fast disk access and slow database access.
 
 ## Fragment Caching Plugins
 * [Fragment Cache](https://github.com/Rarst/fragment-cache) - Fragment Cache is a WordPress plugin for partial and async caching of heavy front-end elements. It currently supports caching navigation menus, widgets, and galleries.
