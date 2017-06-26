@@ -181,7 +181,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [LH HTTP/2 Server Push](https://wordpress.org/plugins/lh-http2-server-push/) - HTTP/2 Server Push Optimization for JavaScript and CSS resources enqueued in the page.
 * [Async JavaScript](https://wordpress.org/plugins/async-javascript/) - Async JavaScript adds a 'async' or 'defer' attribute to scripts loaded via wp_enqueue_script.
 * [PageSpeed Purge Button](https://wordpress.org/plugins/wp-purge-pagespeed-button/) - One-click PageSpeed cache purging using an admin bar button.
-* [Cache Version](https://github.com/kasparsd/cache-version) - .Adds a version number (a timestamp) of all content that can be used in cache keys.
+* [Cache Version](https://github.com/kasparsd/cache-version) - Adds a version number (a timestamp) of all content that can be used in cache keys.
+* [FacetWP Cache](https://facetwp.com/add-ons/caching/) - Caching support for FacetWP.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
