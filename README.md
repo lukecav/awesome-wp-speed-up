@@ -138,6 +138,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Optimize Database after Deleting Revisions](https://wordpress.org/plugins/rvg-optimize-database/) - Host your Google Analytics javascript-file (analytics.js) locally and keep it updated using wp_cron().
 * [Delete Expired Transients](https://wordpress.org/plugins/delete-expired-transients/) - Delete old, expired transients from the WordPress options table (wp_options), to prevent them from bloating your database and even slowing down your website.
 * [Plugins Garbage Collector](https://wordpress.org/plugins/plugins-garbage-collector/) - Plugins Garbage Collector scans your WordPress database and shows the tables beyond of core WordPress installation.
+* [Delete Expired Transients](https://wordpress.org/plugins/delete-expired-transients/) - Delete old, expired transients from WordPress wp_options table.
 
 ## Slow Query and Debugging Plugins
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Query Monitor is a debugging plugin for anyone developing with WordPress.
