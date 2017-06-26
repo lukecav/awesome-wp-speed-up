@@ -84,6 +84,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [wp wpDone website content accelerator](https://wordpress.org/plugins/wpdone-website-content-accelerator/) - Accelerates your WordPress website.
 * [Dynamic CDN](https://github.com/ericmann/dynamic-cdn) - Dynamic CDN for front-end assets.
 * [Thumbor](https://github.com/CodeKitchenBV/Thumbor/) - Thumbor is an open-source photo thumbnail service. This plugin connects to it.
+* [Tiny CDN](https://wordpress.org/plugins/tiny-cdn/) - Use an origin pull CDN with very few lines of code.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
