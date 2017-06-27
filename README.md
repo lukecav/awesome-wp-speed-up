@@ -185,6 +185,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [PageSpeed Purge Button](https://wordpress.org/plugins/wp-purge-pagespeed-button/) - One-click PageSpeed cache purging using an admin bar button.
 * [Cache Version](https://github.com/kasparsd/cache-version) - Adds a version number (a timestamp) of all content that can be used in cache keys.
 * [FacetWP Cache](https://facetwp.com/add-ons/caching/) - Caching support for FacetWP.
+* [Far Future Expiry Header](https://wordpress.org/plugins/far-future-expiry-header/) - This plugin will add a "far future expiration" date for various file types to improve site performance.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
