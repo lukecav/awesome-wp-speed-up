@@ -136,6 +136,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Plugin Logic](https://wordpress.org/plugins/plugin-logic/) - Activate plugins on pages only if they are really needed.
 * [Code Snippets WP Speed Up](https://github.com/lukecav/code-snippets-wp-speed-up) - Code Snippets for WordPress speed up which can be imported into the plugin.
 * [WP FastClick](https://wordpress.org/plugins/wp-fastclick/) - WP FastClick plugin remove click delays on browsers with touch UIs.
+* [WP Head Optimizer](https://wordpress.org/plugins/wp-head-optimizer/) - This plugin allow you to remove unnecessary tags, urls, scrips and manymore additional things from your WordPress header to speed up site loading time and hide some details form visitors for security purpose.
+* [Disable XML-RPC](https://wordpress.org/plugins/disable-xml-rpc-littlebizzy/) - Completely disables all XML-RPC related functions in WordPress including pingbacks and trackbacks, and helps prevent attacks on the xmlrpc.php file.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
