@@ -194,6 +194,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [FacetWP Cache](https://facetwp.com/add-ons/caching/) - Caching support for FacetWP.
 * [Far Future Expiry Header](https://wordpress.org/plugins/far-future-expiry-header/) - This plugin will add a "far future expiration" date for various file types to improve site performance.
 * [Clear Sucuri Cache](https://wordpress.org/plugins/clear-sucuri-cache/) - Simply clears whole Sucuri cache. Clear is done from wp admin panel or plugin's page.
+* [WP Rocket User Role]https://gist.github.com/glueckpress/6a5ec40dc71e9775fcaa) - Restrict WP Rocket settings access to superadmins.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
