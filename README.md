@@ -88,6 +88,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [CDN Linker](https://github.com/wmark/CDN-Linker) - Modifies links pointing to <code>wp-content</code> and/or <code>wp-includes</code> (or whatever you configure) by replacing your ‘blog_url’ with a custom one. Enables you to pull static files, such as images, CSS or JS, from a different host, mirror or CDN.
 * [C3 Cloudfront Cache Controller](https://wordpress.org/plugins/c3-cloudfront-clear-cache/) - This is simple plugin that clear all cloudfront cache if you publish posts.
 * [Beaver Builder + Amazon S3](https://github.com/liquidweb/beaverbuilder-s3) - Ensures compatibility between Beaver Builder and Human Made's S3 Uploads plugin.
+* [Sunny](https://wordpress.org/plugins/sunny/) - Automatically purge CloudFlare cache, including cache everything rules.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
