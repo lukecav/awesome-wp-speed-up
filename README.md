@@ -105,6 +105,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Media Cleaner](https://wordpress.org/plugins/media-cleaner/) - Clean your Media Library from the media which aren’t used in any of your posts, gallery and so on.
 * [ImageLint](https://github.com/imagelint/imagelint-wordpress) - One-stop hassle-free no-config ImageLint WordPress integration.
 * [FAF Optim](https://github.com/fafiebig/faf-optim) - Optimize images of your WordPress media storage.
+* [Media Deduper](https://wordpress.org/plugins/media-deduper/) - Save disk space and bring some order to the chaos of your media library by removing and preventing duplicate files.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
