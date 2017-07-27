@@ -16,6 +16,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [NGNIX and Varnish Control Plugins](#ngnix-and-varnish-control-plugins)
 * [Caching Helper Plugins](#caching-helping-plugins)
 * [Performance Benchmarking Sites](#performance-benchmarking-sites)
+* [NGNIX Configs](#ngnix-configs)
 * [Further Reading](#further-reading)
 
 ## Page Caching Plugins
@@ -213,6 +214,10 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Sucuri Load Time Tester](https://performance.sucuri.net/) - How fast is your site? You can test here the performance of any of your sites from across the globe.
 * [GTmetrix](https://gtmetrix.com/) - Start optimizing your site! GTmetrix provides explanations for each recommendation, and gives you actionable advice.
 * [Pingdom](https://tools.pingdom.com/) - Enter a URL to test the load time of that page, analyze it and find bottlenecks.
+
+## NGNIX Configs
+* [Browser caching rules for NGNIX and expire headers](https://gist.github.com/lukecav/ed29bd779ccb2f8a46fc8b30ed48c141) - Browser caching rules for NGNIX and expire headers being set.
+* [Enabling Gzip compression in NGNIX](https://gist.github.com/lukecav/a8e63b732e2cfd0008c6f82d4a3191fe) - Enabling Gzip compression in NGNIX.
 
 ## Further Reading
 * [WordPress Performance – Breaking It Down by HTTP Requests](https://www.keycdn.com/blog/wordpress-performance/) - WordPress can be a tricky beast as they say when it comes to web performance. Especially if you are comparing it against others running static sites.
