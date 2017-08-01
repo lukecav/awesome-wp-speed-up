@@ -42,6 +42,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WordPress Cache and CDN](https://wordpress.org/plugins/cache-performance/) - Fast, easy to use cache for WordPress with option for up-to 3 separate CDN’s – for js, css & images from 3 providers.
 * [Breeze](https://wordpress.org/plugins/breeze/) - Breeze is a WordPress cache plugin with extensive options to speed up your website. All the options including Varnish Cache are compatible with Cloudways hosting.
 * [Varnish Caching](https://wordpress.org/plugins/vcaching/) - WordPress Varnish Cache integration.
+* [Pantheon Advanced Page Cache](https://wordpress.org/plugins/pantheon-advanced-page-cache/) - Automatically clear related pages from Pantheon's Edge when you update content. High TTL. Fresh content. Visitors never wait.
 
 ## Object Caching Plugins
 * [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must.
