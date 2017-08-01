@@ -206,6 +206,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Rocket User Role](https://gist.github.com/glueckpress/6a5ec40dc71e9775fcaa) - Restrict WP Rocket settings access to superadmins.
 * [Hummingbird](https://wordpress.org/plugins/hummingbird-performance/) - Hummingbird zips through your site finding new ways to make it load faster, from file compression and minification to browser caching â€“ because when it comes to pagespeed, every millisecond counts.
 * [Cache Sniper for Nginx](https://wordpress.org/plugins/snipe-nginx-cache/) - Purge the Nginx FastCGI Cache within WordPress on a global or per-page basis.
+* [Purge Varnish Cache](https://wordpress.org/plugins/purge-varnish/) - This plugin provides integration between your wordpress site and Varnish Cache to purge cache objects automate/manaully.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
