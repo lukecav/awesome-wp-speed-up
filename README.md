@@ -226,6 +226,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 
 ## Varnish Configs
 * [Varnish 4 vcl for WordPress](https://gist.github.com/lukecav/ed29bd779ccb2f8a46fc8b30ed48c141) - Varnish 4 VCL configuration for WordPress. Also allows purging.
+* [Example VCL file for Varnish](https://github.com/nicolargo/varnish-nginx-wordpress/blob/master/varnish/varnish4-wordpress) - Varnish 4 VCL configuration for WordPress. Also allows purging.
 * [Install + Configure Varnish 3 Cache with nginx for WooCommerce Speed](https://guides.wp-bullet.com/install-configure-varnish-3-cache-nginx-woocommerce-speed/) - Varnish is one of the best WooCommerce caching solutions I have tried. I’ve managed to get WooCommerce shop load times under 1 second.
 * [Cache AJAX GET Requests in Varnish](https://gist.github.com/lukecav/2e5b24ffda25e897c5bc5f169349607b) - Possibility to cache admin-ajax GET requests.
 * [Gzip in Varnish](https://gist.github.com/lukecav/bf4d647ab4b8bb309fd8f9f2948ed106) - Set to Gzip, deflate or remove entirely in Varnish.
