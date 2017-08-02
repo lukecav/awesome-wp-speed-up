@@ -246,6 +246,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Configuring caching plugins Excluding pages from the cache for WC](https://docs.woocommerce.com/document/configuring-caching-plugins/) - If using caching plugins (such as WP Super Cache or W3 Total Cache), make sure you exclude the following pages from the cache through their respective settings panels.
 * [A Guide on Web Font Optimization in WordPress](https://kinsta.com/blog/web-font-optimization/ - Web fonts are a staple of modern web design and used by the overwhelming majority of WordPress websites. Optimizing the use and delivery of web fonts is critical because poorly optimized web fonts can bog down the performance of your website.
 * [Troubleshooting slow page speed on your WordPress site](https://torbjornzetterlund.com/troubleshooting-slow-page-speed-on-your-wordpress-site/) - If you think that your wordpress pages are loading slowly, it is time to do some troubleshooting to improve the page speed. Do not wait in doing the troubleshooting and let your site’s success be its downfall. 
+* [What is hit-for-pass in Varnish](https://info.varnish-software.com/blog/hit-for-pass-varnish-cache) - There is a term in Varnish Cache that every Varnish Cache user should know: “Hit for pass”. Like other Varnish Cache terms it is not self-explanatory and in order to understand what it is you’ll need to understand some of the mechanics of the caching.
+* [10 Varnish Cache mistakes and how to avoid them](https://info.varnish-software.com/blog/10-varnish-cache-mistakes-and-how-avoid-them) - Caching an object with a Set-Cookie header can have devastating effects, as any client requesting the object will get that same cookie set.
 
 Hope this was helpful.
 
