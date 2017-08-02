@@ -230,6 +230,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Install + Configure Varnish 3 Cache with NGNIX for WooCommerce Speed](https://guides.wp-bullet.com/install-configure-varnish-3-cache-nginx-woocommerce-speed/) - Varnish is one of the best WooCommerce caching solutions I have tried. I’ve managed to get WooCommerce shop load times under 1 second.
 * [Cache AJAX GET Requests in Varnish](https://gist.github.com/lukecav/2e5b24ffda25e897c5bc5f169349607b) - Possibility to cache admin-ajax GET requests.
 * [Gzip in Varnish](https://gist.github.com/lukecav/bf4d647ab4b8bb309fd8f9f2948ed106) - Set to Gzip, deflate or remove entirely in Varnish.
+* [How to check if chosen Varnish cache size is ideal](https://serverfault.com/questions/54276/how-to-check-if-chosen-varnish-cache-size-is-ideal) - You can monitor how much of the maximum cache size (512 MB in this case) that Varnish has allocated by running varnishstat. Then look for the output lines "bytes allocated" and "bytes free".
 
 ## Further Reading
 * [WordPress Performance – Breaking It Down by HTTP Requests](https://www.keycdn.com/blog/wordpress-performance/) - WordPress can be a tricky beast as they say when it comes to web performance. Especially if you are comparing it against others running static sites.
