@@ -17,6 +17,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Caching Helper Plugins](#caching-helping-plugins)
 * [Performance Benchmarking Sites](#performance-benchmarking-sites)
 * [NGNIX Configs](#ngnix-configs)
+* [Varnish Configs](#varnish-configs)
 * [Further Reading](#further-reading)
 
 ## Page Caching Plugins
@@ -158,6 +159,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Plugins Garbage Collector](https://wordpress.org/plugins/plugins-garbage-collector/) - Plugins Garbage Collector scans your WordPress database and shows the tables beyond of core WordPress installation.
 * [Delete Expired Transients](https://wordpress.org/plugins/delete-expired-transients/) - Delete old, expired transients from WordPress wp_options table.
 * [Advanced Database Cleaner](https://wordpress.org/plugins/advanced-database-cleaner/) - Clean database by deleting unused data such as 'old revisions', 'old drafts', 'orphan options', etc. Optimize database and more.
+* [Index Autoload](https://wordpress.org/plugins/index-autoload-littlebizzy/) - Adds an index to the autoload in wp_options table via WP-Cron on a daily basis, resulting in a more efficient database and faster site performance.
 
 ## Slow Query and Debugging Plugins
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Query Monitor is a debugging plugin for anyone developing with WordPress.
@@ -219,8 +221,11 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Pingdom](https://tools.pingdom.com/) - Enter a URL to test the load time of that page, analyze it and find bottlenecks.
 
 ## NGNIX Configs
-* [Browser caching rules for NGNIX and expire headers](https://gist.github.com/lukecav/ed29bd779ccb2f8a46fc8b30ed48c141) - Browser caching rules for NGNIX and expire headers being set.
-* [Enabling Gzip compression in NGNIX](https://gist.github.com/lukecav/a8e63b732e2cfd0008c6f82d4a3191fe) - Enabling Gzip compression in NGNIX.
+* [Browser caching rules for NGNIX and expire headers](https://gist.github.com/matthewjackowski/062be03b41a68edbadfc) - Browser caching rules for NGNIX and expire headers being set.
+
+## Varnish Configs
+* [Varnish 4 vcl for WordPress](https://gist.github.com/lukecav/ed29bd779ccb2f8a46fc8b30ed48c141) - Varnish 4 VCL configuration for WordPress. Also allows purging.
+* [Install + Configure Varnish 3 Cache with nginx for WooCommerce Speed](https://guides.wp-bullet.com/install-configure-varnish-3-cache-nginx-woocommerce-speed/) - Varnish is one of the best WooCommerce caching solutions I have tried. I’ve managed to get WooCommerce shop load times under 1 second.
 
 ## Further Reading
 * [WordPress Performance – Breaking It Down by HTTP Requests](https://www.keycdn.com/blog/wordpress-performance/) - WordPress can be a tricky beast as they say when it comes to web performance. Especially if you are comparing it against others running static sites.
