@@ -71,6 +71,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Minit](https://github.com/kasparsd/minit/) - Combine CSS files and Javascript files into single file in the correct order. Use the latest modified time in filename generation to ensure freshness. Load all external Javascript files asynchronously.
 * [Minit Pro](https://github.com/markoheijnen/Minit-Pro) - Add additional functionality to the Minit plugin of Kaspars Dambis.
 * [WP-Concatenator](https://github.com/spacedmonkey/wp-concatenator) - CSS concatenation of individual style files into one resource request.
+* [Advanced WPPerformance](https://wordpress.org/plugins/advanced-wpperformance/) - This plugin adds several performance improvements to your WordPress site.
 
 ## CDN Integration Plugins
 * [CDN Enabler](https://wordpress.org/plugins/cdn-enabler/) - A content delivery network (CDN) is a network of distributed edge servers, which accelerate your content around the globe. The main benefits of a CDN are scalability, reliability and performance.
