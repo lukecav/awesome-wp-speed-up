@@ -153,6 +153,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Machete](https://wordpress.org/plugins/machete/) - Machete is a lean and simple suite of tools that solve common WordPress anoyances: cookie bar, tracking codes, header cleanup.
 * [Disable User Gravatar](https://wordpress.org/plugins/disable-user-gravatar/) - Stops wordpress from automatically grabbing the users' gravatar with their registered email.
 * [Slim WordPress](https://wordpress.org/plugins/slim-wp/) - Send your site on a diet and remove unnecessary WordPress features.
+* [Smart WordPress](https://wordpress.org/plugins/smart-wp/) - Optimize the caching behavior of your Website the easy way and reload pages only if something has been changed.
+* [Fast WordPress](https://wordpress.org/plugins/fast-wp/) - Speed Up your WordPress page the easy way and optimize your site's assets.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
