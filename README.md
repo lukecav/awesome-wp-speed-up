@@ -152,6 +152,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Disable XML-RPC](https://wordpress.org/plugins/disable-xml-rpc-littlebizzy/) - Completely disables all XML-RPC related functions in WordPress including pingbacks and trackbacks, and helps prevent attacks on the xmlrpc.php file.
 * [Machete](https://wordpress.org/plugins/machete/) - Machete is a lean and simple suite of tools that solve common WordPress anoyances: cookie bar, tracking codes, header cleanup.
 * [Disable User Gravatar](https://wordpress.org/plugins/disable-user-gravatar/) - Stops wordpress from automatically grabbing the users' gravatar with their registered email.
+* [Slim WordPress](https://wordpress.org/plugins/slim-wp/) - Send your site on a diet and remove unnecessary WordPress features.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
