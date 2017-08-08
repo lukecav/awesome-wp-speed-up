@@ -55,7 +55,6 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [APCu Object Cache Backend](https://wordpress.org/plugins/apcu/) - Using this Plugin WordPress is able to store certain regular used elements into a persistent cache.
 * [FOCUS Cache](https://wordpress.org/plugins/focus-object-cache/) - A File-based Object Cache that is Utterly Slow.  Persistenly caches WP_Cache objects in the file system.  Can really help speed up a site that has fast disk access and slow database access.
 * [phpmemcacheadmin](https://code.google.com/archive/p/phpmemcacheadmin/) - Graphic stand-alone administration for memcached to monitor and debug purpose.
-* [Dedicated Transients](https://wordpress.org/plugins/dedicated-transients/) - WordPress plugin to re-route transient storage to dedicated tables.
 
 ## Fragment Caching Plugins
 * [Fragment Cache](https://github.com/Rarst/fragment-cache) - Fragment Cache is a WordPress plugin for partial and async caching of heavy front-end elements. It currently supports caching navigation menus, widgets, and galleries.
@@ -167,6 +166,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Advanced Database Cleaner](https://wordpress.org/plugins/advanced-database-cleaner/) - Clean database by deleting unused data such as 'old revisions', 'old drafts', 'orphan options', etc. Optimize database and more.
 * [Index Autoload](https://wordpress.org/plugins/index-autoload-littlebizzy/) - Adds an index to the autoload in wp_options table via WP-Cron on a daily basis, resulting in a more efficient database and faster site performance.
 * [Clean Up Optimizer](https://wordpress.org/plugins/wp-clean-up-optimizer/) - Clean Up Optimizer is a Superlative High Quality WordPress Plugin which not only allows you to clean and optimize the WordPress Database but also performs other vast functions.
+* [Dedicated Transients](https://wordpress.org/plugins/dedicated-transients/) - WordPress plugin to re-route transient storage to dedicated tables.
 
 ## Slow Query and Debugging Plugins
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Query Monitor is a debugging plugin for anyone developing with WordPress.
