@@ -237,6 +237,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 
 ## Apache Configs
 * [Browser caching rules, mod_deflate and expires](https://gist.github.com/lukecav/c806c253608a7b9abfcb572bf46eb54c) - Browser caching rules for Apache, mod_deflate and expire headers being set.
+* [mod_expires example](https://gist.github.com/lukecav/a9fa14d32d08cca818b7a7762eef84aa) - mod_expires examples for most common file types.
 
 ## Varnish Configs
 * [Varnish 4 VCL for WordPress](https://gist.github.com/lukecav/ed29bd779ccb2f8a46fc8b30ed48c141) - Varnish 4 VCL configuration for WordPress. Also allows purging.
