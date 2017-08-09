@@ -158,6 +158,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Slim WordPress](https://wordpress.org/plugins/slim-wp/) - Send your site on a diet and remove unnecessary WordPress features.
 * [Smart WordPress](https://wordpress.org/plugins/smart-wp/) - Optimize the caching behavior of your Website the easy way and reload pages only if something has been changed.
 * [Fast WordPress](https://wordpress.org/plugins/fast-wp/) - Speed Up your WordPress page the easy way and optimize your site's assets.
+* [Lean WP](https://wordpress.org/plugins/lean-wp/) - Lean WP does a great job cleaning up the WordPress backend (Dashboard) and frontend.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
