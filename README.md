@@ -17,6 +17,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Caching Helper Plugins](#caching-helping-plugins)
 * [Performance Benchmarking Sites](#performance-benchmarking-sites)
 * [NGNIX Configs](#ngnix-configs)
+* [Apache Configs](#apache-configs)
 * [Varnish Configs](#varnish-configs)
 * [Further Reading](#further-reading)
 
@@ -232,6 +233,9 @@ Plugins and resources to speed up and optimize your WordPress site.
 ## NGNIX Configs
 * [Browser caching rules for NGNIX and expire headers](https://gist.github.com/matthewjackowski/062be03b41a68edbadfc) - Browser caching rules for NGNIX and expire headers being set.
 * [Enabling Gzip compression in NGNIX](https://gist.github.com/lukecav/a8e63b732e2cfd0008c6f82d4a3191fe) - Enabling Gzip compression in NGNIX.
+
+## Apache Configs
+* [Browser caching rules, mod_deflate and expires](https://gist.github.com/lukecav/c806c253608a7b9abfcb572bf46eb54c) - Browser caching rules for Apache, mod_deflate and expire headers being set.
 
 ## Varnish Configs
 * [Varnish 4 VCL for WordPress](https://gist.github.com/lukecav/ed29bd779ccb2f8a46fc8b30ed48c141) - Varnish 4 VCL configuration for WordPress. Also allows purging.
