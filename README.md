@@ -222,7 +222,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Hummingbird](https://wordpress.org/plugins/hummingbird-performance/) - Hummingbird zips through your site finding new ways to make it load faster, from file compression and minification to browser caching â€“ because when it comes to pagespeed, every millisecond counts.
 * [Cache Sniper for Nginx](https://wordpress.org/plugins/snipe-nginx-cache/) - Purge the Nginx FastCGI Cache within WordPress on a global or per-page basis.
 * [Purge Varnish Cache](https://wordpress.org/plugins/purge-varnish/) - This plugin provides integration between your wordpress site and Varnish Cache to purge cache objects automate/manaully.
-* [Rocket Disable Cache Members](https://github.com/pcfreak30/disable-wp-rocket-cache-members) - Unofficial WP-Rocket addon to disable cache from being saved for members, but still be enabled.
+* [WP Rocket Disable Cache for Members](https://wordpress.org/plugins/disable-wp-rocket-cache-members/) - Unofficial WP-Rocket addon to disable cache from being saved for members, but still be enabled.
 * [WP Critical CSS](https://wordpress.org/plugins/wp-criticalcss/) - Use CriticalCSS.com web service to automatically create the required CSS for above the fold.
 * [Multisite Support for WP Rocket](https://wordpress.org/plugins/multisite-wp-rocket/) - Plugin to enable WP-Rocket to be managed in multisite.
 
