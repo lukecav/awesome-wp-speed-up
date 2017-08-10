@@ -224,6 +224,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Purge Varnish Cache](https://wordpress.org/plugins/purge-varnish/) - This plugin provides integration between your wordpress site and Varnish Cache to purge cache objects automate/manaully.
 * [Rocket Disable Cache Members](https://github.com/pcfreak30/disable-wp-rocket-cache-members) - Unofficial WP-Rocket addon to disable cache from being saved for members, but still be enabled.
 * [WP Critical CSS](https://wordpress.org/plugins/wp-criticalcss/) - Use CriticalCSS.com web service to automatically create the required CSS for above the fold.
+* [Multisite Support for WP Rocket](https://wordpress.org/plugins/multisite-wp-rocket/) - Plugin to enable WP-Rocket to be managed in multisite.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
