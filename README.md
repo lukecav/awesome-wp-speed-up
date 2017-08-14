@@ -239,6 +239,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 ## NGNIX Configs
 * [Browser caching rules for NGNIX and expire headers](https://gist.github.com/matthewjackowski/062be03b41a68edbadfc) - Browser caching rules for NGNIX and expire headers being set.
 * [Enabling Gzip compression in NGNIX](https://gist.github.com/lukecav/a8e63b732e2cfd0008c6f82d4a3191fe) - Enabling Gzip compression in NGNIX.
+* [NGNIX Modules](https://github.com/nginx-modules) - Forked community NGNIX modules.
 
 ## Apache Configs
 * [Browser caching rules, mod_deflate and expires](https://gist.github.com/lukecav/c806c253608a7b9abfcb572bf46eb54c) - Browser caching rules for Apache, mod_deflate and expire headers being set.
@@ -269,6 +270,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Troubleshooting slow page speed on your WordPress site](https://torbjornzetterlund.com/troubleshooting-slow-page-speed-on-your-wordpress-site/) - If you think that your wordpress pages are loading slowly, it is time to do some troubleshooting to improve the page speed. Do not wait in doing the troubleshooting and let your site’s success be its downfall. 
 * [What is hit-for-pass in Varnish](https://info.varnish-software.com/blog/hit-for-pass-varnish-cache) - There is a term in Varnish Cache that every Varnish Cache user should know: “Hit for pass”. Like other Varnish Cache terms it is not self-explanatory and in order to understand what it is you’ll need to understand some of the mechanics of the caching.
 * [10 Varnish Cache mistakes and how to avoid them](https://info.varnish-software.com/blog/10-varnish-cache-mistakes-and-how-avoid-them) - Caching an object with a Set-Cookie header can have devastating effects, as any client requesting the object will get that same cookie set.
+* [How do I enable HTTP/2 Server Push in WordPress](https://support.cloudflare.com/hc/en-us/articles/115002816808-How-do-I-enable-HTTP-2-Server-Push-in-WordPress) - HTTP/2 Server Push allows a website to push content to a browser, without having to wait for the HTML of one page to render first.
 
 Hope this was helpful.
 
