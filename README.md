@@ -240,6 +240,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Browser caching rules for NGNIX and expire headers](https://gist.github.com/matthewjackowski/062be03b41a68edbadfc) - Browser caching rules for NGNIX and expire headers being set.
 * [Enabling Gzip compression in NGNIX](https://gist.github.com/lukecav/a8e63b732e2cfd0008c6f82d4a3191fe) - Enabling Gzip compression in NGNIX.
 * [NGNIX Modules](https://github.com/nginx-modules) - Forked community NGNIX modules.
+* [NGINX Amplify Agent](https://github.com/nginxinc/nginx-amplify-agent) - The NGINX Amplify Agent is a Python application that provides system and NGINX metric collection.
 
 ## Apache Configs
 * [Browser caching rules, mod_deflate and expires](https://gist.github.com/lukecav/c806c253608a7b9abfcb572bf46eb54c) - Browser caching rules for Apache, mod_deflate and expire headers being set.
