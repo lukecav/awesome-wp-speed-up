@@ -30,7 +30,6 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Gator Cache](https://wordpress.org/plugins/gator-cache/) - Gator Cache is an easy to manage page cache for WordPress. Once installed, it automatically updates new and updated content in your cache.
 * [Vendi Cache](https://wordpress.org/plugins/vendi-cache/) - Vendi Cache takes your slow database-driven pages and turns them into very fast static HTML files.
 * [SG Optimizer](https://wordpress.org/plugins/sg-cachepress/) - This plugin is designed to link WordPress with the SiteGround Performance services.
-* [Vendi Cache](https://wordpress.org/plugins/vendi-cache/) - Vendi Cache takes your slow database-driven pages and turns them into very fast static HTML files.
 * [WP Rocket](https://wp-rocket.me/) - Your website at lightspeed.
 * [W3 Total Cache Fixed](https://github.com/szepeviktor/w3-total-cache-fixed) - A community driven build of W3 Total Cache. The aim is to continuously incorporate fixes, improvements, and enhancements over the official WordPress release of W3 Total Cache.
 * [WP-FFPC](https://wordpress.org/plugins/wp-ffpc/) - WP-FFPC is a cache plugin for WordPress.
