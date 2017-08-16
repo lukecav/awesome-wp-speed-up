@@ -211,7 +211,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Hyperdrive](https://wordpress.org/plugins/hyperdrive/) - The fastest way to load pages in WordPress.
 * [oEmbed Cache Clear](https://wordpress.org/plugins/oembed-cache-clear/) - With this plugin you can clear the cached oEmbed responses that WordPress saves for outgoing (oEmbed-Provider) links in posts and pages.
 * [Cache Blocks](https://github.com/WordPressUtilities/wpucacheblocks) - Cache blocks.
-* [WP Engine Advanced Cache](https://github.com/EthanKennedy/wpe-advanced-cache) - This plugin works to increase cache time across the board, and gives a smarter way to purge the cache.
+* [WP Engine Advanced Cache](https://wordpress.org/plugins/wpe-advanced-cache-options/) - This plugin works to increase cache time across the board, and gives a smarter way to purge the cache.
 * [Shin's Pageload Magic](https://wordpress.org/plugins/shins-pageload-magic/) - A lightweight Wordpress plugin that dramatically boosts your page's render speed.
 * [LH HTTP/2 Server Push](https://wordpress.org/plugins/lh-http2-server-push/) - HTTP/2 Server Push Optimization for JavaScript and CSS resources enqueued in the page.
 * [Async JavaScript](https://wordpress.org/plugins/async-javascript/) - Async JavaScript adds a 'async' or 'defer' attribute to scripts loaded via wp_enqueue_script.
