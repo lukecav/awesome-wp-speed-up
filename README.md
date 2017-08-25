@@ -97,6 +97,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Beaver Builder + Amazon S3](https://github.com/liquidweb/beaverbuilder-s3) - Ensures compatibility between Beaver Builder and Human Made's S3 Uploads plugin.
 * [Sunny](https://wordpress.org/plugins/sunny/) - Automatically purge CloudFlare cache, including cache everything rules.
 * [WP-Stateless](https://wordpress.org/plugins/wp-stateless/) - Stores and serves WordPress media files directly from Google Cloud Storage.
+* [WP Azure offload](https://wordpress.org/plugins/wp-azure-offload/) - Automatically copies media to Azure storage and deliver using CDN.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
