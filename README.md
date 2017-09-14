@@ -163,6 +163,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Lean WP](https://wordpress.org/plugins/lean-wp/) - Lean WP does a great job cleaning up the WordPress backend (Dashboard) and frontend.
 * [Disable Author Pages](https://github.com/staude/disable-author-pages/) - Disable the author pages in WordPress and redirect to the homepage.
 * [Simple DNS Prefetch](https://wordpress.org/plugins/simple-dns-prefetch/) - This plugin controls the DNS prefetch settings.
+* [Complete Analytics Optimization Suite (CAOS)](https://wordpress.org/plugins/host-analyticsjs-local/) - A plugin that allows you to completely optimize Google Analytics for your Wordpress Website: host analytics.js locally, keep it updated using wp_cron(), anonymize IP, disable tracking of admins, place tracking code in footer, and more.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
