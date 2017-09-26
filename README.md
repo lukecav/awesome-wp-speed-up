@@ -118,7 +118,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Smush](https://wordpress.org/plugins/wp-smushit/) - Reduce image file sizes, improve performance and boost your SEO using the free WordPress Smush API.
 * [JPG, PNG Compression and Optimization](https://wordpress.org/plugins/wp-image-compression/) - WP Image Compression is a quick and easy way to not only resize your images, but compress them as well for optimimum performance going forward.
 * [Resizefly](https://wordpress.org/plugins/resizefly/) - Dynamically resize your images on the fly.
-* [WP Google PageSpeed Image Optimizer Lite](https://wordpress.org/plugins/wp-google-pagespeed-image-optimizer-lite/) - his plugin will optimize your images exactly like Google Pagespeed Insights.
+* [WP Google PageSpeed Image Optimizer Lite](https://wordpress.org/plugins/wp-google-pagespeed-image-optimizer-lite/) - This plugin will optimize your images exactly like Google Pagespeed Insights.
+* [Image Optimizer WD – WordPress Image Optimizer](https://wordpress.org/plugins/image-optimizer-wd/) - Image Optimizer WordPress plugin enables you to resize, compress and optimize PNG, JPG, GIF files while maintaining image quality.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
