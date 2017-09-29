@@ -178,6 +178,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Index Autoload](https://wordpress.org/plugins/index-autoload-littlebizzy/) - Adds an index to the autoload in wp_options table via WP-Cron on a daily basis, resulting in a more efficient database and faster site performance.
 * [Clean Up Optimizer](https://wordpress.org/plugins/wp-clean-up-optimizer/) - Clean Up Optimizer is a Superlative High Quality WordPress Plugin which not only allows you to clean and optimize the WordPress Database but also performs other vast functions.
 * [Dedicated Transients](https://wordpress.org/plugins/dedicated-transients/) - WordPress plugin to re-route transient storage to dedicated tables.
+* [Transient Cleaner](https://wordpress.org/plugins/artiss-transient-cleaner/) - Housekeep expired transients from your options table.
 
 ## Slow Query and Debugging Plugins
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Query Monitor is a debugging plugin for anyone developing with WordPress.
