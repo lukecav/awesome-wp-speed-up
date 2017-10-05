@@ -61,6 +61,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Fragment Cache](https://github.com/Rarst/fragment-cache) - Fragment Cache is a WordPress plugin for partial and async caching of heavy front-end elements. It currently supports caching navigation menus, widgets, and galleries.
 * [Blunt Cache](https://wordpress.org/plugins/blunt-cache/) - Blunt Cache is a persistent fragment and object cache for those of us that cannot use full page caching.
 * [ShortCache](https://wordpress.org/plugins/shortcache/) - A shortcode fragment cache plugin.
+* [PJ Fragment Cache](https://github.com/pressjitsu/fragment-cache) - Fragment caching with storage support for transients, object cache and object metadata.
 
 ## Browser Caching Plugins
 * [Speed Up – Browser Caching](https://wordpress.org/plugins/speed-up-browser-caching/) - This small plugin (10 Kb) enables browser caching in your Apache web server and help browser to cache a local copy of static files and improve page load times. 
