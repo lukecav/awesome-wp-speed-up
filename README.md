@@ -185,6 +185,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 ## Slow Query and Debugging Plugins
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Query Monitor is a debugging plugin for anyone developing with WordPress.
 * [Debug Bar](https://wordpress.org/plugins/debug-bar/) - Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
+* [Mindsize NewRelic](https://github.com/Mindsize/mindsize-newrelic) - Better WordPress data for New Relic, with WooCommerce support.
 
 ## NGNIX and Varnish Control Plugins
 * [Ngnix Helper](https://wordpress.org/plugins/nginx-helper/) - Add greater control for purging NGNIX cache if using for page caching.
