@@ -16,6 +16,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [NGNIX and Varnish Control Plugins](#ngnix-and-varnish-control-plugins)
 * [Caching Helper Plugins](#caching-helping-plugins)
 * [Performance Benchmarking Sites](#performance-benchmarking-sites)
+* [Load Impact Tools](#load-impact-tools)
 * [NGNIX Configs](#ngnix-configs)
 * [Apache Configs](#apache-configs)
 * [Varnish Configs](#varnish-configs)
@@ -245,6 +246,11 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Sucuri Load Time Tester](https://performance.sucuri.net/) - How fast is your site? You can test here the performance of any of your sites from across the globe.
 * [GTmetrix](https://gtmetrix.com/) - Start optimizing your site! GTmetrix provides explanations for each recommendation, and gives you actionable advice.
 * [Pingdom](https://tools.pingdom.com/) - Enter a URL to test the load time of that page, analyze it and find bottlenecks.
+
+## Load Impact Tools
+* [Locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
+* [Bees with Machine Guns!](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
+* [Iago](https://github.com/twitter/iago/) - A load generator, built for engineers.
 
 ## NGNIX Configs
 * [Browser caching rules for NGNIX and expire headers](https://gist.github.com/matthewjackowski/062be03b41a68edbadfc) - Browser caching rules for NGNIX and expire headers being set.
