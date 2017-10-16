@@ -251,6 +251,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
 * [Bees with Machine Guns!](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 * [Iago](https://github.com/twitter/iago/) - A load generator, built for engineers.
+* [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript.
 
 ## NGNIX Configs
 * [Browser caching rules for NGNIX and expire headers](https://gist.github.com/matthewjackowski/062be03b41a68edbadfc) - Browser caching rules for NGNIX and expire headers being set.
