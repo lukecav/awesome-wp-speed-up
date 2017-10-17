@@ -256,6 +256,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript.
 * [Apache JMeter](https://github.com/apache/jmeter) - Apache JMeter is a 100% pure Java application designed to test and measure performance. It may be used as a highly portable server benchmark as well as multi-client load generator.
 * [Artillery](https://github.com/shoreditch-ops/artillery) - Artillery is a modern, powerful, easy-to-use load-testing toolkit. Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy.
+* [Serverless Artillery](https://github.com/Nordstrom/serverless-artillery) - Combine serverless with artillery and you get serverless-artillery (a.k.a. serverless-artillery) for instant, cheap, and easy performance testing at scale.
 
 ## NGNIX Configs
 * [Browser caching rules for NGNIX and expire headers](https://gist.github.com/matthewjackowski/062be03b41a68edbadfc) - Browser caching rules for NGNIX and expire headers being set.
