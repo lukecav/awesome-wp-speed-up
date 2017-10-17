@@ -136,6 +136,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Velocity](https://wordpress.org/plugins/velocity/) - Velocity is a WordPress plugin for lazy loading video and audio embedded media – it’s an alternative loading method to the standard YouTube, Vimeo and SoundCloud iframe embeds.
 * [BJ Lazy Load](https://wordpress.org/plugins/bj-lazy-load/) - Lazy image loading makes your site load faster and saves bandwidth.
 * [Image Preloading](https://wordpress.org/plugins/image-preloading/) - Similar to DNS prefetching, image preloading/prefetching with JavaScript to get faster page loading experience.
+* [Easy Lazy Loader](https://wordpress.org/plugins/easy-lazy-loader/) - azy load images, iframes, videos and audios to improve page load times.
 
 ## Reduce HTTP Requests on Load Plugins
 * [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/) - Allows you to easily manage the frequency of the WordPress heartbeat API with just a few dropdowns.
