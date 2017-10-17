@@ -169,6 +169,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Simple DNS Prefetch](https://wordpress.org/plugins/simple-dns-prefetch/) - This plugin controls the DNS prefetch settings.
 * [Complete Analytics Optimization Suite (CAOS)](https://wordpress.org/plugins/host-analyticsjs-local/) - A plugin that allows you to completely optimize Google Analytics for your Wordpress Website: host analytics.js locally, keep it updated using wp_cron(), anonymize IP, disable tracking of admins, place tracking code in footer, and more.
 * [Cache External Scripts](https://wordpress.org/plugins/cache-external-scripts/) - This plugin allows you to cache the Google Analytics JavaScript file to be cached for more than 2 hours.
+* [WordPress WPO Tweaks](https://wordpress.org/plugins/wpo-tweaks/) - Several WPO Optimisations to Speed Up WordPress and get better results in Google PageSpeed, GTMetrix and Pingdom Tools.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
