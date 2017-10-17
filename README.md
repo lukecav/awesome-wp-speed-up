@@ -262,6 +262,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Tsung](https://github.com/processone/tsung) - Tsung is multi-protocol distributed load testing tool.
 * [Wrk](https://github.com/wg/wrk) - Wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event notification systems such as epoll and kqueue.
 * [Boom2](https://github.com/tarekziade/boom2) - Like Boom, but based on Molotov.
+* [Vegeta](https://github.com/tsenart/vegeta) - Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library.
 
 ## NGNIX Configs
 * [Browser caching rules for NGNIX and expire headers](https://gist.github.com/matthewjackowski/062be03b41a68edbadfc) - Browser caching rules for NGNIX and expire headers being set.
