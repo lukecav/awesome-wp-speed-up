@@ -261,6 +261,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Seige](https://github.com/JoeDog/siege) - Siege is an open source regression test and benchmark utility. It can stress test a single URL with a user defined number of simulated users, or it can read many URLs into memory and stress them simultaneously.
 * [Tsung](https://github.com/processone/tsung) - Tsung is multi-protocol distributed load testing tool.
 * [Wrk](https://github.com/wg/wrk) - Wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event notification systems such as epoll and kqueue.
+* [Boom2](https://github.com/tarekziade/boom2) - Like Boom, but based on Molotov.
 
 ## NGNIX Configs
 * [Browser caching rules for NGNIX and expire headers](https://gist.github.com/matthewjackowski/062be03b41a68edbadfc) - Browser caching rules for NGNIX and expire headers being set.
