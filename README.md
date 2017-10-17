@@ -258,6 +258,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Artillery](https://github.com/shoreditch-ops/artillery) - Artillery is a modern, powerful, easy-to-use load-testing toolkit. Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy.
 * [Serverless Artillery](https://github.com/Nordstrom/serverless-artillery) - Combine serverless with artillery and you get serverless-artillery (a.k.a. serverless-artillery) for instant, cheap, and easy performance testing at scale.
 * [Gatling](https://github.com/gatling/gatling) - Gatling is a stress tool. Development is currently focusing on HTTP support.
+* [Seige](https://github.com/JoeDog/siege) - Siege is an open source regression test and benchmark utility. It can stress test a single URL with a user defined number of simulated users, or it can read many URLs into memory and stress them simultaneously.
 
 ## NGNIX Configs
 * [Browser caching rules for NGNIX and expire headers](https://gist.github.com/matthewjackowski/062be03b41a68edbadfc) - Browser caching rules for NGNIX and expire headers being set.
