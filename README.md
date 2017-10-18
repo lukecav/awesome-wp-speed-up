@@ -46,6 +46,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Varnish Caching](https://wordpress.org/plugins/vcaching/) - WordPress Varnish Cache integration.
 * [Pantheon Advanced Page Cache](https://wordpress.org/plugins/pantheon-advanced-page-cache/) - Automatically clear related pages from Pantheon's Edge when you update content. High TTL. Fresh content. Visitors never wait.
 * [WP LCache](https://wordpress.org/plugins/wp-lcache/) - Supercharge your WP Object Cache with LCache, a persistent, performant, and multi-layer cache library.
+* [LiteSpeed Cache](https://wordpress.org/plugins/litespeed-cache/) - WordPress plugin to connect to LSCache on LiteSpeed Web Server.
 
 ## Object Caching Plugins
 * [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must.
