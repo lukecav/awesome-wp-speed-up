@@ -200,6 +200,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Rocket-Nginx](https://github.com/maximejobin/rocket-nginx) - Rocket-Nginx is a Nginx configuration for the WordPress cache plugin WP-Rocket.
 * [WPBase Cache](https://wordpress.org/plugins/wpbase-cache/) - Plugin is developed to optimize wordpress deployment on varnish + nginx + php-fpm + php-apc server stack using three type of caches full page cache, db cache and opcode cache.
 * [Nginx Cache](https://wordpress.org/plugins/nginx-cache/) - Purge the Nginx cache (FastCGI, Proxy, uWSGI) automatically when content changes or manually within WordPress.
+* [Nginx Helper](https://wordpress.org/plugins/nginx-helper/) - A WordPress Plugin to Purge the Nginx fastcgi cache or redis cache when content changes.
 
 ## Caching Helping Plugins
 * [WP Rocket Helpers](https://github.com/wp-media/wp-rocket-helpers) - This repository hosts a number of helper plugins that target some specific use cases for WP Rocket.
@@ -272,6 +273,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Enabling Gzip compression in NGNIX](https://gist.github.com/lukecav/a8e63b732e2cfd0008c6f82d4a3191fe) - Enabling Gzip compression in NGNIX.
 * [NGNIX Modules](https://github.com/nginx-modules) - Forked community NGNIX modules.
 * [NGINX Amplify Agent](https://github.com/nginxinc/nginx-amplify-agent) - The NGINX Amplify Agent is a Python application that provides system and NGINX metric collection.
+* [NGINX redis_cache with conditional purging](https://easyengine.io/wordpress-nginx/tutorials/single-site/redis_cache-with-conditional-purging/) - Use Nginx and Redis Cache to cache WordPress content into the memory to make WordPress Loding Faster
 
 ## Apache Configs
 * [Browser caching rules, mod_deflate and expires](https://gist.github.com/lukecav/c806c253608a7b9abfcb572bf46eb54c) - Browser caching rules for Apache, mod_deflate and expire headers being set.
