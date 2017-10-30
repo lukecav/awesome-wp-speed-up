@@ -177,6 +177,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Webcraftic Disable Comments](https://wordpress.org/plugins/comments-plus/) - Allows administrators to globally disable comments on their site. Comments can be disabled for individual record types.
 * [Webcraftic Clearfy - disable unused features](https://wordpress.org/plugins/clearfy/) - Disables unused Wordpress features, improves performance and increases SEO rankings, using Clearfy, which makes WordPress very easy.
 * [Remove jQuery Migrate](https://wordpress.org/plugins/remove-jquery-migrate/) - This plugin removes the jQuery Migrate script from the front end of your site.
+* [Remove Emoji Styles & Scripts](https://wordpress.org/plugins/remove-emoji-styles-scripts/) - If you do not want or need Emoji it is best to remove/dequeue Emoji styles and scripts for better performance.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
