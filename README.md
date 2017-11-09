@@ -180,6 +180,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Remove Emoji Styles & Scripts](https://wordpress.org/plugins/remove-emoji-styles-scripts/) - If you do not want or need Emoji it is best to remove/dequeue Emoji styles and scripts for better performance.
 * [Disable Embeds](https://wordpress.org/plugins/disable-embeds-littlebizzy/) - Disables both external and internal embedding functions to avoid slow page render, instability and SEO issues, and to improve overall loading speed.
 * [Native Performance](https://wordpress.org/plugins/native-performance/) - Native Performance is an all-in-one complement that integrates, in a complete and robust core, a set of tools for the solution of common errors, optimization, performance and much more.
+* [Disable WordPress Events and News Dashboard Widget](https://wordpress.org/plugins/disable-events-and-news-dashboard-widget/) -  Disable WordPress Events and News widget from the dashboard.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
