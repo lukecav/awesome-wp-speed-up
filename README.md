@@ -1,4 +1,4 @@
-# awesome-wp-speed-up
+# Awesome WP Speed Up
 Plugins and resources to speed up and optimize your WordPress site.
 
 ## Table Of Contents
