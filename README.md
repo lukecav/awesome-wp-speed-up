@@ -127,6 +127,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Google PageSpeed Image Optimizer Lite](https://wordpress.org/plugins/wp-google-pagespeed-image-optimizer-lite/) - This plugin will optimize your images exactly like Google Pagespeed Insights.
 * [Image Optimizer WD – WordPress Image Optimizer](https://wordpress.org/plugins/image-optimizer-wd/) - Image Optimizer WordPress plugin enables you to resize, compress and optimize PNG, JPG, GIF files while maintaining image quality.
 * [WP Compress - Image Optimizer](https://wpcompress.com/) - Compress and optimize images to shrink file size, improve load times, boost PageSpeed scores and supercharge your SEO rankings with WP Compress Image Optimization.
+* [Auto Cloudinary](https://wordpress.org/plugins/auto-cloudinary/) - Super simple Cloudinary auto-upload implementation for WordPress.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
@@ -140,7 +141,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Velocity](https://wordpress.org/plugins/velocity/) - Velocity is a WordPress plugin for lazy loading video and audio embedded media – it’s an alternative loading method to the standard YouTube, Vimeo and SoundCloud iframe embeds.
 * [BJ Lazy Load](https://wordpress.org/plugins/bj-lazy-load/) - Lazy image loading makes your site load faster and saves bandwidth.
 * [Image Preloading](https://wordpress.org/plugins/image-preloading/) - Similar to DNS prefetching, image preloading/prefetching with JavaScript to get faster page loading experience.
-* [Easy Lazy Loader](https://wordpress.org/plugins/easy-lazy-loader/) - azy load images, iframes, videos and audios to improve page load times.
+* [Easy Lazy Loader](https://wordpress.org/plugins/easy-lazy-loader/) - Lazy load images, iframes, videos and audios to improve page load times.
 
 ## Reduce HTTP Requests on Load Plugins
 * [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/) - Allows you to easily manage the frequency of the WordPress heartbeat API with just a few dropdowns.
