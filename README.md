@@ -256,6 +256,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Multisite Support for WP Rocket](https://wordpress.org/plugins/multisite-wp-rocket/) - Plugin to enable WP-Rocket to be managed in multisite.
 * [FV Gravatar Cache](https://wordpress.org/plugins/fv-gravatar-cache/) - Speeds up your website by making sure the gravatars are stored on your website and not loading from the gravatar server.
 * [ACF Simple Cache](https://wordpress.org/plugins/acf-simple-cache/) - Boost ACF speed by enabling json caching.
+* [Widget Output Cache](https://wordpress.org/plugins/widget-output-cache/) - Caches widget output in WordPress object cache.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
