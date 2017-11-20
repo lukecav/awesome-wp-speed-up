@@ -17,7 +17,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Caching Helper Plugins](#caching-helping-plugins)
 * [Performance Benchmarking Sites](#performance-benchmarking-sites)
 * [Load Impact Tools](#load-impact-tools)
-* [New Relic](#new-relic-plugins)
+* [New Relic Plugins](#new-relic-plugins)
 * [NGNIX Configs](#ngnix-configs)
 * [Apache Configs](#apache-configs)
 * [Varnish Configs](#varnish-configs)
