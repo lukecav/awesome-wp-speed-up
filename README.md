@@ -17,6 +17,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Caching Helper Plugins](#caching-helping-plugins)
 * [Performance Benchmarking Sites](#performance-benchmarking-sites)
 * [Load Impact Tools](#load-impact-tools)
+* [New Relic](#new-relic-plugins)
 * [NGNIX Configs](#ngnix-configs)
 * [Apache Configs](#apache-configs)
 * [Varnish Configs](#varnish-configs)
@@ -281,6 +282,10 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Wrk](https://github.com/wg/wrk) - Wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event notification systems such as epoll and kqueue.
 * [Boom2](https://github.com/tarekziade/boom2) - Like Boom, but based on Molotov.
 * [Vegeta](https://github.com/tsenart/vegeta) - Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library.
+
+## New Relic Plugins
+* [New Relic Reporting for WordPress](https://wordpress.org/plugins/wp-newrelic/) - New Relic APM reports for WordPress
+* [New Relic Browser by rtCamp](https://wordpress.org/plugins/rt-newrelic-browser/) - New Relic Browser Monitoring plugin.
 
 ## NGNIX Configs
 * [Browser caching rules for NGNIX and expire headers](https://gist.github.com/matthewjackowski/062be03b41a68edbadfc) - Browser caching rules for NGNIX and expire headers being set.
