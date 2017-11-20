@@ -318,6 +318,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [What is hit-for-pass in Varnish](https://info.varnish-software.com/blog/hit-for-pass-varnish-cache) - There is a term in Varnish Cache that every Varnish Cache user should know: “Hit for pass”. Like other Varnish Cache terms it is not self-explanatory and in order to understand what it is you’ll need to understand some of the mechanics of the caching.
 * [10 Varnish Cache mistakes and how to avoid them](https://info.varnish-software.com/blog/10-varnish-cache-mistakes-and-how-avoid-them) - Caching an object with a Set-Cookie header can have devastating effects, as any client requesting the object will get that same cookie set.
 * [How do I enable HTTP/2 Server Push in WordPress](https://support.cloudflare.com/hc/en-us/articles/115002816808-How-do-I-enable-HTTP-2-Server-Push-in-WordPress) - HTTP/2 Server Push allows a website to push content to a browser, without having to wait for the HTML of one page to render first.
+* [Get to know New Relic Reporting for WordPress](https://10up.com/blog/2017/new-relic-wordpress/) - New Relic is a SaaS product that offers application performance monitoring (APM), which provides developers with real-time data for use in proactive diagnostics as well as debugging. This data—including basic information about WordPress hooks, plugins, and themes—can be queried and visualized using the New Relic Insights dashboard.
 
 Hope this was helpful.
 
