@@ -145,6 +145,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Image Preloading](https://wordpress.org/plugins/image-preloading/) - Similar to DNS prefetching, image preloading/prefetching with JavaScript to get faster page loading experience.
 * [Easy Lazy Loader](https://wordpress.org/plugins/easy-lazy-loader/) - Lazy load images, iframes, videos and audios to improve page load times.
 * [WordPress Image Preload](https://github.com/aderaaij/wp-image-preload) - A modern lazyload / image preload plugin based on Intersection Observer.
+* [LH CSS Lazy Load](https://wordpress.org/plugins/lh-css-lazy-load/) - Lazy load non critical css.
 
 ## Reduce HTTP Requests on Load Plugins
 * [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/) - Allows you to easily manage the frequency of the WordPress heartbeat API with just a few dropdowns.
