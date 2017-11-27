@@ -189,6 +189,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Native Performance](https://wordpress.org/plugins/native-performance/) - Native Performance is an all-in-one complement that integrates, in a complete and robust core, a set of tools for the solution of common errors, optimization, performance and much more.
 * [Disable WordPress Events and News Dashboard Widget](https://wordpress.org/plugins/disable-events-and-news-dashboard-widget/) -  Disable WordPress Events and News widget from the dashboard.
 * [Dismiss "Welcome" Nag Dashboard Widget](https://wordpress.org/plugins/dismiss-welcome-nag/) -  Dismiss Welcome Panel nag, dashboard widget, when is activated, or automatically, if it is in mu-plugins directory.
+* [EVE Dynamic Prerender](https://wordpress.org/plugins/eve-dyn-prepender/) -  This WordPress plugin creates and inject into HTML head a Dynamic Prerender Meta Tag. The system stores users navigational paths inside the database e retrieve the most common next visited page as prerender meta tag. If the plugin doesn't has data for the next probable page, it will show a prerender to the homepage.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
