@@ -287,6 +287,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Vegeta](https://github.com/tsenart/vegeta) - Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library.
 
 ## New Relic Plugins
+* [Mindsize NewRelic](https://github.com/Mindsize/mindsize-newrelic) -  Better WordPress data for New Relic, with WooCommerce support.
 * [New Relic Reporting for WordPress](https://wordpress.org/plugins/wp-newrelic/) - New Relic APM reports for WordPress
 * [New Relic Browser by rtCamp](https://wordpress.org/plugins/rt-newrelic-browser/) - New Relic Browser Monitoring plugin.
 
