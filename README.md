@@ -49,6 +49,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP LCache](https://wordpress.org/plugins/wp-lcache/) - Supercharge your WP Object Cache with LCache, a persistent, performant, and multi-layer cache library.
 * [LiteSpeed Cache](https://wordpress.org/plugins/litespeed-cache/) - WordPress plugin to connect to LSCache on LiteSpeed Web Server.
 * [Project Nami Blob Cache](https://github.com/ProjectNami/projectnami-blob-cache) - External full page caching for WordPress.
+* [WOT Cache](https://wordpress.org/plugins/wot-cache/) - Wordpress Optimization Tool & Cache.
 
 ## Object Caching Plugins
 * [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must.
