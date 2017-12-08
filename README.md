@@ -254,7 +254,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Far Future Expiry Header](https://wordpress.org/plugins/far-future-expiry-header/) - This plugin will add a "far future expiration" date for various file types to improve site performance.
 * [Clear Sucuri Cache](https://wordpress.org/plugins/clear-sucuri-cache/) - Simply clears whole Sucuri cache. Clear is done from wp admin panel or plugin's page.
 * [WP Rocket User Role](https://gist.github.com/glueckpress/6a5ec40dc71e9775fcaa) - Restrict WP Rocket settings access to superadmins.
-* [Hummingbird](https://wordpress.org/plugins/hummingbird-performance/) - Hummingbird zips through your site finding new ways to make it load faster, from file compression and minification to browser caching â€“ because when it comes to pagespeed, every millisecond counts.
+* [Hummingbird](https://wordpress.org/plugins/hummingbird-performance/) - Hummingbird zips through your site finding new ways to make it load faster, from file compression and minification to browser caching because when it comes to pagespeed, every millisecond counts.
 * [Cache Sniper for Nginx](https://wordpress.org/plugins/snipe-nginx-cache/) - Purge the Nginx FastCGI Cache within WordPress on a global or per-page basis.
 * [Purge Varnish Cache](https://wordpress.org/plugins/purge-varnish/) - This plugin provides integration between your wordpress site and Varnish Cache to purge cache objects automate/manaully.
 * [WP Rocket Disable Cache for Members](https://wordpress.org/plugins/disable-wp-rocket-cache-members/) - Unofficial WP-Rocket addon to disable cache from being saved for members, but still be enabled.
