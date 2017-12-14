@@ -263,6 +263,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [FV Gravatar Cache](https://wordpress.org/plugins/fv-gravatar-cache/) - Speeds up your website by making sure the gravatars are stored on your website and not loading from the gravatar server.
 * [ACF Simple Cache](https://wordpress.org/plugins/acf-simple-cache/) - Boost ACF speed by enabling json caching.
 * [Widget Output Cache](https://wordpress.org/plugins/widget-output-cache/) - Caches widget output in WordPress object cache.
+* [Beaver Builder Cache Helper](https://github.com/Pross/beaver-cache-helper) - This plugin will clear various caches when layouts and templates are saved. It also clears the cache when WordPress finishes updating plugins and themes. The plugin also defines the DONOTCACHEPAGE constant when the builder is active, this is respected by most cache plugins.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
