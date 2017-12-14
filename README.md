@@ -63,6 +63,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [phpmemcacheadmin](https://code.google.com/archive/p/phpmemcacheadmin/) - Graphic stand-alone administration for memcached to monitor and debug purpose.
 * [Tiny Cache](https://github.com/szepeviktor/tiny-cache) - Cache post content, translations and nav menu output in persistent object cache.
 * [WP Redis Cache](https://github.com/BenjaminAdams/wp-redis-cache) - Cache WordPress using Redis, the fastest way to date to cache WordPress.
+* [Transient Page Flush](https://github.com/andyphillips82/wp-page-transient-flush) - Adds a page specific transient flush button to Debug Bar.
 
 ## Fragment Caching Plugins
 * [Fragment Cache](https://github.com/Rarst/fragment-cache) - Fragment Cache is a WordPress plugin for partial and async caching of heavy front-end elements. It currently supports caching navigation menus, widgets, and galleries.
