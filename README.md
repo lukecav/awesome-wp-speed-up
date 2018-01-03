@@ -134,6 +134,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Auto Cloudinary](https://wordpress.org/plugins/auto-cloudinary/) - Super simple Cloudinary auto-upload implementation for WordPress.
 * [Fly Dynamic Image Resizer](https://wordpress.org/plugins/fly-dynamic-image-resizer/) - Dynamically create image sizes on the fly.
 * [Autoremove Attachments](https://wordpress.org/plugins/autoremove-attachments/) - Autoremove Attachments helps you keep your media library clean by deleting all media files attached to a post when that post is permanently removed from your system.
+* [Dynamic Image Resizer](https://github.com/RadoslavGeorgiev/dynamic-image-resizer) - Generates image sizes only when needed, instead of the 404 page.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
