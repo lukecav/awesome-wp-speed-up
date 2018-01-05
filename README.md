@@ -197,6 +197,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [EVE Dynamic Prerender](https://wordpress.org/plugins/eve-dyn-prepender/) -  This WordPress plugin creates and inject into HTML head a Dynamic Prerender Meta Tag. The system stores users navigational paths inside the database e retrieve the most common next visited page as prerender meta tag. If the plugin doesn't has data for the next probable page, it will show a prerender to the homepage.
 * [Webcraftic Assets Manager](https://wordpress.org/plugins/gonzales/) -  Increase the speed of the pages by disabling unused scripts (.JS) and styles (.CSS). Make your website reactive.
 * [WP Widget Disable](https://wordpress.org/plugins/wp-widget-disable/) -  Disable Sidebar and Dashboard Widgets with an easy to use interface. Simply use the checkboxes provided under <strong>Appearance -> Disable Widgets</strong> and select the Widgets you'd like to hide.
+* [WP YouTube Video Optimizer](https://wordpress.org/plugins/wp-youtube-video-optimizer/) -  Embed multiple YouTube videos using a simple shortcode.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
