@@ -109,6 +109,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP-Stateless](https://wordpress.org/plugins/wp-stateless/) - Stores and serves WordPress media files directly from Google Cloud Storage.
 * [WP Azure offload](https://wordpress.org/plugins/wp-azure-offload/) - Automatically copies media to Azure storage and deliver using CDN.
 * [CloudFlare](https://wordpress.org/plugins/cf-littlebizzy/) - Easily connect your WordPress website to CloudFlare's free optimization features, including one-click options to purge cache and enable 'dev' mode.
+* [CloudFront Page Cache](https://wordpress.org/plugins/cf-page-cache/) - Low cost and high performance page cache based on Amazon's CloudFront CDN for international SEO. CloudFront provides international fast website speed and dedicated geographic IP's for local SEO advantage.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
