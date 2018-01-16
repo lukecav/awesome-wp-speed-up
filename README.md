@@ -131,7 +131,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Resizefly](https://wordpress.org/plugins/resizefly/) - Dynamically resize your images on the fly.
 * [WP Google PageSpeed Image Optimizer Lite](https://wordpress.org/plugins/wp-google-pagespeed-image-optimizer-lite/) - This plugin will optimize your images exactly like Google Pagespeed Insights.
 * [Image Optimizer WD – WordPress Image Optimizer](https://wordpress.org/plugins/image-optimizer-wd/) - Image Optimizer WordPress plugin enables you to resize, compress and optimize PNG, JPG, GIF files while maintaining image quality.
-* [WP Compress - Image Optimizer](https://wpcompress.com/) - Compress and optimize images to shrink file size, improve load times, boost PageSpeed scores and supercharge your SEO rankings with WP Compress Image Optimization.
+* [WP Compress - Image Optimizer](https://wordpress.org/plugins/wp-compress-image-optimizer/) - Compress and optimize images to shrink file size, improve load times and boost PageSpeed scores in just one click using WP Compress image optimization.
 * [Auto Cloudinary](https://wordpress.org/plugins/auto-cloudinary/) - Super simple Cloudinary auto-upload implementation for WordPress.
 * [Fly Dynamic Image Resizer](https://wordpress.org/plugins/fly-dynamic-image-resizer/) - Dynamically create image sizes on the fly.
 * [Autoremove Attachments](https://wordpress.org/plugins/autoremove-attachments/) - Autoremove Attachments helps you keep your media library clean by deleting all media files attached to a post when that post is permanently removed from your system.
