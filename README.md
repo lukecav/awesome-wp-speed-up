@@ -201,6 +201,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Widget Disable](https://wordpress.org/plugins/wp-widget-disable/) -  Disable Sidebar and Dashboard Widgets with an easy to use interface. Simply use the checkboxes provided under <strong>Appearance -> Disable Widgets</strong> and select the Widgets you'd like to hide.
 * [WP YouTube Video Optimizer](https://wordpress.org/plugins/wp-youtube-video-optimizer/) -  Embed multiple YouTube videos using a simple shortcode.
 * [Above The Fold Optimization](https://wordpress.org/plugins/above-the-fold-optimization/) -  Above the fold optimization toolkit that enables to achieve a Google PageSpeed 100 Score. Supports most optimization, minification and full page cache plugins.
+* [Disable jQuery Migrate](https://wordpress.org/plugins/disable-jq-migrate-littlebizzy/) -  Easily prevent the jQuery migrate script that is included with WordPress core from being loaded to slim down source code (for advanced users only).
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
