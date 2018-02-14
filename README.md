@@ -280,6 +280,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Beaver Builder Cache Helper](https://github.com/Pross/beaver-cache-helper) - This plugin will clear various caches when layouts and templates are saved. It also clears the cache when WordPress finishes updating plugins and themes. The plugin also defines the DONOTCACHEPAGE constant when the builder is active, this is respected by most cache plugins.
 * [Flush Opcache with Varnish](https://wordpress.org/plugins/flush-opcache-with-varnish/) - Automatically flush the PHP opcache when you click the "Purge Cache" button created by Varnish HTTP Purge.
 * [Rest API Cache](https://wordpress.org/plugins/rest-api-cache/) - Boost your application speed by caching the WordPress REST API.
+* [WP Super Cache Cleaner](https://wordpress.org/plugins/clean-wp-super-cache/) - Ajax based Clear cache for WP super cache, with this you can clear WP super cache from any place in WordPress dashboard without leaving the present page.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
