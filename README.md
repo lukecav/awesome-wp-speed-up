@@ -281,6 +281,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Flush Opcache with Varnish](https://wordpress.org/plugins/flush-opcache-with-varnish/) - Automatically flush the PHP opcache when you click the "Purge Cache" button created by Varnish HTTP Purge.
 * [Rest API Cache](https://wordpress.org/plugins/rest-api-cache/) - Boost your application speed by caching the WordPress REST API.
 * [WP Super Cache Cleaner](https://wordpress.org/plugins/clean-wp-super-cache/) - Ajax based Clear cache for WP super cache, with this you can clear WP super cache from any place in WordPress dashboard without leaving the present page.
+* [reBusted!](https://wordpress.org/plugins/rebusted/) - Force browsers to load the most recent file if modified.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
