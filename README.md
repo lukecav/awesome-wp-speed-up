@@ -204,6 +204,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP YouTube Video Optimizer](https://wordpress.org/plugins/wp-youtube-video-optimizer/) -  Embed multiple YouTube videos using a simple shortcode.
 * [Above The Fold Optimization](https://wordpress.org/plugins/above-the-fold-optimization/) -  Above the fold optimization toolkit that enables to achieve a Google PageSpeed 100 Score. Supports most optimization, minification and full page cache plugins.
 * [Disable jQuery Migrate](https://wordpress.org/plugins/disable-jq-migrate-littlebizzy/) -  Easily prevent the jQuery migrate script that is included with WordPress core from being loaded to slim down source code (for advanced users only).
+* [Header Cleanup](https://wordpress.org/plugins/header-cleanup-littlebizzy/) -  Cleans up most of the unnecessary junk meta included by default in the WordPress header including generator, RSD, shortlink, previous and next, etc.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
