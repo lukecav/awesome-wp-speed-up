@@ -206,6 +206,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Above The Fold Optimization](https://wordpress.org/plugins/above-the-fold-optimization/) -  Above the fold optimization toolkit that enables to achieve a Google PageSpeed 100 Score. Supports most optimization, minification and full page cache plugins.
 * [Disable jQuery Migrate](https://wordpress.org/plugins/disable-jq-migrate-littlebizzy/) -  Easily prevent the jQuery migrate script that is included with WordPress core from being loaded to slim down source code (for advanced users only).
 * [Header Cleanup](https://wordpress.org/plugins/header-cleanup-littlebizzy/) -  Cleans up most of the unnecessary junk meta included by default in the WordPress header including generator, RSD, shortlink, previous and next, etc.
+* [Web Font Optimization](https://wordpress.org/plugins/web-font-optimization/) -  Advanced Web Font optimization toolkit. Font Face API, Web Font Observer, Google Font Loader, Critical CSS, async and timed font rendering and more.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
