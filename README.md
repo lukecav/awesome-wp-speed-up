@@ -138,7 +138,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Fly Dynamic Image Resizer](https://wordpress.org/plugins/fly-dynamic-image-resizer/) - Dynamically create image sizes on the fly.
 * [Autoremove Attachments](https://wordpress.org/plugins/autoremove-attachments/) - Autoremove Attachments helps you keep your media library clean by deleting all media files attached to a post when that post is permanently removed from your system.
 * [Dynamic Image Resizer](https://github.com/RadoslavGeorgiev/dynamic-image-resizer) - Generates image sizes only when needed, instead of the 404 page.
-* [Image Optimize Command](https://github.com/TypistTech/image-optimize-command) - Easily optimize images using WP CLI
+* [Image Optimize Command](https://github.com/TypistTech/image-optimize-command) - Easily optimize images using WP CLI.
+* [Just Image Optimizer](https://wordpress.org/plugins/just-image-optimizer/) - Compress image files, improve performance and boost your SEO rank using Google Page Speed Insights compression and optimization.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
