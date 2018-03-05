@@ -140,6 +140,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Dynamic Image Resizer](https://github.com/RadoslavGeorgiev/dynamic-image-resizer) - Generates image sizes only when needed, instead of the 404 page.
 * [Image Optimize Command](https://github.com/TypistTech/image-optimize-command) - Easily optimize images using WP CLI.
 * [Just Image Optimizer](https://wordpress.org/plugins/just-image-optimizer/) - Compress image files, improve performance and boost your SEO rank using Google Page Speed Insights compression and optimization.
+* [Octify Image Compression](https://wordpress.org/plugins/octify/) - Octify Image Compression for WordPress.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
