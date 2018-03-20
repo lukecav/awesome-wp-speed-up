@@ -328,6 +328,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Enabling Gzip compression in NGNIX](https://gist.github.com/lukecav/a8e63b732e2cfd0008c6f82d4a3191fe) - Enabling Gzip compression in NGNIX.
 * [NGNIX Modules](https://github.com/nginx-modules) - Forked community NGNIX modules.
 * [NGINX Amplify Agent](https://github.com/nginxinc/nginx-amplify-agent) - The NGINX Amplify Agent is a Python application that provides system and NGINX metric collection.
+* [Nginx WordPress Configurations](https://github.com/davidegreenwald/Nginx-for-WordPress-Configurations) - TNginx-only, Apache-free configurations for WordPress with PHP-FPM, FastCGI cache, SSL, security settings, .webp support, and phpMyAdmin (just in case!). Mix and match the .conf files for your preferred configuration and traffic needs.
 
 ## Apache Configs
 * [Browser caching rules, mod_deflate and expires](https://gist.github.com/lukecav/c806c253608a7b9abfcb572bf46eb54c) - Browser caching rules for Apache, mod_deflate and expire headers being set.
