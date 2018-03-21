@@ -212,6 +212,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Disable jQuery Migrate](https://wordpress.org/plugins/disable-jq-migrate-littlebizzy/) -  Easily prevent the jQuery migrate script that is included with WordPress core from being loaded to slim down source code (for advanced users only).
 * [Header Cleanup](https://wordpress.org/plugins/header-cleanup-littlebizzy/) -  Cleans up most of the unnecessary junk meta included by default in the WordPress header including generator, RSD, shortlink, previous and next, etc.
 * [Web Font Optimization](https://wordpress.org/plugins/web-font-optimization/) -  Advanced Web Font optimization toolkit. Font Face API, Web Font Observer, Google Font Loader, Critical CSS, async and timed font rendering and more.
+* [Disable Admin-AJAX](https://wordpress.org/plugins/disable-admin-ajax-littlebizzy/) -  Completely disables frontend access to admin-ajax.php regardless of Heartbeat settings, to avoid unwanted AJAX calls and vastly improve performance.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
