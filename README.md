@@ -85,6 +85,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Advanced WPPerformance](https://wordpress.org/plugins/advanced-wpperformance/) - This plugin adds several performance improvements to your WordPress site.
 * [CSS Optimization](https://wordpress.org/plugins/css-optimization/) - Advanced CSS optimization toolkit. Critical CSS, minification, concatenation, async loading, advanced editor, CSS Lint, Clean CSS (professional), beautifier and more.
 * [Javascript Optimization](https://wordpress.org/plugins/javascript-optimization/) - Advanced Javascript optimization toolkit. Minify, concat/merge, async loading, advanced editor, ES Lint, UglifyJS (professional), beautifier and more.
+* [HTML Optimization](https://wordpress.org/plugins/html-optimization/) - Advanced HTML optimization toolkit. Minify, code optimization, search & replace, strip comments and more.
 
 ## CDN Integration Plugins
 * [CDN Enabler](https://wordpress.org/plugins/cdn-enabler/) - A content delivery network (CDN) is a network of distributed edge servers, which accelerate your content around the globe. The main benefits of a CDN are scalability, reliability and performance.
