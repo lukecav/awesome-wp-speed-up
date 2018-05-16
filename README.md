@@ -51,6 +51,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Project Nami Blob Cache](https://github.com/ProjectNami/projectnami-blob-cache) - External full page caching for WordPress.
 * [WOT Cache](https://wordpress.org/plugins/wot-cache/) - Wordpress Optimization Tool & Cache.
 * [Swift Performance Lite](https://wordpress.org/plugins/swift-performance-lite/) - Boost your WordPress site.
+* [CodeDragon SmartCache](https://wordpress.org/plugins/codedragon-smartcache/) - An intelligent site performance and caching optimization facility for Wordpress.  It offers super-fast, adaptive minification, GZIP compression, browser caching, database performance improvements, and more.
 
 ## Object Caching Plugins
 * [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must.
