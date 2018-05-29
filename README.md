@@ -234,6 +234,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Servebolt Optimizer](https://wordpress.org/plugins/servebolt-optimizer/) - A plugin that checks and implements Servebolt Performance best practises for WordPress.
 * [Delete Expired Transients](https://wordpress.org/plugins/delete-expired-transients-littlebizzy/) - Deletes all expired transients upon activation and on a daily basis thereafter via WP-Cron to maintain a cleaner database and improve performance.
 * [Yoast SEO Cleaner](https://wordpress.org/plugins/clean-yoast-seo-cache/) - Cleans up your WP options table by removing Yoast SEO "_cache_validator" entries.
+* [WPS Cleaner](https://wordpress.org/plugins/wps-cleaner/) - WPS Cleaner cleans the database and WordPress.
 
 ## Slow Query and Debugging Plugins
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Query Monitor is a debugging plugin for anyone developing with WordPress.
