@@ -119,6 +119,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [CloudFront Page Cache CDN](https://wordpress.org/plugins/cf-page-cache/) - Low cost and high performance page cache based on Amazon's CloudFront CDN for international SEO. CloudFront provides international fast website speed and dedicated geographic IP's for local SEO advantage.
 * [WordPress CDN and Image Hosting Plugin – Sirv](https://wordpress.org/plugins/sirv/) - Instantly resize or crop images to any size. Add watermarks, titles, text and image effects. Embed them as images, galleries, zooms or 360 spins. Serve them from the fast CDN. Responsive, to perfectly fit the screen. Use the "Add Sirv Media" button on posts and pages.
 * [Google Cloud CDN Page Cache](https://wordpress.org/plugins/gc-page-cache-cdn/) - Low cost and high performance international page cache based on Google Cloud CDN.
+* [WP Godspeed – One click CDN](https://wordpress.org/plugins/wp-godspeed/) - The premiere free CDN plugin for WordPress.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
