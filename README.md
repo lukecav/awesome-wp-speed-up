@@ -313,6 +313,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 
 ## WP-CLI Commands and Packages
 * [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
+* [wp transient](https://developer.wordpress.org/cli/commands/transient/) - Adds, gets, and deletes entries in the WordPress Transient Cache.
+* [wp db optimize](https://developer.wordpress.org/cli/commands/db/optimize/) - Optimizes the database.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
