@@ -15,6 +15,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Slow Query and Debugging Plugins](#slow-query-and-debugging-plugins)
 * [NGNIX and Varnish Control Plugins](#ngnix-and-varnish-control-plugins)
 * [Caching Helper Plugins](#caching-helping-plugins)
+* [WP-CLI Commands and Packages](#wp-cli-commands-and-packages)
 * [Performance Benchmarking Sites](#performance-benchmarking-sites)
 * [Load Impact Tools](#load-impact-tools)
 * [New Relic Plugins](#new-relic-plugins)
@@ -309,6 +310,9 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Merge + Minify + Refresh Clear Caches](https://wordpress.org/plugins/merge-minify-refresh-clear-caches/) - Clears popular caching plugins when the Merge + Minify + Refresh cache is updated.
 * [Better Resource Hints](https://wordpress.org/plugins/better-resource-hints/) - Easy preloading, prefetching, and HTTP/2 server pushing for your CSS and JavaScript.
 * [Real IP and Geo for Cloudflare](https://wordpress.org/plugins/real-ip-and-geo-for-cloudflare/) - Saves and displays visitors' real IP and location, instead of Cloudflare's
+
+## WP-CLI Commands and Packages
+* [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
