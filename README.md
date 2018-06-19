@@ -317,6 +317,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [wp db optimize](https://developer.wordpress.org/cli/commands/db/optimize/) - Optimizes the database.
 * [wp cache flush](https://developer.wordpress.org/cli/commands/cache/flush/) - Flushes the object cache.
 * [wp media](https://developer.wordpress.org/cli/commands/media/) - Imports files as attachments, regenerates thumbnails, or lists registered image sizes.
+* [wp media regenerate](https://developer.wordpress.org/cli/commands/media/regenerate/) - Regenerates thumbnails for one or more attachments.
 * [EWWW IO via WP-CLI](https://docs.ewww.io/article/25-optimizing-with-wp-cli) - EWWW Image Optimizer features a WP-CLI extension that allows you to optimize your images "en masse". 
 
 ## Performance Benchmarking Sites
