@@ -315,6 +315,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
 * [wp transient](https://developer.wordpress.org/cli/commands/transient/) - Adds, gets, and deletes entries in the WordPress Transient Cache.
 * [wp db optimize](https://developer.wordpress.org/cli/commands/db/optimize/) - Optimizes the database.
+* [EWWW IO via WP-CLI](https://docs.ewww.io/article/25-optimizing-with-wp-cli) - EWWW Image Optimizer features a WP-CLI extension that allows you to optimize your images "en masse". 
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
