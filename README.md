@@ -311,7 +311,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Next Page Caching](https://wordpress.org/plugins/next-page-caching/) - Speed up the loading of the NEXT page your visitors will go to.
 * [Merge + Minify + Refresh Clear Caches](https://wordpress.org/plugins/merge-minify-refresh-clear-caches/) - Clears popular caching plugins when the Merge + Minify + Refresh cache is updated.
 * [Better Resource Hints](https://wordpress.org/plugins/better-resource-hints/) - Easy preloading, prefetching, and HTTP/2 server pushing for your CSS and JavaScript.
-* [Real IP and Geo for Cloudflare](https://wordpress.org/plugins/real-ip-and-geo-for-cloudflare/) - Saves and displays visitors' real IP and location, instead of Cloudflare's
+* [Real IP and Geo for Cloudflare](https://wordpress.org/plugins/real-ip-and-geo-for-cloudflare/) - Saves and displays visitors' real IP and location, instead of Cloudflare's.
+* [Autoclear Autoptimize Cache](https://wordpress.org/plugins/autoclear-autoptimize-cache/) - A companion plugin for Autoptimize that automatically clears cache if it grows larger then selected size.
 
 ## WP-CLI Commands and Packages
 * [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
