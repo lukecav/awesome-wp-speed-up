@@ -154,6 +154,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Image Optimizer](https://wordpress.org/plugins/wp-image-optimizer/) - Reduce image file sizes and improve website performance using Linux littleutils image optimizers within WordPress.
 * [tiny.pictures Image CDN](https://wordpress.org/plugins/tiny-pictures-image-cdn/) - Scales and optimizes your images using the tiny.pictures image processing service in the cloud and delivers them through worldwide CDN nodes.
 * [Piio – Powerful Image Compressor, Optimization and Delivery](https://wordpress.org/plugins/piio-image-optimization/) - Generates responsive and optimized images, so you don't have to.
+* [Resize Image After Upload]https://wordpress.org/plugins/resize-image-after-upload/) - Automatically resize uploaded images to within specified maximum width and height. Also has option to force recompression of JPEGs.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
