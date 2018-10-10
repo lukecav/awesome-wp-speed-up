@@ -157,6 +157,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Resize Image After Upload](https://wordpress.org/plugins/resize-image-after-upload/) - Automatically resize uploaded images to within specified maximum width and height. Also has option to force recompression of JPEGs.
 * [Image optimization and CDN by Optimole](https://wordpress.org/plugins/optimole-wp/) - Complete handling of your website images.
 * [MegaOptim Image Optimizer](https://wordpress.org/plugins/megaoptim-image-optimizer/) - MegaOptim is image compression plugin that optimizes your images in the cloud using intelligent image compression methods to save as much space as possible while keeping the quality almost identical. It's compatible with NextGen Gallery, MediaPress, WP Retina 2x and many other gallery plugins.
+* [Stop Generating Image Sizes](https://wordpress.org/plugins/image-sizes/) - So, it creates multiple sizes of an image while uploading? Here is the solution!
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
