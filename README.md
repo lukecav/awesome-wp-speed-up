@@ -230,6 +230,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Scripts To Footer](https://wordpress.org/plugins/scripts-to-footerphp/) -  Moves scripts to the footer to decrease page load times, while keeping stylesheets in the header. Requires that plugins and theme correctly utilizes wp_enqueue_scripts hook. Can be disabled via a checkbox on specific pages and posts.
 * [WP-Tweaker](https://wordpress.org/plugins/wp-tweaker/) -  WordPress automatically provides some features that not every blogger really needs. 
 * [Speed Demon](https://wordpress.org/plugins/speed-demon-littlebizzy/) -  A powerful bundle of lightweight tools and settings that drastically improve the loading speed of WordPress by reducing bulk and improving efficiency.
+* [Self-Hosted Google Fonts](https://wordpress.org/plugins/selfhost-google-fonts/) -  Automatically self-host your Google Fonts - works with any theme or plugin.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
