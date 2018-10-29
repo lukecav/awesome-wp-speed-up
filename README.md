@@ -323,6 +323,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Better Resource Hints](https://wordpress.org/plugins/better-resource-hints/) - Easy preloading, prefetching, and HTTP/2 server pushing for your CSS and JavaScript.
 * [Real IP and Geo for Cloudflare](https://wordpress.org/plugins/real-ip-and-geo-for-cloudflare/) - Saves and displays visitors' real IP and location, instead of Cloudflare's.
 * [Autoclear Autoptimize Cache](https://wordpress.org/plugins/autoclear-autoptimize-cache/) - A companion plugin for Autoptimize that automatically clears cache if it grows larger then selected size.
+* [WP Rocket LoadCSS](https://wordpress.org/plugins/enhance-wp-rocket-loadcss/) -  WordPress plugin to quickly modify php output with appropriate loadCSS syntax.
 
 ## WP-CLI Commands and Packages
 * [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
