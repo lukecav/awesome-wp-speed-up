@@ -123,6 +123,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Google Cloud CDN Page Cache](https://wordpress.org/plugins/gc-page-cache-cdn/) - Low cost and high performance international page cache based on Google Cloud CDN.
 * [WP Godspeed – One click CDN](https://wordpress.org/plugins/wp-godspeed/) - The premiere free CDN plugin for WordPress.
 * [CDNsun](https://wordpress.org/plugins/cdnsun/) - Integrates any Content Delivery Network (CDN) into WordPress.
+* [ImageBoss](https://wordpress.org/plugins/imageboss/) - Content aware image resizing, cropping, compression, cache and CDN. All web development best practices, hassle free in one simple and powerful API.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
