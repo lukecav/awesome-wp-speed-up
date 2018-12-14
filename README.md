@@ -179,6 +179,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [LH CSS Lazy Load](https://wordpress.org/plugins/lh-css-lazy-load/) - Lazy load non critical css.
 * [Crazy Lazy](https://wordpress.org/plugins/crazy-lazy/) - Lazy load images. Simple to use: Activate, done. Search engine and noscript user friendly.
 * [QazyWP – Image Lazy Loader](https://wordpress.org/plugins/image-lazy-loader/) - Lazy Load Images in WordPress - Built off Narayan Prusty's Qazy library.
+* [Lazy Load Optimizer](https://wordpress.org/plugins/lazy-load-optimizer/) - Lazy loading images to speed up sites page load speed.
 
 ## Reduce HTTP Requests on Load Plugins
 * [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/) - Allows you to easily manage the frequency of the WordPress heartbeat API with just a few dropdowns.
