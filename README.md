@@ -90,7 +90,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Javascript Optimization](https://wordpress.org/plugins/javascript-optimization/) - Advanced Javascript optimization toolkit. Minify, concat/merge, async loading, advanced editor, ES Lint, UglifyJS (professional), beautifier and more.
 * [HTML Optimization](https://wordpress.org/plugins/html-optimization/) - Advanced HTML optimization toolkit. Minify, code optimization, search & replace, strip comments and more.
 * [Merge + Minify + Refresh](https://wordpress.org/plugins/merge-minify-refresh/) - Merge/Concatenate & Minify CSS & JS.
-* [Minify HTML](https://wordpress.org/plugins/minify-html-littlebizzy/) - Tactfully minifies HTML output and markup to remove line breaks, whitespace, comments, and other code bloat to cleanup source code and improve speed.
+* [Minify HTML](https://www.littlebizzy.com/plugins/) - Tactfully minifies HTML output and markup to remove line breaks, whitespace, comments, and other code bloat to cleanup source code and improve speed.
 
 ## CDN Integration Plugins
 * [CDN Enabler](https://wordpress.org/plugins/cdn-enabler/) - A content delivery network (CDN) is a network of distributed edge servers, which accelerate your content around the globe. The main benefits of a CDN are scalability, reliability and performance.
@@ -117,7 +117,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Sunny](https://wordpress.org/plugins/sunny/) - Automatically purge CloudFlare cache, including cache everything rules.
 * [WP-Stateless](https://wordpress.org/plugins/wp-stateless/) - Stores and serves WordPress media files directly from Google Cloud Storage.
 * [WP Azure offload](https://wordpress.org/plugins/wp-azure-offload/) - Automatically copies media to Azure storage and deliver using CDN.
-* [CloudFlare](https://wordpress.org/plugins/cf-littlebizzy/) - Easily connect your WordPress website to CloudFlare's free optimization features, including one-click options to purge cache and enable 'dev' mode.
+* [CloudFlare](https://www.littlebizzy.com/plugins) - Easily connect your WordPress website to CloudFlare's free optimization features, including one-click options to purge cache and enable 'dev' mode.
 * [CloudFront Page Cache CDN](https://wordpress.org/plugins/cf-page-cache/) - Low cost and high performance page cache based on Amazon's CloudFront CDN for international SEO. CloudFront provides international fast website speed and dedicated geographic IP's for local SEO advantage.
 * [WordPress CDN and Image Hosting Plugin – Sirv](https://wordpress.org/plugins/sirv/) - Instantly resize or crop images to any size. Add watermarks, titles, text and image effects. Embed them as images, galleries, zooms or 360 spins. Serve them from the fast CDN. Responsive, to perfectly fit the screen. Use the "Add Sirv Media" button on posts and pages.
 * [Google Cloud CDN Page Cache](https://wordpress.org/plugins/gc-page-cache-cdn/) - Low cost and high performance international page cache based on Google Cloud CDN.
@@ -184,7 +184,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 ## Reduce HTTP Requests on Load Plugins
 * [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/) - Allows you to easily manage the frequency of the WordPress heartbeat API with just a few dropdowns.
 * [Disable Emoji](https://wordpress.org/plugins/disable-emojis/) - This plugin disables the new WordPress emoji functionality.
-* [Disable Emojis](https://wordpress.org/plugins/disable-emojis-littlebizzy/) - Completely disables both the old and new versions of WordPress emojis, removes the corresponding javascript calls, and improves page loading times.
+* [Disable Emojis](https://www.littlebizzy.com/plugins) - Completely disables both the old and new versions of WordPress emojis, removes the corresponding javascript calls, and improves page loading times.
 * [Emoji Settings](https://wordpress.org/plugins/emoji-settings/) - Emoji Settings adds an option within your Writing Settings page to disable or enable emojis.
 * [Compressed Emoji](https://wordpress.org/plugins/compressed-emoji/) - WordPress emoji comes from s.w.org and they are not optimized well, Compressed Emoji fixes this problem.
 * [Disable Embeds](https://wordpress.org/plugins/disable-embeds/) - Disable Embeds
@@ -233,7 +233,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Disable Admin-AJAX](https://wordpress.org/plugins/disable-admin-ajax-littlebizzy/) -  Completely disables frontend access to admin-ajax.php regardless of Heartbeat settings, to avoid unwanted AJAX calls and vastly improve performance.
 * [Scripts To Footer](https://wordpress.org/plugins/scripts-to-footerphp/) -  Moves scripts to the footer to decrease page load times, while keeping stylesheets in the header. Requires that plugins and theme correctly utilizes wp_enqueue_scripts hook. Can be disabled via a checkbox on specific pages and posts.
 * [WP-Tweaker](https://wordpress.org/plugins/wp-tweaker/) -  WordPress automatically provides some features that not every blogger really needs. 
-* [Speed Demon](https://wordpress.org/plugins/speed-demon-littlebizzy/) -  A powerful bundle of lightweight tools and settings that drastically improve the loading speed of WordPress by reducing bulk and improving efficiency.
+* [Speed Demon](https://www.littlebizzy.com/plugins) -  A powerful bundle of lightweight tools and settings that drastically improve the loading speed of WordPress by reducing bulk and improving efficiency.
 * [Self-Hosted Google Fonts](https://wordpress.org/plugins/selfhost-google-fonts/) -  Automatically self-host your Google Fonts - works with any theme or plugin.
 
 ## Database Optimization Plugins
@@ -249,7 +249,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Transient Cleaner](https://wordpress.org/plugins/artiss-transient-cleaner/) - Housekeep expired transients from your options table.
 * [PJ Transient Cleaner](https://github.com/pressjitsu/wp-transients-cleaner) - Cleans expired transients behind the scenes.
 * [Servebolt Optimizer](https://wordpress.org/plugins/servebolt-optimizer/) - A plugin that checks and implements Servebolt Performance best practises for WordPress.
-* [Delete Expired Transients](https://wordpress.org/plugins/delete-expired-transients-littlebizzy/) - Deletes all expired transients upon activation and on a daily basis thereafter via WP-Cron to maintain a cleaner database and improve performance.
+* [Delete Expired Transients](https://www.littlebizzy.com/plugins) - Deletes all expired transients upon activation and on a daily basis thereafter via WP-Cron to maintain a cleaner database and improve performance.
 * [Yoast SEO Cleaner](https://wordpress.org/plugins/clean-yoast-seo-cache/) - Cleans up your WP options table by removing Yoast SEO "_cache_validator" entries.
 * [Yoast SEO Cleaner](https://wordpress.org/plugins/wps-cleaner/) - WPS Cleaner cleans the database and WordPress.
 * [Custom Post Type Cleanup](https://wordpress.org/plugins/custom-post-type-cleanup/) - Detect and delete posts from custom post types that are no longer in use.
