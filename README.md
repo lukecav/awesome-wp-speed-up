@@ -97,6 +97,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 ## CDN Integration Plugins
 * [CDN Enabler](https://wordpress.org/plugins/cdn-enabler/) - A content delivery network (CDN) is a network of distributed edge servers, which accelerate your content around the globe. The main benefits of a CDN are scalability, reliability and performance.
 * [Cloudflare](https://wordpress.org/plugins/cloudflare/) - The easiest way to setup Cloudflare for your WordPress site.
+* [Cloudflare Page Cache](https://wordpress.org/plugins/cloudflare-page-cache/) - Cache HTML pages on the Cloudflare CDN when used with the page cache Worker.
 * [Fastly](https://wordpress.org/plugins/fastly/) - Using this plugin means you won’t have to purge content in Fastly when you make changes to your WordPress content. Purges will automatically happen with no need for manual intervention.
 * [Purgely](https://github.com/CondeNast/purgely) - Purgely manages caching and purging behavior for WordPress sites using the Fastly edge caching services. The plugin sets up default behaviors based on best practices for WordPress websites.
 * [DreamSpeed CDN](https://wordpress.org/plugins/dreamspeed-cdn/) - This plugin will automatically copy images, videos, documents, and any other media added through WordPress’ media uploader to DreamSpeed.
