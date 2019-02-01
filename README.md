@@ -331,6 +331,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Autoclear Autoptimize Cache](https://wordpress.org/plugins/autoclear-autoptimize-cache/) - A companion plugin for Autoptimize that automatically clears cache if it grows larger then selected size.
 * [WP Rocket LoadCSS](https://wordpress.org/plugins/enhance-wp-rocket-loadcss/) -  WordPress plugin to quickly modify php output with appropriate loadCSS syntax.
 * [Static Menus](https://wordpress.org/plugins/static-menus-inventivo/) -  Save WordPress menus as static files for faster page loading times.
+* [Quicklink for WordPress](https://wordpress.org/plugins/quicklink/) -  Faster subsequent page-loads by prefetching in-viewport links during idle time.
 
 ## WP-CLI Commands and Packages
 * [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
