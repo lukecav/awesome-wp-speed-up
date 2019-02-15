@@ -93,6 +93,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [HTML Optimization](https://wordpress.org/plugins/html-optimization/) - Advanced HTML optimization toolkit. Minify, code optimization, search & replace, strip comments and more.
 * [Merge + Minify + Refresh](https://wordpress.org/plugins/merge-minify-refresh/) - Merge/Concatenate & Minify CSS & JS.
 * [Minify HTML](https://www.littlebizzy.com/plugins/) - Tactfully minifies HTML output and markup to remove line breaks, whitespace, comments, and other code bloat to cleanup source code and improve speed.
+* [Featherlight HTML Minify](https://wordpress.org/plugins/featherlight-html-minify/) - A featherlight plugin that Minifies HTML output for a faster loading website.
 
 ## CDN Integration Plugins
 * [CDN Enabler](https://wordpress.org/plugins/cdn-enabler/) - A content delivery network (CDN) is a network of distributed edge servers, which accelerate your content around the globe. The main benefits of a CDN are scalability, reliability and performance.
