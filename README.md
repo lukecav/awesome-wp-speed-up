@@ -55,6 +55,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [CodeDragon SmartCache](https://wordpress.org/plugins/codedragon-smartcache/) - An intelligent site performance and caching optimization facility for Wordpress.  It offers super-fast, adaptive minification, GZIP compression, browser caching, database performance improvements, and more.
 * [WP Performance](https://wordpress.org/plugins/wp-performance/) - WP Performance Optimizer.
 * [Pegasaas Accelerator WP](https://wordpress.org/plugins/pegasaas-accelerator-wp/) - The Pegasaas Accelerator WP plugin interfaces with the Pegasaas API to optimize a website for Web Perormance and Google PageSpeed.
+* [WPCacheOn](https://wordpress.org/plugins/wpcacheon/) - Simple and powerful cache plugin for WordPress. Install and activate, that simple, your website is already loading faster.
 
 ## Object Caching Plugins
 * [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must.
