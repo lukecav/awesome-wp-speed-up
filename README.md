@@ -168,6 +168,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Stop Generating Image Sizes](https://wordpress.org/plugins/image-sizes/) - So, it creates multiple sizes of an image while uploading? Here is the solution.
 * [ShortPixel Adaptive Images](https://wordpress.org/plugins/shortpixel-adaptive-images/) - Display properly sized, smart cropped and optimized images on your website. Images are processed on the fly and served from our CDN.
 * [Pixelerate Image CDN](https://wordpress.org/plugins/pixelerate-cdn/) - Integrate the Pixelerate Image Optimization and CDN into your WordPress website.
+* [Regenerate thumbnails and delete unused thumbnails](https://wordpress.org/plugins/regenerate-thumbnails-and-delete-unused/) - Regenerate thumbnails and delete unused.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
