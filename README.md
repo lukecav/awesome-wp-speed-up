@@ -130,6 +130,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [CDNsun](https://wordpress.org/plugins/cdnsun/) - Integrates any Content Delivery Network (CDN) into WordPress.
 * [ImageBoss](https://wordpress.org/plugins/imageboss/) - Content aware image resizing, cropping, compression, cache and CDN. All web development best practices, hassle free in one simple and powerful API.
 * [DigitalOcean Spaces Sync](https://wordpress.org/plugins/do-spaces-sync/) - This WordPress plugin syncs your media library with DigitalOcean Spaces Container.
+* [Medianova CDN](https://wordpress.org/plugins/medianova-cdn/) - Integrate our Content Delivery Network(CDN) into your WordPress site.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
