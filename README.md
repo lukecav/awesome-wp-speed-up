@@ -249,6 +249,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Speed Demon](https://www.littlebizzy.com/plugins) -  A powerful bundle of lightweight tools and settings that drastically improve the loading speed of WordPress by reducing bulk and improving efficiency.
 * [Self-Hosted Google Fonts](https://wordpress.org/plugins/selfhost-google-fonts/) -  Automatically self-host your Google Fonts - works with any theme or plugin.
 * [Redirect Gravatar requests](https://wordpress.org/plugins/redirect-gravatar-requests/) -  All requests to load an avatar from gravatar.com are redirected to a local image, preventing Gravatar from potentially gathering data about your site's visitors.
+* [Speed Booster Pack](https://wordpress.org/plugins/speed-booster-pack/) -  Speed Booster Pack helps you improve your page loading speed and get higher scores on speed test services like GTmetrix, Google PageSpeed or WebPageTest.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
