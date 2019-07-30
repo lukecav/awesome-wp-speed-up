@@ -56,6 +56,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Performance](https://wordpress.org/plugins/wp-performance/) - WP Performance Optimizer.
 * [Pegasaas Accelerator WP](https://wordpress.org/plugins/pegasaas-accelerator-wp/) - The Pegasaas Accelerator WP plugin interfaces with the Pegasaas API to optimize a website for Web Perormance and Google PageSpeed.
 * [WPCacheOn](https://wordpress.org/plugins/wpcacheon/) - Simple and powerful cache plugin for WordPress. Install and activate, that simple, your website is already loading faster.
+* [GhostBird WP](https://wordpress.org/plugins/ghostbirdwp/) - The WordPress performance and security plugin for humans.
 
 ## Object Caching Plugins
 * [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must.
