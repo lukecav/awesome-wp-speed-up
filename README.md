@@ -196,6 +196,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Lazy Load Optimizer](https://wordpress.org/plugins/lazy-load-optimizer/) - Lazy loading images to speed up sites page load speed.
 * [WordPress Accelerate](https://wordpress.org/plugins/wp-accelerate/) - Speed Optimizations for WordPress websites.
 * [Picafto](https://wordpress.org/plugins/picafto/) - Instantly, automatically and painlessly make your website faster by reducing image payload and lazy loading them.
+* [LH Native Lazy Loading](https://wordpress.org/plugins/lh-native-lazy-loading/) - Automatically add the new `loading` attribute to images and iframes within your content to support native lazy loading.
 
 ## Reduce HTTP Requests on Load Plugins
 * [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/) - Allows you to easily manage the frequency of the WordPress heartbeat API with just a few dropdowns.
