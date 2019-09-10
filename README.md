@@ -168,7 +168,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [tiny.pictures Image CDN](https://wordpress.org/plugins/tiny-pictures-image-cdn/) - Scales and optimizes your images using the tiny.pictures image processing service in the cloud and delivers them through worldwide CDN nodes.
 * [Piio – Powerful Image Compressor, Optimization and Delivery](https://wordpress.org/plugins/piio-image-optimization/) - Generates responsive and optimized images, so you don't have to.
 * [Resize Image After Upload](https://wordpress.org/plugins/resize-image-after-upload/) - Automatically resize uploaded images to within specified maximum width and height. Also has option to force recompression of JPEGs.
-* [Image optimization and CDN by Optimole](https://wordpress.org/plugins/optimole-wp/) - Complete handling of your website images.
+* [Image optimization & Lazy Load by Optimole](https://wordpress.org/plugins/optimole-wp/) - Complete handling of your website images.
 * [MegaOptim Image Optimizer](https://wordpress.org/plugins/megaoptim-image-optimizer/) - MegaOptim is image compression plugin that optimizes your images in the cloud using intelligent image compression methods to save as much space as possible while keeping the quality almost identical. It's compatible with NextGen Gallery, MediaPress, WP Retina 2x and many other gallery plugins.
 * [Stop Generating Image Sizes](https://wordpress.org/plugins/image-sizes/) - So, it creates multiple sizes of an image while uploading? Here is the solution.
 * [ShortPixel Adaptive Images](https://wordpress.org/plugins/shortpixel-adaptive-images/) - Display properly sized, smart cropped and optimized images on your website. Images are processed on the fly and served from our CDN.
