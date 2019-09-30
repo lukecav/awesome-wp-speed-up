@@ -359,6 +359,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Admin UI Cleaner](https://wordpress.org/plugins/admin-ui-cleaner/) -  Cleanup WordPress admin area.
 * [Flying Pages](https://wordpress.org/plugins/flying-pages/) -  Load inner pages instantly, intelligently.
 * [WP FOFT Loader](https://github.com/seezee/WP-FOFT-Loader) -  Implements and automates Zach Leatherman'sCritical FOFT with Data URI.
+* [API Cache Pro](https://wordpress.org/plugins/api-cache-pro/) -  A simple plugin to cache WP Rest API Requests.
 
 ## WP-CLI Commands and Packages
 * [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
