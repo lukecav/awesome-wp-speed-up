@@ -271,7 +271,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Plugins Garbage Collector](https://wordpress.org/plugins/plugins-garbage-collector/) - Plugins Garbage Collector scans your WordPress database and shows the tables beyond of core WordPress installation.
 * [Delete Expired Transients](https://wordpress.org/plugins/delete-expired-transients/) - Delete old, expired transients from WordPress wp_options table.
 * [Advanced Database Cleaner](https://wordpress.org/plugins/advanced-database-cleaner/) - Clean database by deleting unused data such as 'old revisions', 'old drafts', 'orphan options', etc. Optimize database and more.
-* [Index Autoload](https://wordpress.org/plugins/index-autoload-littlebizzy/) - Adds an index to the autoload in wp_options table via WP-Cron on a daily basis, resulting in a more efficient database and faster site performance.
+* [Add Index To Autoload](https://wordpress.org/plugins/add-index-to-autoload/) - This tool will speed up your database queries by adding an index to the autoload field.
 * [Clean Up Optimizer](https://wordpress.org/plugins/wp-clean-up-optimizer/) - Clean Up Optimizer is a Superlative High Quality WordPress Plugin which not only allows you to clean and optimize the WordPress Database but also performs other vast functions.
 * [Dedicated Transients](https://wordpress.org/plugins/dedicated-transients/) - WordPress plugin to re-route transient storage to dedicated tables.
 * [Transient Cleaner](https://wordpress.org/plugins/artiss-transient-cleaner/) - Housekeep expired transients from your options table.
