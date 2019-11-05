@@ -203,6 +203,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [SARVAROV Lazy Load](https://wordpress.org/plugins/sarvarov-lazy-load/) - Lazy Load all your images, videos and iframes in just one click. Make your blog faster and look better with blurred LQIP and primary color placeholder.
 * [Native Lazyload + Polyfill](https://wordpress.org/plugins/native-lazyload-polyfill/) - Adds native lazyloading to all images and iframes (embeds), also wraps them in <noscript> and adds a polyfill to make it work in all browsers.
 * [Native Lazyload](https://wordpress.org/plugins/native-lazyload/) - Lazy-loads media using the native browser feature.
+* [Flying Images](https://wordpress.org/plugins/nazy-load/) - High-performance Native Image Lazy Loading.
 
 ## Reduce HTTP Requests on Load Plugins
 * [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/) - Allows you to easily manage the frequency of the WordPress heartbeat API with just a few dropdowns.
