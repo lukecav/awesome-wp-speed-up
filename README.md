@@ -265,6 +265,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Better Speed](https://wordpress.org/plugins/better-speed/) -  Improve the loading speed of your website by removing bloat and unused features.
 * [WP Toolbelt](https://wordpress.org/plugins/wp-toolbelt/) -  More features, fast.
 * [WP PLC Swissknife](https://wordpress.org/plugins/wp-plc-swissknife/) -  One place swiss knife for WordPress. Increase WordPress Security and Performance.
+* [Optenhanse](https://wordpress.org/plugins/wp-plc-swissknife/) -  A unique plugin for Optimizing, Enhancing and Securing your WordPress website.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
