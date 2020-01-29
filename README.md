@@ -286,6 +286,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Yoast SEO Cleaner](https://wordpress.org/plugins/wps-cleaner/) - WPS Cleaner cleans the database and WordPress.
 * [Custom Post Type Cleanup](https://wordpress.org/plugins/custom-post-type-cleanup/) - Detect and delete posts from custom post types that are no longer in use.
 * [Cleanup Duplicate Meta](https://wordpress.org/plugins/cleanup-duplicate-meta/) - Checks for and deletes duplicate Post and/or User Meta entries in the database tables.
+* [HTML Pages](https://wordpress.org/plugins/html-pages/) - Create pure HTML pages without any of the WordPress code.
 
 ## Slow Query and Debugging Plugins
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Query Monitor is a debugging plugin for anyone developing with WordPress.
