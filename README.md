@@ -180,6 +180,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Robin image optimizer](https://wordpress.org/plugins/robin-image-optimizer/) - Optimize images without losing quality, speed up your website load, improve SEO and save money on server and CDN bandwidth.
 * [Scale Large Image Threshold](https://wordpress.org/plugins/scale-large-image-threshold/) - Control scaling of big images in Wordpress using big_image_size_threshold filter. Image will be scaled forcefully when it will reach this threshold. Useful to control large images in Wordpress.
 * [Crush.pics – Image Compression and Optimization](https://wordpress.org/plugins/crush-pics/) - Image Compression and Optimization using Crush.pics API.
+* [Image CDN – WordPress CDN Plugin](https://wordpress.org/plugins/image-cdn/) - Optimize your WordPress site with ImageEngine or another Image CDN (or any other Content Delivery Network).
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
