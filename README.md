@@ -211,7 +211,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Native Lazyload](https://wordpress.org/plugins/native-lazyload/) - Lazy-loads media using the native browser feature.
 * [Flying Images](https://wordpress.org/plugins/nazy-load/) - High-performance Native Image Lazy Loading.
 * [Lazy Images Without Jetpack](https://wordpress.org/plugins/lazy-images-without-jetpack/) - Speed up your site and create a smoother viewing experience by loading images as visitors scroll down the screen, instead of all at once. Based on Lazy Images module, from Jetpack plugin.
-
+* [reGenerate Thumbnails Advanced](https://wordpress.org/plugins/regenerate-thumbnails-advanced/) - Regenerate thumbnails fast and easy while removing unused thumbnails of existing images; very useful when changing a theme.
+  
 ## Reduce HTTP Requests on Load Plugins
 * [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/) - Allows you to easily manage the frequency of the WordPress heartbeat API with just a few dropdowns.
 * [Disable Emoji](https://wordpress.org/plugins/disable-emojis/) - This plugin disables the new WordPress emoji functionality.
