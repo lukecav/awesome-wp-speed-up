@@ -74,6 +74,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Redis Cache](https://github.com/BenjaminAdams/wp-redis-cache) - Cache WordPress using Redis, the fastest way to date to cache WordPress.
 * [Transient Page Flush](https://github.com/andyphillips82/wp-page-transient-flush) - Adds a page specific transient flush button to Debug Bar.
 * [Use Memcached](https://wordpress.org/plugins/use-memcached/) - Adds memcached support for WP_Object_Cache.
+* [Docket Cache](https://wordpress.org/plugins/docket-cache/) - A file-based persistent WordPress Object Cache stored as a plain PHP code.
 
 ## Fragment Caching Plugins
 * [Fragment Cache](https://github.com/Rarst/fragment-cache) - Fragment Cache is a WordPress plugin for partial and async caching of heavy front-end elements. It currently supports caching navigation menus, widgets, and galleries.
