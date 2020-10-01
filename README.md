@@ -140,6 +140,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Cloudflare Stream Video](https://wordpress.org/plugins/cloudflare-stream/) - Cloudflare Stream Video is an easy-to-use, affordable, on-demand video streaming platform. Stream seamlessly integrates video storage, encoding, and a customizable player with Cloudflareâ€™s fast, secure, and reliable global network, so that you can spend less time managing video delivery and more time building and promoting your product.
 * [Statically](https://wordpress.org/plugins/statically/) - Free CDN to optimize your static assets such as images, CSS or JavaScript files.
 * [WP Cloudflare Super Page Cache](https://wordpress.org/plugins/wp-cloudflare-page-cache/) - Speed up your website by enabling page caching on Cloudflare on free plans.
+* [QuantCDN](https://wordpress.org/plugins/quant/) - QuantCDN static edge integration.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
