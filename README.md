@@ -141,6 +141,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Statically](https://wordpress.org/plugins/statically/) - Free CDN to optimize your static assets such as images, CSS or JavaScript files.
 * [WP Cloudflare Super Page Cache](https://wordpress.org/plugins/wp-cloudflare-page-cache/) - Speed up your website by enabling page caching on Cloudflare on free plans.
 * [QuantCDN](https://wordpress.org/plugins/quant/) - QuantCDN static edge integration.
+* [StaticOptimizer](https://wordpress.org/plugins/static-optimizer/) - Makes your images, js, css load faster by optimizing them and loading them from StaticOptimizer Optimization servers.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
