@@ -189,6 +189,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Crush.pics – Image Compression and Optimization](https://wordpress.org/plugins/crush-pics/) - Image Compression and Optimization using Crush.pics API.
 * [Image CDN – WordPress CDN Plugin](https://wordpress.org/plugins/image-cdn/) - Optimize your WordPress site with ImageEngine or another Image CDN (or any other Content Delivery Network).
 * [Abraia](https://wordpress.org/plugins/abraia/) - Bulk optimize your Wordpress images with Abraia.
+* [CompressWP](https://wordpress.org/plugins/compresswp-optimize-and-compress-jpeg-and-png-images/) - Optimize JPEG and PNG images to significantly improve your page load speeds.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
