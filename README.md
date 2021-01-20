@@ -192,6 +192,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Abraia](https://wordpress.org/plugins/abraia/) - Bulk optimize your Wordpress images with Abraia.
 * [CompressWP](https://wordpress.org/plugins/compresswp-optimize-and-compress-jpeg-and-png-images/) - Optimize JPEG and PNG images to significantly improve your page load speeds.
 * [NutsForPress Images and Media](https://wordpress.org/plugins/nutsforpress/) - NutsForPress Images and Media is an essential companion for having your images and your meta in perfect order. Images and Media automatically resizes images, compresses JPGs, bulk rebuilds thumbnails and PDF previews, writes automatically and bulk rewrites your attachments meta.
+* [Giga WebP Image Converter](https://wordpress.org/plugins/giga-webp-image-converter/) - Convert images with ease for free: reduce image sizes without deleting the originals. Improve Google Site Speed Score and SEO.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
