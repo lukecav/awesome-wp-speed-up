@@ -289,6 +289,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Local Gravatars](https://wordpress.org/plugins/local-gravatars/) -  Locally host gravatars - for the privacy concious.
 * [Flying Fonts by WP Speed Matters](https://wordpress.org/plugins/flying-fonts/) -  Remove Google Fonts and Use System Fonts.
 * [AutoTweaks](https://wordpress.org/plugins/autotweaks/) -  AutoTweaks configures a series of default options to WordPress.
+* [WP Inline Cacher](https://wordpress.org/plugins/wp-inline-cacher/) -  Speed up your website by automatically inlining your stylesheets for first-time visitors.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
