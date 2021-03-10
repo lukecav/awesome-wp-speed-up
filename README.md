@@ -60,6 +60,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [NitroPack](https://wordpress.org/plugins/nitropack/) - A site performance optimization plugin.
 * [ezCache](https://wordpress.org/plugins/ezcache/) - EzCash is an easy and innovative cache plugin that will help you significantly improve your site speed.
 * [Splendid Speed](https://wordpress.org/plugins/splendid-speed/) - Splendid Speed is a all-in-one WordPress performance plugin that removes the need to know the ins and outs of web performance by communicating clearly to you what each of the options do, in a way anyone would understand. 
+* [Performance Accelerator All-in-one Performance Accelerator](https://wordpress.org/plugins/all-in-one-performance-accelerator/) - Simple and effective tool to boostup your site’s speed and performance and it makes wordPress loads faster in a few clicks.
 
 ## Object Caching Plugins
 * [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must.
