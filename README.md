@@ -146,6 +146,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [QuantCDN](https://wordpress.org/plugins/quant/) - QuantCDN static edge integration.
 * [StaticOptimizer](https://wordpress.org/plugins/static-optimizer/) - Makes your images, js, css load faster by optimizing them and loading them from StaticOptimizer Optimization servers.
 * [TwicPics](https://wordpress.org/plugins/twicpics/) - TwicPics is a real-time image processing service that enables individuals and businesses of all sizes to deliver high performing and rich visual content with easy setup.
+* [Edge Caching and Firewall with BunnyCDN](https://wordpress.org/plugins/edge-caching-firewall-bunnycdn/) - Edge Caching and DDoS protection made simple.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
