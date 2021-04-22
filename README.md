@@ -420,6 +420,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Bees with Machine Guns!](https://github.com/newsapps/beeswithmachineguns) - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).
 * [Iago](https://github.com/twitter/iago/) - A load generator, built for engineers.
 * [k6](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript.
+* [k6 Cloud](https://k6.io/cloud/) - The k6 Cloud is a commercial SaaS product that we’ve designed to be the perfect companion to k6 OSS.
 * [Apache JMeter](https://github.com/apache/jmeter) - Apache JMeter is a 100% pure Java application designed to test and measure performance. It may be used as a highly portable server benchmark as well as multi-client load generator.
 * [Artillery](https://github.com/shoreditch-ops/artillery) - Artillery is a modern, powerful, easy-to-use load-testing toolkit. Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy.
 * [Serverless Artillery](https://github.com/Nordstrom/serverless-artillery) - Combine serverless with artillery and you get serverless-artillery (a.k.a. serverless-artillery) for instant, cheap, and easy performance testing at scale.
@@ -429,11 +430,11 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Wrk](https://github.com/wg/wrk) - Wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event notification systems such as epoll and kqueue.
 * [Boom2](https://github.com/tarekziade/boom2) - Like Boom, but based on Molotov.
 * [Vegeta](https://github.com/tsenart/vegeta) - Vegeta is a versatile HTTP load testing tool built out of a need to drill HTTP services with a constant request rate. It can be used both as a command line utility and a library.
+* [Loader](https://loader.io/) - Loader.io is a FREE load testing service that allows you to stress test
+your web-apps & apis with thousands of concurrent connections.
 
 ## New Relic Plugins
-* [Mindsize NewRelic](https://github.com/Mindsize/mindsize-newrelic) -  Better WordPress data for New Relic, with WooCommerce support.
 * [New Relic Reporting for WordPress](https://wordpress.org/plugins/wp-newrelic/) - New Relic APM reports for WordPress
-* [New Relic Browser by rtCamp](https://wordpress.org/plugins/rt-newrelic-browser/) - New Relic Browser Monitoring plugin.
 
 ## NGNIX Configs
 * [Browser caching rules for NGNIX and expire headers](https://gist.github.com/matthewjackowski/062be03b41a68edbadfc) - Browser caching rules for NGNIX and expire headers being set.
