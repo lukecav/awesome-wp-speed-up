@@ -197,6 +197,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [NutsForPress Images and Media](https://wordpress.org/plugins/nutsforpress/) - NutsForPress Images and Media is an essential companion for having your images and your meta in perfect order. Images and Media automatically resizes images, compresses JPGs, bulk rebuilds thumbnails and PDF previews, writes automatically and bulk rewrites your attachments meta.
 * [Giga WebP Image Converter](https://wordpress.org/plugins/giga-webp-image-converter/) - Convert images with ease for free: reduce image sizes without deleting the originals. Improve Google Site Speed Score and SEO.
 * [WPvivid Imgoptim](https://wordpress.org/plugins/wpvivid-imgoptim/) - Optimize, compress and resize images in WordPress in bulk. Automatic image optimization, auto resize images upon upload.
+* [External Images](https://www.wpintense.com/product/external-images/) - This plugin alters WordPress and WooCommerce to allow you to use images hosted anywhere on the internet, rather than having to have images hosted on your own server.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
@@ -316,6 +317,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Custom Post Type Cleanup](https://wordpress.org/plugins/custom-post-type-cleanup/) - Detect and delete posts from custom post types that are no longer in use.
 * [Cleanup Duplicate Meta](https://wordpress.org/plugins/cleanup-duplicate-meta/) - Checks for and deletes duplicate Post and/or User Meta entries in the database tables.
 * [HTML Pages](https://wordpress.org/plugins/html-pages/) - Create pure HTML pages without any of the WordPress code.
+* [Scalability Pro](https://www.wpintense.com/product/scalability-pro/) - The Scalability Pro Plugin is the core WP Intense plugin to transform the speed and scalability of your WordPress site. It does so primarily by eliminating table scans and using index seeks instead.
 
 ## Slow Query and Debugging Plugins
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Query Monitor is a debugging plugin for anyone developing with WordPress.
@@ -397,6 +399,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP FOFT Loader](https://github.com/seezee/WP-FOFT-Loader) -  Implements and automates Zach Leatherman'sCritical FOFT with Data URI.
 * [API Cache Pro](https://wordpress.org/plugins/api-cache-pro/) -  A simple plugin to cache WP Rest API Requests.
 * [OPcache Manager](https://wordpress.org/plugins/opcache-manager/) -  OPcache statistics and management right in the WordPress admin dashboard.
+* [Faster Woo Widgets](https://www.wpintense.com/product/faster-woo-widgets/) -  Gorgeous WooCommerce widgets built to be lightning fast, especially on large sites with hundreds of thousands (or millions) of products.
 
 ## WP-CLI Commands and Packages
 * [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
