@@ -198,6 +198,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Giga WebP Image Converter](https://wordpress.org/plugins/giga-webp-image-converter/) - Convert images with ease for free: reduce image sizes without deleting the originals. Improve Google Site Speed Score and SEO.
 * [WPvivid Imgoptim](https://wordpress.org/plugins/wpvivid-imgoptim/) - Optimize, compress and resize images in WordPress in bulk. Automatic image optimization, auto resize images upon upload.
 * [External Images](https://www.wpintense.com/product/external-images/) - This plugin alters WordPress and WooCommerce to allow you to use images hosted anywhere on the internet, rather than having to have images hosted on your own server.
+* [OptiPic images optimization](https://wordpress.org/plugins/optipic/) - OptiPic.io - image optimization via smart CDN. The module automates the process of optimizing and compressing all images on the site according to the recommendations of Google PageSpeed Insights.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
