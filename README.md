@@ -402,6 +402,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [API Cache Pro](https://wordpress.org/plugins/api-cache-pro/) -  A simple plugin to cache WP Rest API Requests.
 * [OPcache Manager](https://wordpress.org/plugins/opcache-manager/) -  OPcache statistics and management right in the WordPress admin dashboard.
 * [Faster Woo Widgets](https://www.wpintense.com/product/faster-woo-widgets/) -  Gorgeous WooCommerce widgets built to be lightning fast, especially on large sites with hundreds of thousands (or millions) of products.
+* [Static 404](https://wordpress.org/plugins/static-404/) -  Quickly output a 404 for static files that aren’t found, rather than loading the normal 404 page.
 
 ## WP-CLI Commands and Packages
 * [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
