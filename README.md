@@ -347,7 +347,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Static HTML Output](https://wordpress.org/plugins/static-html-output-plugin/) - This plugin produces a static HTML version of your wordpress install, incredibly useful for anyone who would like the publishing power of wordpress but whose webhost doesn’t allow dynamic PHP driven sites.
 * [DB Cache Reloaded Fix](https://github.com/ivankristianto/DB-Cache-Reloaded-Fix) - The fastest cache engine for WordPress, that produces cache of database queries with easy configuration.
 * [OPcache Dashboard](https://wordpress.org/plugins/opcache/) - As you know, OPcache has no management page. This plugin offers you the OPcache dashboard designed for WordPress.
-* [WP REST API Cache](https://wordpress.org/plugins/wp-rest-api-cache/) - Enable caching for WordPress REST API and increase speed of your application.
+* [WP REST Cache](https://wordpress.org/plugins/wp-rest-cache/) - Adds caching to the WP REST API
 * [Warm Cache](https://wordpress.org/plugins/warm-cache/) - Crawls your website-pages based on any XML sitemap. If you have a caching plugin this will keep your cache warm.
 * [Cache Buddy](https://github.com/markjaquith/cache-buddy) - Minimizes the situations in which logged-in users appear logged-in to WordPress, which increases the cacheability of your site.
 * [Inpsyde Translation Cache](https://github.com/inpsyde/translation-cache) - Improves site performance by caching translation files using WordPress object cache.
