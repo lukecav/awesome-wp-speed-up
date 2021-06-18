@@ -406,6 +406,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Faster Woo Widgets](https://www.wpintense.com/product/faster-woo-widgets/) -  Gorgeous WooCommerce widgets built to be lightning fast, especially on large sites with hundreds of thousands (or millions) of products.
 * [Static 404](https://wordpress.org/plugins/static-404/) -  Quickly output a 404 for static files that aren’t found, rather than loading the normal 404 page.
 * [WP Meteor](https://wordpress.org/plugins/wp-meteor/) -  Improves your page speed, even on top of your existing optimizations.
+* [Staatic](https://wordpress.org/plugins/staatic/) -  Staatic for WordPress allows you to generate a highly optimized static version of your WordPress site.
 
 ## WP-CLI Commands and Packages
 * [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
