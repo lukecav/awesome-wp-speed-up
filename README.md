@@ -203,6 +203,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Image Regenerate & Select Crop](https://wordpress.org/plugins/image-regenerate-select-crop/) - Regenerate and crop images, details and actions for image sizes registered and image sizes generated, clean up, placeholders, custom rules, register new image sizes, crop medium settings, WP-CLI commands, optimize images.
 * [Preload Featured Images](https://wordpress.org/plugins/preload-featured-images/) - Preload featured images in single post to get higher PageSpeed Score.
 * [Modern Images WP](https://wordpress.org/plugins/modern-images-wp/) - Choose a default format for subsized images. Choose WebP, JPGXL or AVIF when your server image library supports them.
+* [Compress Images with Squeezeimg](https://wordpress.org/plugins/compress-images-with-squeezeimg/) - The "Compress Images with Squeezeimg" plugin helps to optimize all your images and improve the performance of your website.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
