@@ -411,6 +411,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Static 404](https://wordpress.org/plugins/static-404/) -  Quickly output a 404 for static files that aren’t found, rather than loading the normal 404 page.
 * [WP Meteor](https://wordpress.org/plugins/wp-meteor/) -  Improves your page speed, even on top of your existing optimizations.
 * [Staatic](https://wordpress.org/plugins/staatic/) -  Staatic for WordPress allows you to generate a highly optimized static version of your WordPress site.
+* [Core Web Vitals & PageSpeed Booster](https://wordpress.org/plugins/core-web-vitals-pagespeed-booster/) -  Do you want to speed up your WordPress site? Fast loading pages improve user experience, increase your pageviews, and help with your WordPress SEO.
 
 ## WP-CLI Commands and Packages
 * [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
