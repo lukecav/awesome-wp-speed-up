@@ -415,6 +415,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Core Web Vitals & PageSpeed Booster](https://wordpress.org/plugins/core-web-vitals-pagespeed-booster/) -  Do you want to speed up your WordPress site? Fast loading pages improve user experience, increase your pageviews, and help with your WordPress SEO.
 * [The Cache Purger](https://wordpress.org/plugins/the-cache-purger/) -  Plugin attemps to clear all plugin based and server based caches.
 * [HTTP2 push content](https://wordpress.org/plugins/http2-push-content/) -  Push all CSS and JS file throuhg http2 server, plugin add extra files that you want to push like images font files.
+* [Encute](https://wordpress.org/plugins/encute/) -  Fluent management of scripts and styles.
   
 ## WP-CLI Commands and Packages
 * [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
