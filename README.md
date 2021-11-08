@@ -305,6 +305,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Inline Cacher](https://wordpress.org/plugins/wp-inline-cacher/) -  Speed up your website by automatically inlining your stylesheets for first-time visitors.
 * [Plugin Optimizer](https://wordpress.org/plugins/plugin-optimizer/) -  The Most Powerful Performance Plugin for WordPress is now available for FREE.
 * [SpeedPlus OptiMini](https://wordpress.org/plugins/speedplus-optimini/) -  Increase PageSpeed score and make your site much faster. Go to WP Dashboard => Settings => SpeedPlus OptiMini.
+* [Goon - Control your plugins](https://wordpress.org/plugins/goon-plugin-control/) -  The Most Powerful Performance Plugin for WordPress.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
