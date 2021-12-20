@@ -309,6 +309,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [SpeedPlus OptiMini](https://wordpress.org/plugins/speedplus-optimini/) -  Increase PageSpeed score and make your site much faster. Go to WP Dashboard => Settings => SpeedPlus OptiMini.
 * [Goon - Control your plugins](https://wordpress.org/plugins/goon-plugin-control/) -  The Most Powerful Performance Plugin for WordPress.
 * [Wowholic CORE](https://wordpress.org/plugins/wowholic-core/) -  Utility functions and options for common tasks in WordPress.
+* [Unbloater](https://wordpress.org/plugins/unbloater/) -  Remove unnecessary code, nags and bloat from WordPress core and certain plugins.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
