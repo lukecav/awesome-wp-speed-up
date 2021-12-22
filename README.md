@@ -431,6 +431,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [wp media](https://developer.wordpress.org/cli/commands/media/) - Imports files as attachments, regenerates thumbnails, or lists registered image sizes.
 * [wp media regenerate](https://developer.wordpress.org/cli/commands/media/regenerate/) - Regenerates thumbnails for one or more attachments.
 * [EWWW IO via WP-CLI](https://docs.ewww.io/article/25-optimizing-with-wp-cli) - EWWW Image Optimizer features a WP-CLI extension that allows you to optimize your images "en masse". 
+* [WP CLI interface for WP Rocket](https://github.com/wp-media/wp-rocket-cli) - This repository contains a WP-CLI command for the WP Rocket plugin. After installing this plugin, you will have access to a wp rocket command.
 
 ## Performance Benchmarking Sites
 * [WebPageTest](https://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more.
