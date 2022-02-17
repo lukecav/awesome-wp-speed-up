@@ -210,6 +210,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Compress Images with Squeezeimg](https://wordpress.org/plugins/compress-images-with-squeezeimg/) - The "Compress Images with Squeezeimg" plugin helps to optimize all your images and improve the performance of your website.
 * [reSmush.it Image Optimizer](https://wordpress.org/plugins/resmushit-image-optimizer/) - Image Optimization API. Provides image size optimization.
 * [Aspose Image Optimizer](https://wordpress.org/plugins/aspose-image-optimizer/) - Optimizes images inside the WordPress directory and its sub-directories.
+* [Quicq for WebP images](https://wordpress.org/plugins/quicq/) - Quicq integration for Wordpress.
 
 ## Lazy Loading Plugins
 * [Rocket Lazy Load](https://wordpress.org/plugins/rocket-lazy-load/) - Lazy Load displays images on a page only when they are visible to the user. This reduces the number of HTTP requests mechanism and improves the loading time.
