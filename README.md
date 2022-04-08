@@ -337,6 +337,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Scalability Pro](https://www.wpintense.com/product/scalability-pro/) - The Scalability Pro Plugin is the core WP Intense plugin to transform the speed and scalability of your WordPress site. It does so primarily by eliminating table scans and using index seeks instead.
 * [Index WP MySQL For Speed](https://wordpress.org/plugins/index-wp-mysql-for-speed/) - Add useful indexes to your WordPress installation's MySQL database.
 * [SweepPress](https://wordpress.org/plugins/sweeppress/) - Remove various old, unused or obsolete data from the database, optimize the database for best performance.
+* [Index WP Users For Speed](https://wordpress.org/plugins/index-wp-users-for-speed/) - Index WP Users For Speed.
   
 ## Slow Query and Debugging Plugins
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Query Monitor is a debugging plugin for anyone developing with WordPress.
