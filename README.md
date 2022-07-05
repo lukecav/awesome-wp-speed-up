@@ -316,6 +316,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WPControl](https://wordpress.org/plugins/wpcontrol/) -  The all in one plugin to optimize your WordPress website.
 * [Ajax Press](https://wordpress.org/plugins/ajax-press/) -  Easily Enable Fast Ajax Navigation. Loads content without page reload.
 * [Speed Booster for Elementor](https://wordpress.org/plugins/speed-booster-for-elementor/) -  Speed Booster for Elementor - optimize the loading of Elementor page builder.
+* [FlashSpeed](https://wordpress.org/plugins/flashspeed/) -  FlashSpeed makes your site lightning fast by disabling unused assets and optimizing resources.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
