@@ -342,6 +342,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [SweepPress](https://wordpress.org/plugins/sweeppress/) - Remove various old, unused or obsolete data from the database, optimize the database for best performance.
 * [Index WP Users For Speed](https://wordpress.org/plugins/index-wp-users-for-speed/) - Index WP Users For Speed.
 * [Templ Optimizer](https://wordpress.org/plugins/templ-optimizer/) - An easy-to-use optimization plugin that lets you clean your database and tweak various performance related settings on your WordPress site.
+ * [Performance Tweaks](https://wordpress.org/plugins/performance-tweaks/) - WordPress Performance Tweaks. Simple but effective.
   
 ## Slow Query and Debugging Plugins
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Query Monitor is a debugging plugin for anyone developing with WordPress.
