@@ -106,6 +106,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [RapidLoad Power-Up for Autoptimize](https://wordpress.org/plugins/unusedcss/) - Makes your site even faster and lighter by automatically removing Unused CSS from your website.
 * [Torque](https://wordpress.org/plugins/torque/) - Make your Wordpress website noticably faster by optimising how it is delivered. Analyse your website's performance and security, minify and combine your assets, and configure an array of performance and security settings quickly and easily with this comprehensive plugin. Achieves the best compression of any minification.
 * [SCSS WP Editor](https://wordpress.org/plugins/scss-wp-editor/) - WP SCSS Editor will provide you to add SCSS from your WordPress admin. You just need to add your SCSS and save it.
+* [ShortPixel Critical CSS](https://wordpress.org/plugins/shortpixel-critical-css/) - Use ShortPixel's Critical CSS web service to automatically create the required CSS for above the fold.
 
 ## CDN Integration Plugins
 * [CDN Enabler](https://wordpress.org/plugins/cdn-enabler/) - A content delivery network (CDN) is a network of distributed edge servers, which accelerate your content around the globe. The main benefits of a CDN are scalability, reliability and performance.
