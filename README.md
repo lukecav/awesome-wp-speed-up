@@ -37,7 +37,6 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/) - The highest rated and most complete WordPress performance plugin. Dramatically improve the speed and user experience of your site. Add browser, page, object and database caching as well as minify and content delivery network (CDN) to WordPress.
 * [WP-FFPC](https://wordpress.org/plugins/wp-ffpc/) - WP-FFPC is a cache plugin for WordPress.
 * [Cachify](https://wordpress.org/plugins/cachify/) - Cachify optimizes your page loads by caching posts, pages and custom post types as static content.
-* [Batcache](https://wordpress.org/plugins/batcache/) - Batcache uses Memcached to store and serve rendered pages.
 * [Hyper Cache](https://wordpress.org/plugins/hyper-cache/) - Hyper Cache is a cache plugin specifically written to get the maximum speed for your WordPress site.
 * [Powered Cache](https://wordpress.org/plugins/powered-cache/) - Comprehensive caching and performance plugin for WordPress.
 * [WP Spider Cache](https://github.com/stuttter/wp-spider-cache) - WP Spider Cache is your friendly neighborhood caching solution for WordPress. It uses Memcached to store both objects & page output.
@@ -51,7 +50,6 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [LiteSpeed Cache](https://wordpress.org/plugins/litespeed-cache/) - WordPress plugin to connect to LSCache on LiteSpeed Web Server.
 * [Project Nami Blob Cache](https://github.com/ProjectNami/projectnami-blob-cache) - External full page caching for WordPress.
 * [WOT Cache](https://wordpress.org/plugins/wot-cache/) - Wordpress Optimization Tool & Cache.
-* [Swift Performance Lite](https://wordpress.org/plugins/swift-performance-lite/) - Boost your WordPress site.
 * [CodeDragon SmartCache](https://wordpress.org/plugins/codedragon-smartcache/) - An intelligent site performance and caching optimization facility for Wordpress.  It offers super-fast, adaptive minification, GZIP compression, browser caching, database performance improvements, and more.
 * [WP Performance](https://wordpress.org/plugins/wp-performance/) - WP Performance Optimizer.
 * [Pegasaas Accelerator WP](https://wordpress.org/plugins/pegasaas-accelerator-wp/) - The Pegasaas Accelerator WP plugin interfaces with the Pegasaas API to optimize a website for Web Perormance and Google PageSpeed.
