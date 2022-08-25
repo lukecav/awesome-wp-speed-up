@@ -164,8 +164,6 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Lazy Facebook Comments](https://wordpress.org/plugins/lazy-facebook-comments/) - Use Facebook comments system in your website without slowing down your website. 
 * [Lazy Load for Comments](https://wordpress.org/plugins/lazy-load-for-comments/) - Lazy load WordPress default commenting system without any complex configurations.
 * [WordPress Image Preload](https://github.com/aderaaij/wp-image-preload) - A modern lazyload / image preload plugin based on Intersection Observer.
-* [Lazy Load Optimizer](https://wordpress.org/plugins/lazy-load-optimizer/) - Lazy loading images to speed up sites page load speed.
-* [Native Lazyload](https://wordpress.org/plugins/native-lazyload/) - Lazy-loads media using the native browser feature.
 * [Flying Images](https://wordpress.org/plugins/nazy-load/) - High-performance Native Image Lazy Loading.
 * [reGenerate Thumbnails Advanced](https://wordpress.org/plugins/regenerate-thumbnails-advanced/) - Regenerate thumbnails fast and easy while removing unused thumbnails of existing images; very useful when changing a theme.
   
