@@ -47,16 +47,12 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Surge](https://wordpress.org/plugins/surge/) - A fast and simple page caching plugin for WordPress.
 
 ## Object Caching Plugins
-* [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must.
+* [Object Cache Pro](https://objectcache.pro/) - A business class Redis object cache backend for WordPress.
 * [Redis Object Cache](https://wordpress.org/plugins/redis-cache/) - A persistent object cache backend powered by Redis. Supports Predis, PhpRedis (PECL), HHVM, replication, clustering and WP-CLI. 
-* [Memcached](https://github.com/humanmade/memcache-object-cache) - Memcached backend for the WP Object Cache.
-* [Memcached Is Your Friend Updated](https://github.com/wpbullet/memcached-is-your-friend) - Memcached via PHP Memcache or Memcached Class Support for WordPress with fixes for compatibility.
-* [phpmemcacheadmin](https://code.google.com/archive/p/phpmemcacheadmin/) - Graphic stand-alone administration for memcached to monitor and debug purpose.
 * [Tiny Cache](https://github.com/szepeviktor/tiny-cache) - Cache post content, translations and nav menu output in persistent object cache.
-* [WP Redis Cache](https://github.com/BenjaminAdams/wp-redis-cache) - Cache WordPress using Redis, the fastest way to date to cache WordPress.
-* [Transient Page Flush](https://github.com/andyphillips82/wp-page-transient-flush) - Adds a page specific transient flush button to Debug Bar.
 * [Docket Cache](https://wordpress.org/plugins/docket-cache/) - A file-based persistent WordPress Object Cache stored as a plain PHP code.
 * [Memcached Redux](https://wordpress.org/plugins/memcached-redux/) - Changes the famous Memcached WP Object Cache backend to actually use the Memcached class (not the Memcache class).
+* [WP Redis](https://wordpress.org/plugins/wp-redis/) - For sites concerned with high traffic, speed for logged-in users, or dynamic pageloads, a high-speed and persistent object cache is a must.
 
 ## Fragment Caching Plugins
 * [Fragment Cache](https://github.com/Rarst/fragment-cache) - Fragment Cache is a WordPress plugin for partial and async caching of heavy front-end elements. It currently supports caching navigation menus, widgets, and galleries.
