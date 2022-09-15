@@ -303,7 +303,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [The Cache Purger](https://wordpress.org/plugins/the-cache-purger/) -  Plugin attemps to clear all plugin based and server based caches.
 * [HTTP2 push content](https://wordpress.org/plugins/http2-push-content/) -  Push all CSS and JS file throuhg http2 server, plugin add extra files that you want to push like images font files.
 * [Encute](https://wordpress.org/plugins/encute/) -  Fluent management of scripts and styles.
-* [Cache Purge Helper](https://wordpress.org/plugins/cache-purge-helper/) -  Adding additional hooks to trigger nginx-helper or lscache plugin purges
+* [Cache Purge Helper](https://wordpress.org/plugins/cache-purge-helper/) -  Adding additional hooks to trigger nginx-helper or lscache plugin purges.
+* [GDPR Cache Scripts & Styles](https://wordpress.org/plugins/gdpr-cache-scripts-styles/) -  Caches external scripts and styles and serves them from your local website to make it more compliant with GDPR regulations.
   
 ## WP-CLI Commands and Packages
 * [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
