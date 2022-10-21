@@ -241,7 +241,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Templ Optimizer](https://wordpress.org/plugins/templ-optimizer/) - An easy-to-use optimization plugin that lets you clean your database and tweak various performance related settings on your WordPress site.
 * [Performance Tweaks](https://wordpress.org/plugins/performance-tweaks/) - WordPress Performance Tweaks. Simple but effective.
 * [Database Cleaner and Optimizer](https://wordpress.org/plugins/database-cleaner/) - Clean and optimize your database, for real! Lot of features, handle oversized databases, built on latest WP and PHP evolutions.
-  
+* [Meta Optimizer](https://wordpress.org/plugins/meta-optimizer/) - You can use Meta Optimizer to make your WordPress website load faster if you use meta information, for example Post/Comment/User/Term metas.
+
 ## Slow Query and Debugging Plugins
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/) - Query Monitor is a debugging plugin for anyone developing with WordPress.
 * [Debug Bar](https://wordpress.org/plugins/debug-bar/) - Adds a debug menu to the admin bar that shows query, cache, and other helpful debugging information.
