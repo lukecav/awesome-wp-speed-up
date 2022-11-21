@@ -221,6 +221,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [FlashSpeed](https://wordpress.org/plugins/flashspeed/) -  FlashSpeed makes your site lightning fast by disabling unused assets and optimizing resources.
 * [WP Blast](https://wordpress.org/plugins/wpblast/) -  Improve your Wordpress SEO and performance by using dynamic rendering. Prerender your website and generate an easy-to-crawl website.
 * [Booster Sweeper](https://wordpress.org/plugins/booster-sweeper/) -  Booster Sweeper helps you to optimize the Website speed further over the common caching and code minification plugins.
+* [Falcon](https://wordpress.org/plugins/falcon/) -  WordPress optimizations & tweaks.
 
 ## Database Optimization Plugins
 * [WP-Optimize](https://wordpress.org/plugins/wp-optimize/) - WP-Optimize is an effective tool for automatically cleaning your WordPress database so that it runs at maximum efficiency.
