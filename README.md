@@ -167,7 +167,6 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [reGenerate Thumbnails Advanced](https://wordpress.org/plugins/regenerate-thumbnails-advanced/) - Regenerate thumbnails fast and easy while removing unused thumbnails of existing images; very useful when changing a theme.
   
 ## Reduce HTTP Requests on Load Plugins
-* [Heartbeat Control](https://wordpress.org/plugins/heartbeat-control/) - Allows you to easily manage the frequency of the WordPress heartbeat API with just a few dropdowns.
 * [Disable Emoji](https://wordpress.org/plugins/disable-emojis/) - This plugin disables the new WordPress emoji functionality.
 * [Disable Emojis](https://www.littlebizzy.com/plugins) - Completely disables both the old and new versions of WordPress emojis, removes the corresponding javascript calls, and improves page loading times.
 * [Emoji Settings](https://wordpress.org/plugins/emoji-settings/) - Emoji Settings adds an option within your Writing Settings page to disable or enable emojis.
