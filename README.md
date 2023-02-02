@@ -44,6 +44,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [NitroPack](https://wordpress.org/plugins/nitropack/) - A site performance optimization plugin.
 * [ezCache](https://wordpress.org/plugins/ezcache/) - EzCash is an easy and innovative cache plugin that will help you significantly improve your site speed.
 * [Surge](https://wordpress.org/plugins/surge/) - A fast and simple page caching plugin for WordPress.
+* [SpeedyCache](https://wordpress.org/plugins/speedycache/) - SpeedyCache is a plugin that helps you reduce the load time of your website by means of caching, minification, and compression of your website.
 
 ## Object Caching Plugins
 * [Object Cache Pro](https://objectcache.pro/?ref=luke) - A business class Redis object cache backend for WordPress.
