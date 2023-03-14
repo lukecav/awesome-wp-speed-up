@@ -312,6 +312,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Encute](https://wordpress.org/plugins/encute/) -  Fluent management of scripts and styles.
 * [Cache Purge Helper](https://wordpress.org/plugins/cache-purge-helper/) -  Adding additional hooks to trigger nginx-helper or lscache plugin purges.
 * [GDPR Cache Scripts & Styles](https://wordpress.org/plugins/gdpr-cache-scripts-styles/) -  Caches external scripts and styles and serves them from your local website to make it more compliant with GDPR regulations.
+* [Ajax loader + Cache](https://wordpress.org/plugins/ajax-loader-cache/) -  Ajax loading + built-in cache for WordPress, compatible with other cache plugins like WP-Rocket.
   
 ## WP-CLI Commands and Packages
 * [WP Orphans](https://github.com/liquidweb/wp-orphans) - Locate and remove orphaned media from the WordPress media library.
