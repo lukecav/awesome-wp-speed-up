@@ -101,6 +101,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [RocketCDN](https://wordpress.org/plugins/rocketcdn/) - RocketCDN automatically rewrites all URLs to be served by our content delivery network (CDN). Easy CDN deployment to WordPress.
 * [Replace Google Fonts with Bunny Fonts](https://wordpress.org/plugins/replace-google-fonts-with-bunny-fonts/) - Easily replace Google Fonts with Bunny Fonts.
 * [FlyingProxy](https://wordpress.org/plugins/flyingproxy/) - Next generation cloud built for WordPress.
+* [FastPixel Website Accelerator](https://wordpress.org/plugins/fastpixel-website-accelerator/) - Faster WordPress made easy - the latest technology to speed up your website, packaged in a 1-minute setup plugin.
 
 ## Image Optimization Plugins
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
