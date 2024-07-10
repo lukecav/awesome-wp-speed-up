@@ -36,7 +36,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Hyper Cache](https://wordpress.org/plugins/hyper-cache/) - Hyper Cache is a cache plugin specifically written to get the maximum speed for your WordPress site.
 * [Powered Cache](https://wordpress.org/plugins/powered-cache/) - Comprehensive caching and performance plugin for WordPress.
 * [Redis Page Cache for WordPress](https://github.com/pressjitsu/pj-page-cache-red) - A Redis-backed full page caching plugin for WordPress, extremely flexible and fast. Requires a running Redis server and the PHP Redis PECL extension.
-* [Varnish Caching](https://github.com/razvanstanga/varnish-caching-wordpress-plugin) - Complete Wordpress Varnish Cache 3.x/4.x integration.
+* [Varnish Caching](https://github.com/razvanstanga/varnish-caching-wordpress-plugin) - Complete WordPress Varnish Cache 3.x/4.x integration.
 * [Breeze](https://wordpress.org/plugins/breeze/) - Breeze is a WordPress cache plugin with extensive options to speed up your website. All the options including Varnish Cache are compatible with Cloudways hosting.
 * [Pantheon Advanced Page Cache](https://wordpress.org/plugins/pantheon-advanced-page-cache/) - Automatically clear related pages from Pantheon's Edge when you update content. High TTL. Fresh content. Visitors never wait.
 * [LiteSpeed Cache](https://wordpress.org/plugins/litespeed-cache/) - WordPress plugin to connect to LSCache on LiteSpeed Web Server.
@@ -69,7 +69,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Merge + Minify + Refresh](https://wordpress.org/plugins/merge-minify-refresh/) - Merge/Concatenate & Minify CSS & JS.
 * [Minify HTML](https://www.littlebizzy.com/plugins/) - Tactfully minifies HTML output and markup to remove line breaks, whitespace, comments, and other code bloat to cleanup source code and improve speed.
 * [RapidLoad Power-Up for Autoptimize](https://wordpress.org/plugins/unusedcss/) - Makes your site even faster and lighter by automatically removing Unused CSS from your website.
-* [Torque](https://wordpress.org/plugins/torque/) - Make your Wordpress website noticably faster by optimising how it is delivered. Analyse your website's performance and security, minify and combine your assets, and configure an array of performance and security settings quickly and easily with this comprehensive plugin. Achieves the best compression of any minification.
+* [Torque](https://wordpress.org/plugins/torque/) - Make your WordPress website noticeably faster by optimising how it is delivered. Analyse your website's performance and security, minify and combine your assets, and configure an array of performance and security settings quickly and easily with this comprehensive plugin. Achieves the best compression of any minification.
 * [SCSS WP Editor](https://wordpress.org/plugins/scss-wp-editor/) - WP SCSS Editor will provide you to add SCSS from your WordPress admin. You just need to add your SCSS and save it.
 * [ShortPixel Critical CSS](https://wordpress.org/plugins/shortpixel-critical-css/) - Use ShortPixel's Critical CSS web service to automatically create the required CSS for above the fold.
 
@@ -138,7 +138,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Robin image optimizer](https://wordpress.org/plugins/robin-image-optimizer/) - Optimize images without losing quality, speed up your website load, improve SEO and save money on server and CDN bandwidth.
 * [Crush.pics – Image Compression and Optimization](https://wordpress.org/plugins/crush-pics/) - Image Compression and Optimization using Crush.pics API.
 * [Image CDN – WordPress CDN Plugin](https://wordpress.org/plugins/image-cdn/) - Optimize your WordPress site with ImageEngine or another Image CDN (or any other Content Delivery Network).
-* [Abraia](https://wordpress.org/plugins/abraia/) - Bulk optimize your Wordpress images with Abraia.
+* [Abraia](https://wordpress.org/plugins/abraia/) - Bulk optimize your WordPress images with Abraia.
 * [CompressWP](https://wordpress.org/plugins/compresswp-optimize-and-compress-jpeg-and-png-images/) - Optimize JPEG and PNG images to significantly improve your page load speeds.
 * [NutsForPress Images and Media](https://wordpress.org/plugins/nutsforpress/) - NutsForPress Images and Media is an essential companion for having your images and your meta in perfect order. Images and Media automatically resizes images, compresses JPGs, bulk rebuilds thumbnails and PDF previews, writes automatically and bulk rewrites your attachments meta.
 * [Giga WebP Image Converter](https://wordpress.org/plugins/giga-webp-image-converter/) - Convert images with ease for free: reduce image sizes without deleting the originals. Improve Google Site Speed Score and SEO.
@@ -151,7 +151,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Compress Images with Squeezeimg](https://wordpress.org/plugins/compress-images-with-squeezeimg/) - The "Compress Images with Squeezeimg" plugin helps to optimize all your images and improve the performance of your website.
 * [reSmush.it Image Optimizer](https://wordpress.org/plugins/resmushit-image-optimizer/) - Image Optimization API. Provides image size optimization.
 * [Aspose Image Optimizer](https://wordpress.org/plugins/aspose-image-optimizer/) - Optimizes images inside the WordPress directory and its sub-directories.
-* [Quicq for WebP images](https://wordpress.org/plugins/quicq/) - Quicq integration for Wordpress.
+* [Quicq for WebP images](https://wordpress.org/plugins/quicq/) - Quicq integration for WordPress.
 * [Converter for Media – Optimize images | Convert WebP & AVIF](https://wordpress.org/plugins/webp-converter-for-media/) - Speed up your website using our ease image optimizer by serving WebP and AVIF images.
 * [Imsanity](https://wordpress.org/plugins/imsanity/) - Automatically resize huge image uploads with Imsanity. 
 * [Avif Express](https://wordpress.org/plugins/avif-express/) - Converts Images to AVIF.
@@ -183,11 +183,11 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Machete](https://wordpress.org/plugins/machete/) - Machete is a lean and simple suite of tools that solve common WordPress anoyances: cookie bar, tracking codes, header cleanup.
 * [Disable User Gravatar](https://wordpress.org/plugins/disable-user-gravatar/) - Stops wordpress from automatically grabbing the users' gravatar with their registered email.
 * [Disable Author Pages](https://github.com/staude/disable-author-pages/) - Disable the author pages in WordPress and redirect to the homepage.
-* [Complete Analytics Optimization Suite (CAOS)](https://wordpress.org/plugins/host-analyticsjs-local/) - A plugin that allows you to completely optimize Google Analytics for your Wordpress Website: host analytics.js locally, keep it updated using wp_cron(), anonymize IP, disable tracking of admins, place tracking code in footer, and more.
+* [Complete Analytics Optimization Suite (CAOS)](https://wordpress.org/plugins/host-analyticsjs-local/) - A plugin that allows you to completely optimize Google Analytics for your WordPress Website: host analytics.js locally, keep it updated using wp_cron(), anonymize IP, disable tracking of admins, place tracking code in footer, and more.
 * [Cache External Scripts](https://wordpress.org/plugins/cache-external-scripts/) - This plugin allows you to cache the Google Analytics JavaScript file to be cached for more than 2 hours.
 * [WordPress WPO Tweaks](https://wordpress.org/plugins/wpo-tweaks/) - Several WPO Optimisations to Speed Up WordPress and get better results in Google PageSpeed, GTMetrix and Pingdom Tools.
 * [Webcraftic Disable Comments](https://wordpress.org/plugins/comments-plus/) - Allows administrators to globally disable comments on their site. Comments can be disabled for individual record types.
-* [Webcraftic Clearfy - disable unused features](https://wordpress.org/plugins/clearfy/) - Disables unused Wordpress features, improves performance and increases SEO rankings, using Clearfy, which makes WordPress very easy.
+* [Webcraftic Clearfy - disable unused features](https://wordpress.org/plugins/clearfy/) - Disables unused WordPress features, improves performance and increases SEO rankings, using Clearfy, which makes WordPress very easy.
 * [Remove Emoji Styles & Scripts](https://wordpress.org/plugins/remove-emoji-styles-scripts/) - If you do not want or need Emoji it is best to remove/dequeue Emoji styles and scripts for better performance.
 * [Native Performance](https://wordpress.org/plugins/native-performance/) - Native Performance is an all-in-one complement that integrates, in a complete and robust core, a set of tools for the solution of common errors, optimization, performance and much more.
 * [Disable WordPress Events and News Dashboard Widget](https://wordpress.org/plugins/disable-events-and-news-dashboard-widget/) -  Disable WordPress Events and News widget from the dashboard.
@@ -207,7 +207,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Speed Booster By Melotheme](https://wordpress.org/plugins/speed-booster-by-melotheme/) -  Easy WordPress website Speed & Performance optimization with one click.
 * [WP Utility and Performance](https://wordpress.org/plugins/wp-utility-and-performance/) -  Allows you to remove unused resources and improve speed and performance of your WordPress website.
 * [Freesoul Deactivate Plugins](https://wordpress.org/plugins/freesoul-deactivate-plugins/) -  Freesoul Deactivate Plugins allows you to disable specific plugins on specific pages. Useful to reach excellent performance and for support in problem-solving even when many plugins are active.
-* [Local Gravatars](https://wordpress.org/plugins/local-gravatars/) -  Locally host gravatars - for the privacy concious.
+* [Local Gravatars](https://wordpress.org/plugins/local-gravatars/) -  Locally host gravatars - for the privacy conscious.
 * [Flying Fonts by WP Speed Matters](https://wordpress.org/plugins/flying-fonts/) -  Remove Google Fonts and Use System Fonts.
 * [AutoTweaks](https://wordpress.org/plugins/autotweaks/) -  AutoTweaks configures a series of default options to WordPress.
 * [WP Inline Cacher](https://wordpress.org/plugins/wp-inline-cacher/) -  Speed up your website by automatically inlining your stylesheets for first-time visitors.
@@ -221,7 +221,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Ajax Press](https://wordpress.org/plugins/ajax-press/) -  Easily Enable Fast Ajax Navigation. Loads content without page reload.
 * [Speed Booster for Elementor](https://wordpress.org/plugins/speed-booster-for-elementor/) -  Speed Booster for Elementor - optimize the loading of Elementor page builder.
 * [FlashSpeed](https://wordpress.org/plugins/flashspeed/) -  FlashSpeed makes your site lightning fast by disabling unused assets and optimizing resources.
-* [WP Blast](https://wordpress.org/plugins/wpblast/) -  Improve your Wordpress SEO and performance by using dynamic rendering. Prerender your website and generate an easy-to-crawl website.
+* [WP Blast](https://wordpress.org/plugins/wpblast/) -  Improve your WordPress SEO and performance by using dynamic rendering. Prerender your website and generate an easy-to-crawl website.
 * [Booster Sweeper](https://wordpress.org/plugins/booster-sweeper/) -  Booster Sweeper helps you to optimize the Website speed further over the common caching and code minification plugins.
 * [Falcon](https://wordpress.org/plugins/falcon/) -  WordPress optimizations & tweaks.
 * [Admin Speedo](https://wordpress.org/plugins/admin-speedo/) -  Speed-up your slow WordPress Admin Dashboard with one click. Just activate it, and your admin panel will be boosted.
@@ -273,7 +273,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Cache Enabler rebuild cache Based on sitemap.xml](https://gist.github.com/iyaozhen/53e6a57a2f7e945ba1161953959a7cb2) - According to sitemap.xml rebuild cache in Cache Enabler.
 * [Object Cache Flusher Button](https://github.com/georgestephanis/object-cache-flusher-button) - This plugin adds a button to the adminbar that simply flushes the object cache.
 * [Cache Blocks](https://github.com/WordPressUtilities/wpucacheblocks) - Cache blocks.
-* [Shin's Pageload Magic](https://wordpress.org/plugins/shins-pageload-magic/) - A lightweight Wordpress plugin that dramatically boosts your page's render speed.
+* [Shin's Pageload Magic](https://wordpress.org/plugins/shins-pageload-magic/) - A lightweight WordPress plugin that dramatically boosts your page's render speed.
 * [Async JavaScript](https://wordpress.org/plugins/async-javascript/) - Async JavaScript adds a 'async' or 'defer' attribute to scripts loaded via wp_enqueue_script.
 * [PageSpeed Purge Button](https://wordpress.org/plugins/wp-purge-pagespeed-button/) - One-click PageSpeed cache purging using an admin bar button.
 * [Cache Version](https://github.com/kasparsd/cache-version) - Adds a version number (a timestamp) of all content that can be used in cache keys.
@@ -307,8 +307,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [WP Meteor](https://wordpress.org/plugins/wp-meteor/) -  Improves your page speed, even on top of your existing optimizations.
 * [Staatic](https://wordpress.org/plugins/staatic/) -  Staatic for WordPress allows you to generate a highly optimized static version of your WordPress site.
 * [Core Web Vitals & PageSpeed Booster](https://wordpress.org/plugins/core-web-vitals-pagespeed-booster/) -  Do you want to speed up your WordPress site? Fast loading pages improve user experience, increase your pageviews, and help with your WordPress SEO.
-* [The Cache Purger](https://wordpress.org/plugins/the-cache-purger/) -  Plugin attemps to clear all plugin based and server based caches.
-* [HTTP2 push content](https://wordpress.org/plugins/http2-push-content/) -  Push all CSS and JS file throuhg http2 server, plugin add extra files that you want to push like images font files.
+* [The Cache Purger](https://wordpress.org/plugins/the-cache-purger/) -  Plugin attempts to clear all plugin based and server based caches.
+* [HTTP2 push content](https://wordpress.org/plugins/http2-push-content/) -  Push all CSS and JS file through http2 server, plugin add extra files that you want to push like images font files.
 * [Encute](https://wordpress.org/plugins/encute/) -  Fluent management of scripts and styles.
 * [Cache Purge Helper](https://wordpress.org/plugins/cache-purge-helper/) -  Adding additional hooks to trigger nginx-helper or lscache plugin purges.
 * [GDPR Cache Scripts & Styles](https://wordpress.org/plugins/gdpr-cache-scripts-styles/) -  Caches external scripts and styles and serves them from your local website to make it more compliant with GDPR regulations.
@@ -343,7 +343,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Artillery](https://github.com/shoreditch-ops/artillery) - Artillery is a modern, powerful, easy-to-use load-testing toolkit. Artillery has a strong focus on developer happiness & ease of use, and a batteries-included philosophy.
 * [Serverless Artillery](https://github.com/Nordstrom/serverless-artillery) - Combine serverless with artillery and you get serverless-artillery (a.k.a. serverless-artillery) for instant, cheap, and easy performance testing at scale.
 * [Gatling](https://github.com/gatling/gatling) - Gatling is a stress tool. Development is currently focusing on HTTP support.
-* [Seige](https://github.com/JoeDog/siege) - Siege is an open source regression test and benchmark utility. It can stress test a single URL with a user defined number of simulated users, or it can read many URLs into memory and stress them simultaneously.
+* [Siege](https://github.com/JoeDog/siege) - Siege is an open source regression test and benchmark utility. It can stress test a single URL with a user defined number of simulated users, or it can read many URLs into memory and stress them simultaneously.
 * [Tsung](https://github.com/processone/tsung) - Tsung is multi-protocol distributed load testing tool.
 * [Wrk](https://github.com/wg/wrk) - Wrk is a modern HTTP benchmarking tool capable of generating significant load when run on a single multi-core CPU. It combines a multithreaded design with scalable event notification systems such as epoll and kqueue.
 * [Boom2](https://github.com/tarekziade/boom2) - Like Boom, but based on Molotov.
