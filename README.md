@@ -394,6 +394,7 @@ your web-apps & apis with thousands of concurrent connections.
 * [Get to know New Relic Reporting for WordPress](https://10up.com/blog/2017/new-relic-wordpress/) - New Relic is a SaaS product that offers application performance monitoring (APM), which provides developers with real-time data for use in proactive diagnostics as well as debugging. This data—including basic information about WordPress hooks, plugins, and themes—can be queried and visualized using the New Relic Insights dashboard.
 * [What Is HTTP/3 – Lowdown on the Fast New UDP-Based Protocol](https://kinsta.com/blog/http3/) - HTTP/3 builds on User Datagram Protocol (UDP), and is already being used by prominent internet companies such as Google and Facebook.
 * [Special infrastructure for web applications](https://github.com/szepeviktor/infrastructure-for-hosting-web-applications) - Build infrastructure for web applications following Viktor's policy on providing services.
+* [AI-Powered WordPress](https://www.manning.com/books/ai-powered-wordpress) - A book that enables anyone to harness artificial intelligence to create impressive and professional-looking WordPress websites.
 
 Hope this was helpful.
 
