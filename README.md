@@ -100,7 +100,6 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [Amazon AWS CDN](https://wordpress.org/plugins/aws-cdn-by-wpadmin/) - Setup Amazon Cloudfront CDN for your website. Now with intuitive layout and more flexibility. Also supports WordPress Multisite installation.
 * [RocketCDN](https://wordpress.org/plugins/rocketcdn/) - RocketCDN automatically rewrites all URLs to be served by our content delivery network (CDN). Easy CDN deployment to WordPress.
 * [Replace Google Fonts with Bunny Fonts](https://wordpress.org/plugins/replace-google-fonts-with-bunny-fonts/) - Easily replace Google Fonts with Bunny Fonts.
-* [FlyingProxy](https://wordpress.org/plugins/flyingproxy/) - Next generation cloud built for WordPress.
 * [FastPixel Website Accelerator](https://wordpress.org/plugins/fastpixel-website-accelerator/) - Faster WordPress made easy - the latest technology to speed up your website, packaged in a 1-minute setup plugin.
 
 ## Image Optimization Plugins
