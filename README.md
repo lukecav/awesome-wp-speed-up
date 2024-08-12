@@ -45,7 +45,8 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [ezCache](https://wordpress.org/plugins/ezcache/) - EzCash is an easy and innovative cache plugin that will help you significantly improve your site speed.
 * [Surge](https://wordpress.org/plugins/surge/) - A fast and simple page caching plugin for WordPress.
 * [SpeedyCache](https://wordpress.org/plugins/speedycache/) - SpeedyCache is a plugin that helps you reduce the load time of your website by means of caching, minification, and compression of your website.
-
+* [Solid Performance](https://wordpress.org/plugins/solid-performance/) - Optimize site performance, boost PageSpeed, and serve a faster website with this simple site optimization tool from SolidWP. Easy page caching setup will accelerate your site in minutes with only a couple of clicks.
+  
 ## Object Caching Plugins
 * [Object Cache Pro](https://objectcache.pro/?ref=luke) - A business class Redis object cache backend for WordPress.
 * [Redis Object Cache](https://wordpress.org/plugins/redis-cache/) - A persistent object cache backend powered by Redis. Supports Predis, PhpRedis (PECL), HHVM, replication, clustering and WP-CLI. 
