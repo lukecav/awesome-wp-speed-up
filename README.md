@@ -103,6 +103,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [FastPixel Website Accelerator](https://wordpress.org/plugins/fastpixel-website-accelerator/) - Faster WordPress made easy - the latest technology to speed up your website, packaged in a 1-minute setup plugin.
 
 ## Image Optimization Plugins
+* [External Images Plugin](https://externalimagesplugin.com/) - External Images Plugin, lets WordPress and WooCommerce load images from external URLs or CDNs, saving server space and improving load times.
 * [EWWW Image Optimizer](https://wordpress.org/plugins/ewww-image-optimizer/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
 * [EWWW Image Optimizer Cloud](https://wordpress.org/plugins/ewww-image-optimizer-cloud/) - The EWWW Image Optimizer is a WordPress plugin that will automatically optimize your images as you upload them to your blog.
 * [TinyPNG](https://wordpress.org/plugins/tiny-compress-images/) - Make your website faster by optimizing your JPEG and PNG images. This plugin automatically optimizes all your images by integrating with the popular image compression services TinyJPG and TinyPNG.
