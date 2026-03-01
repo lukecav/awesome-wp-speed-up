@@ -332,6 +332,7 @@ Plugins and resources to speed up and optimize your WordPress site.
 * [GTmetrix](https://gtmetrix.com/) - Start optimizing your site! GTmetrix provides explanations for each recommendation, and gives you actionable advice.
 * [Pingdom](https://tools.pingdom.com/) - Enter a URL to test the load time of that page, analyze it and find bottlenecks.
 * [DebugBear Speed Test](https://www.debugbear.com/test/website-speed) - Test website speed and get performance recommendations.
+* [PageGuard](https://pageguard.org) - Free all-in-one website health scanner: check SEO, performance, ADA accessibility, and best practices in 30 seconds.
 
 ## Load Impact Tools
 * [Locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python.
